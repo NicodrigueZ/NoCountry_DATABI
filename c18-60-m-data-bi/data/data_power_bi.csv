@@ -1,0 +1,4077 @@
+Producto_Detalles_Vistos,Cantidad_Actividades_Sesión,Cantidad_Artículos_En_Carro,Cantidad_Artículos_Eliminados_Carro,Cantidad_Visitas_Carro,Confirmaciones_Compra,Inicios_Pago,Vistas_Productos_Carro,Inicios_Sesión_Cliente,Vistas_Páginas,Segmento_Cliente,Abandono_Carro
+Si,4,1,0,0,0,0,1,0,0,Cliente Objetivo,Si
+No,38,0,0,2,0,0,2,0,2,Cliente Objetivo,Si
+No,8,5,0,0,1,1,1,0,0,Cliente Leal,No
+No,6,0,0,2,0,0,4,0,0,Cliente Objetivo,Si
+Si,13,6,0,0,0,1,1,0,5,Cliente Leal,Si
+No,14,4,1,0,1,1,1,0,0,Cliente Leal,No
+No,7,1,0,1,0,1,1,0,3,Cliente Objetivo,Si
+No,13,8,1,1,0,0,1,0,1,Cliente Leal,Si
+No,17,4,1,1,1,2,2,1,1,Cliente Leal,No
+No,20,5,10,1,0,0,1,0,2,Cliente No Segmentado,Si
+No,8,2,0,1,0,2,1,0,4,Cliente Leal,Si
+No,9,2,0,1,0,1,4,0,1,Cliente Leal,Si
+Si,8,2,0,1,0,1,2,0,1,Cliente Leal,Si
+No,3,2,0,1,0,1,2,0,0,Cliente Leal,Si
+No,31,2,0,1,0,7,13,0,3,Cliente Leal,Si
+Si,6,2,1,0,0,0,1,0,1,Cliente Leal,Si
+Si,7,2,0,2,0,1,3,0,0,Cliente Leal,Si
+No,35,2,8,6,0,2,1,1,9,Cliente No Segmentado,Si
+No,8,2,0,0,0,0,2,0,3,Cliente Leal,Si
+Si,6,3,0,0,0,0,1,0,1,Cliente Leal,Si
+No,18,11,1,2,0,0,4,0,5,Cliente Leal,Si
+No,6,2,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,6,1,0,0,0,1,2,0,2,Cliente Objetivo,Si
+No,14,6,0,0,0,1,5,0,2,Cliente Leal,Si
+No,14,5,0,1,1,1,0,1,2,Cliente Leal,No
+No,30,3,0,11,2,4,2,0,8,Cliente Leal,No
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,7,4,0,1,0,0,1,0,0,Cliente Leal,Si
+Si,13,8,0,2,0,0,2,0,0,Cliente Leal,Si
+No,16,6,0,2,0,2,2,0,4,Cliente Leal,Si
+Si,6,2,0,2,0,1,0,0,1,Cliente Objetivo,Si
+No,6,0,0,2,0,1,0,0,2,Cliente Objetivo,Si
+Si,20,0,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,12,7,0,1,0,1,1,0,2,Cliente Leal,Si
+No,26,5,4,8,0,2,5,1,1,Cliente No Segmentado,Si
+No,8,1,0,0,0,4,1,0,2,Cliente Objetivo,Si
+No,7,1,0,1,0,2,0,1,2,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,16,1,0,1,0,0,6,0,2,Cliente Objetivo,Si
+Si,3,1,0,1,0,0,0,0,1,Cliente Objetivo,Si
+No,33,3,0,9,1,4,13,0,0,Cliente Leal,No
+No,1,0,0,1,0,0,0,0,0,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,12,7,0,1,0,0,3,0,0,Cliente Leal,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,4,2,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,19,5,3,2,0,1,2,1,2,Cliente No Segmentado,Si
+Si,19,3,1,0,0,0,3,0,7,Cliente Leal,Si
+Si,10,0,0,3,0,0,1,0,3,Cliente Objetivo,Si
+No,9,3,0,1,0,1,1,0,3,Cliente Leal,Si
+No,10,1,0,3,1,2,0,0,3,Cliente Objetivo,No
+No,9,1,0,4,0,0,3,0,0,Cliente Objetivo,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+Si,18,8,0,0,0,0,1,0,8,Cliente Leal,Si
+No,8,4,0,0,0,1,1,0,2,Cliente Leal,Si
+Si,6,2,0,0,0,0,2,0,0,Cliente Objetivo,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,15,3,0,6,0,0,5,0,1,Cliente Leal,Si
+No,12,1,0,0,0,0,1,0,4,Cliente Objetivo,Si
+No,7,3,0,0,0,1,1,0,2,Cliente Leal,Si
+No,29,4,0,1,1,1,1,0,10,Cliente Leal,No
+No,10,3,0,4,0,1,0,0,2,Cliente Leal,Si
+Si,8,3,2,0,0,0,0,0,1,Cliente No Segmentado,Si
+No,8,0,0,3,0,0,2,0,3,Cliente Objetivo,Si
+No,31,7,2,0,0,2,9,0,5,Cliente No Segmentado,Si
+Si,8,4,0,1,0,0,0,0,2,Cliente Leal,Si
+No,18,3,2,3,1,1,3,1,3,Cliente No Segmentado,No
+No,6,1,0,0,0,1,1,1,2,Cliente Objetivo,Si
+No,14,3,4,0,1,1,1,1,2,Cliente No Segmentado,No
+No,17,2,0,1,0,0,5,0,0,Cliente Objetivo,Si
+Si,6,2,0,0,0,0,1,0,2,Cliente Objetivo,Si
+Si,23,9,2,4,0,0,2,0,5,Cliente No Segmentado,Si
+No,9,2,0,1,0,0,3,0,1,Cliente Objetivo,Si
+No,13,3,2,3,0,1,1,0,3,Cliente No Segmentado,Si
+No,42,8,2,5,1,1,3,1,14,Cliente No Segmentado,No
+Si,5,2,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,10,0,0,1,1,2,1,0,3,Cliente Objetivo,No
+No,3,0,0,2,0,0,0,0,1,Cliente Objetivo,Si
+Si,3,1,0,0,0,0,2,0,0,Cliente Objetivo,Si
+No,23,3,1,5,0,0,5,0,6,Cliente Leal,Si
+No,46,0,0,3,0,1,1,0,9,Cliente Objetivo,Si
+No,53,0,0,7,1,14,31,0,0,Cliente Objetivo,No
+No,36,3,0,14,0,7,10,0,2,Cliente Leal,Si
+No,8,2,0,0,0,1,2,0,3,Cliente Objetivo,Si
+No,5,0,0,2,0,0,3,0,0,Cliente Objetivo,Si
+Si,9,4,0,3,0,0,1,0,0,Cliente Leal,Si
+Si,32,11,0,3,0,1,5,0,11,Cliente Leal,Si
+Si,4,1,0,0,0,0,0,0,1,Cliente Objetivo,Si
+No,17,6,1,3,1,1,2,1,2,Cliente Leal,No
+Si,4,1,2,0,0,0,0,0,0,Cliente Objetivo,Si
+Si,36,5,0,7,0,3,20,0,1,Cliente Leal,Si
+No,2,0,0,2,0,0,0,0,0,Cliente Objetivo,Si
+Si,7,1,4,1,0,0,0,0,1,Cliente No Segmentado,Si
+No,22,3,2,8,0,1,2,0,6,Cliente No Segmentado,Si
+Si,5,1,2,1,0,0,0,0,1,Cliente Objetivo,Si
+No,2,0,0,1,0,0,0,0,1,Cliente Objetivo,Si
+Si,13,1,0,0,0,1,0,0,2,Cliente Objetivo,Si
+No,5,0,0,1,0,0,1,0,1,Cliente Objetivo,Si
+Si,8,2,0,2,0,1,1,0,2,Cliente Objetivo,Si
+No,5,1,0,0,0,0,2,0,1,Cliente Objetivo,Si
+No,94,8,2,3,1,2,1,1,5,Cliente No Segmentado,No
+No,7,0,0,0,1,2,0,1,3,Cliente Objetivo,No
+No,6,3,1,0,0,0,0,0,0,Cliente Leal,Si
+Si,3,1,0,1,0,0,0,0,0,Cliente Objetivo,Si
+No,1,0,0,1,0,0,0,0,0,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,13,6,0,2,0,1,3,0,1,Cliente Leal,Si
+No,15,5,1,1,1,1,3,1,2,Cliente Leal,Si
+No,10,4,0,0,1,1,1,1,1,Cliente Leal,No
+No,5,0,0,0,0,1,0,1,3,Cliente Objetivo,Si
+No,10,2,0,2,0,2,4,0,0,Cliente Objetivo,Si
+Si,4,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,25,2,0,1,0,1,20,0,0,Cliente Objetivo,Si
+Si,20,7,2,0,0,0,7,0,3,Cliente No Segmentado,Si
+No,7,1,0,1,0,0,5,0,0,Cliente Objetivo,Si
+No,21,9,0,8,0,0,3,0,1,Cliente Leal,Si
+No,14,2,0,6,1,2,0,0,3,Cliente Objetivo,No
+Si,32,10,9,2,0,0,1,0,6,Cliente No Segmentado,Si
+No,1,0,0,1,0,0,0,0,0,Cliente Objetivo,Si
+Si,17,0,0,1,0,0,1,0,2,Cliente Objetivo,Si
+No,15,3,3,1,0,0,2,0,4,Cliente No Segmentado,Si
+No,10,6,0,0,0,1,1,0,2,Cliente Leal,Si
+No,18,4,0,2,1,1,4,0,1,Cliente Leal,No
+No,21,0,0,3,0,1,1,0,5,Cliente Objetivo,Si
+No,9,3,0,2,0,1,1,0,2,Cliente Leal,Si
+No,11,0,0,2,2,5,2,0,0,Cliente Objetivo,No
+No,6,0,0,3,0,1,0,0,2,Cliente Objetivo,Si
+No,7,3,0,0,0,1,1,0,2,Cliente Leal,Si
+No,4,0,0,1,0,3,0,0,0,Cliente Objetivo,Si
+No,9,3,1,1,0,1,1,0,2,Cliente Leal,Si
+Si,5,1,0,0,0,0,2,0,1,Cliente Objetivo,Si
+No,34,9,10,7,0,0,3,0,4,Cliente No Segmentado,Si
+No,10,4,1,1,0,1,1,0,2,Cliente Leal,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,12,4,0,1,0,0,3,0,1,Cliente Leal,Si
+No,23,2,4,3,1,3,1,0,9,Cliente No Segmentado,No
+Si,7,1,0,0,0,0,2,0,1,Cliente Objetivo,Si
+Si,2,0,0,0,0,0,0,0,1,Cliente Objetivo,Si
+No,1,0,0,0,0,1,0,0,0,Cliente Objetivo,Si
+Si,7,3,0,1,0,1,0,0,2,Cliente Leal,Si
+No,31,10,13,2,0,1,1,1,2,Cliente No Segmentado,Si
+No,10,3,0,1,0,1,2,0,2,Cliente Leal,Si
+No,8,1,1,2,0,1,0,1,2,Cliente Objetivo,Si
+No,7,0,0,0,0,0,1,0,3,Cliente Objetivo,Si
+No,3,0,0,1,0,0,2,0,0,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,4,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,10,2,0,0,0,1,1,0,0,Cliente Objetivo,Si
+No,10,4,0,1,0,1,2,0,1,Cliente Leal,Si
+Si,11,3,0,1,0,1,2,0,3,Cliente Leal,Si
+No,13,8,0,1,0,1,1,0,2,Cliente Leal,Si
+Si,15,6,0,0,0,0,0,0,9,Cliente Leal,Si
+No,11,0,0,0,1,1,1,0,1,Cliente Objetivo,No
+Si,9,4,0,0,0,0,1,0,1,Cliente Leal,Si
+No,15,2,0,1,1,1,2,0,7,Cliente Objetivo,No
+No,55,0,0,29,0,3,14,0,0,Cliente Objetivo,Si
+No,7,0,0,2,0,1,2,0,2,Cliente Objetivo,Si
+No,6,0,0,2,0,1,2,0,1,Cliente Objetivo,Si
+No,14,1,0,2,0,1,1,0,3,Cliente Objetivo,Si
+No,12,6,0,0,1,1,1,1,1,Cliente Leal,Si
+No,23,2,3,4,0,4,1,1,8,Cliente No Segmentado,Si
+Si,8,5,0,1,0,0,1,0,1,Cliente Leal,Si
+No,14,3,1,5,0,2,0,0,3,Cliente Leal,Si
+No,15,10,0,1,0,0,1,0,2,Cliente Leal,Si
+No,13,1,0,0,0,2,4,1,5,Cliente Objetivo,Si
+No,7,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,4,1,0,1,0,1,1,0,0,Cliente Objetivo,Si
+Si,6,2,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,1,1,0,0,0,3,0,0,3,Cliente Objetivo,Si
+No,5,1,0,1,0,2,1,0,0,Cliente Objetivo,Si
+No,21,6,0,3,0,0,10,0,0,Cliente Leal,Si
+Si,4,2,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,5,0,0,1,0,1,2,0,1,Cliente Objetivo,Si
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+No,9,1,0,0,0,1,5,0,0,Cliente Objetivo,Si
+No,1,0,0,0,0,0,3,0,6,Cliente Objetivo,Si
+No,7,2,0,1,0,1,1,1,1,Cliente Objetivo,Si
+No,8,4,0,0,0,1,1,0,2,Cliente Leal,Si
+Si,18,6,0,2,0,0,1,0,7,Cliente Leal,Si
+No,16,0,0,5,0,0,10,0,0,Cliente Objetivo,Si
+No,18,0,0,3,0,1,2,0,3,Cliente Objetivo,Si
+No,2,0,0,0,0,1,1,0,0,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,30,4,0,4,0,3,2,1,15,Cliente Leal,Si
+Si,9,2,0,0,0,3,3,0,1,Cliente Objetivo,Si
+Si,3,1,0,1,0,0,0,0,1,Cliente Objetivo,Si
+No,52,0,0,4,0,1,8,0,11,Cliente Objetivo,Si
+No,5,1,0,0,0,1,0,0,3,Cliente Objetivo,Si
+No,23,10,0,1,0,1,2,0,9,Cliente Leal,Si
+No,8,1,0,0,1,2,3,0,1,Cliente Objetivo,No
+No,108,3,0,1,1,1,2,0,4,Cliente Leal,No
+Si,4,2,1,0,0,0,0,0,0,Cliente Objetivo,Si
+Si,14,4,0,1,0,0,2,0,7,Cliente Leal,Si
+No,10,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+No,36,3,0,0,1,1,0,1,1,Cliente Leal,No
+Si,10,2,3,0,1,1,0,0,3,Cliente No Segmentado,No
+No,10,1,0,1,1,2,1,1,2,Cliente Objetivo,No
+No,10,2,0,2,0,2,1,0,3,Cliente Objetivo,Si
+Si,21,4,0,3,0,2,2,1,3,Cliente Leal,Si
+No,21,0,0,0,1,2,1,0,3,Cliente Objetivo,No
+Si,8,3,0,1,0,0,4,0,0,Cliente Leal,Si
+No,13,1,0,1,2,2,5,0,1,Cliente Objetivo,No
+No,6,3,0,1,0,0,2,0,0,Cliente Leal,Si
+No,9,5,0,1,0,0,1,0,1,Cliente Leal,Si
+No,5,1,0,1,0,0,1,0,1,Cliente Objetivo,Si
+No,23,4,4,1,0,0,1,0,7,Cliente No Segmentado,Si
+No,41,10,1,4,0,1,3,1,12,Cliente Leal,Si
+No,12,0,0,4,0,1,2,0,0,Cliente Objetivo,Si
+No,7,0,0,2,0,1,2,0,1,Cliente Objetivo,Si
+No,12,8,0,0,0,1,1,0,2,Cliente Leal,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+Si,18,8,0,1,0,1,3,0,0,Cliente Leal,Si
+Si,16,9,0,0,0,0,1,0,4,Cliente Leal,Si
+Si,4,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,57,5,40,1,1,1,2,1,1,Cliente No Segmentado,No
+No,15,0,0,1,0,1,1,0,3,Cliente Objetivo,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,10,0,0,9,0,0,0,0,1,Cliente Objetivo,Si
+No,8,3,0,1,0,1,1,0,2,Cliente Leal,Si
+Si,7,3,0,1,0,0,0,0,3,Cliente Leal,Si
+No,12,3,0,3,2,1,3,0,0,Cliente Leal,No
+Si,38,3,32,1,0,0,1,0,1,Cliente No Segmentado,Si
+No,7,1,0,0,0,0,1,0,3,Cliente Objetivo,Si
+No,15,4,0,1,1,1,1,1,1,Cliente Leal,Si
+Si,9,5,0,1,0,0,1,0,1,Cliente Leal,Si
+No,23,1,1,1,0,0,10,0,10,Cliente Objetivo,Si
+Si,6,2,0,0,0,0,2,0,2,Cliente Objetivo,Si
+Si,11,0,0,0,0,0,1,0,2,Cliente Objetivo,Si
+Si,16,4,1,1,0,4,0,0,6,Cliente Leal,Si
+No,22,3,3,7,1,3,1,1,3,Cliente No Segmentado,No
+No,6,0,0,1,0,2,3,0,0,Cliente Objetivo,Si
+Si,15,6,2,0,0,1,2,0,3,Cliente No Segmentado,Si
+No,29,10,4,1,0,1,2,1,8,Cliente No Segmentado,Si
+No,10,1,2,1,1,2,0,1,2,Cliente Objetivo,No
+Si,14,5,0,1,0,0,3,0,1,Cliente Leal,Si
+No,6,1,0,0,0,1,2,0,1,Cliente Objetivo,Si
+No,28,0,0,3,0,2,1,0,7,Cliente Objetivo,Si
+Si,17,7,2,2,0,1,2,0,2,Cliente No Segmentado,Si
+Si,15,5,0,1,0,0,8,0,0,Cliente Leal,Si
+No,7,1,0,1,0,0,4,0,1,Cliente Objetivo,Si
+No,15,2,0,0,1,3,1,1,5,Cliente Objetivo,No
+No,9,3,0,1,0,1,1,1,2,Cliente Leal,Si
+Si,25,11,0,0,0,1,4,0,3,Cliente Leal,Si
+No,5,1,0,0,0,1,2,0,1,Cliente Objetivo,Si
+Si,6,1,2,2,0,0,0,0,1,Cliente Objetivo,Si
+Si,8,1,0,0,0,0,2,0,2,Cliente Objetivo,Si
+No,11,1,0,0,0,2,6,0,2,Cliente Objetivo,Si
+No,5,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,9,0,0,3,1,2,0,0,3,Cliente Objetivo,No
+No,5,1,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,32,5,1,6,2,4,2,0,12,Cliente Leal,No
+No,12,5,0,1,1,1,1,1,1,Cliente Leal,No
+No,16,6,0,0,0,3,2,1,1,Cliente Leal,Si
+Si,9,1,0,1,0,1,2,0,3,Cliente Objetivo,Si
+Si,16,1,0,1,0,0,4,0,9,Cliente Objetivo,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,11,6,0,1,0,1,1,0,2,Cliente Leal,Si
+No,23,7,3,2,0,0,0,0,0,Cliente No Segmentado,Si
+No,8,0,0,0,0,2,2,0,2,Cliente Objetivo,Si
+Si,7,2,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,3,0,0,0,0,1,0,0,2,Cliente Objetivo,Si
+Si,4,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,43,7,0,1,0,0,3,0,5,Cliente Leal,Si
+No,9,3,0,2,0,1,1,0,1,Cliente Leal,Si
+No,7,1,1,2,0,1,0,0,2,Cliente Objetivo,Si
+Si,30,10,0,2,0,0,12,0,2,Cliente Leal,Si
+No,12,4,0,0,0,0,1,0,5,Cliente Leal,Si
+Si,40,11,0,3,0,2,4,0,9,Cliente Leal,Si
+Si,9,2,0,0,0,0,1,0,4,Cliente Objetivo,Si
+No,4,0,0,3,0,0,1,0,0,Cliente Objetivo,Si
+No,26,2,4,7,0,1,2,0,3,Cliente No Segmentado,Si
+No,7,2,0,0,1,1,1,1,1,Cliente Objetivo,No
+No,9,7,0,0,0,1,1,0,0,Cliente Leal,Si
+No,5,1,0,0,0,0,2,0,2,Cliente Objetivo,Si
+No,8,3,0,0,0,1,1,1,1,Cliente Leal,Si
+No,9,4,0,2,0,0,1,0,2,Cliente Leal,Si
+No,23,3,3,5,0,4,1,2,4,Cliente No Segmentado,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,20,9,0,3,0,1,1,0,6,Cliente Leal,Si
+No,11,1,0,2,2,1,0,1,3,Cliente Objetivo,Si
+No,14,0,0,3,1,1,2,0,0,Cliente Objetivo,No
+No,21,2,4,4,0,0,3,0,4,Cliente No Segmentado,Si
+Si,15,4,0,6,0,1,4,0,0,Cliente Leal,Si
+No,9,3,0,2,0,1,1,0,2,Cliente Leal,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,5,0,0,2,0,1,1,0,1,Cliente Objetivo,Si
+Si,15,4,0,9,0,1,0,0,1,Cliente Leal,Si
+Si,8,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+Si,13,1,0,0,0,0,1,0,5,Cliente Objetivo,Si
+No,31,0,0,3,0,1,3,0,10,Cliente Objetivo,Si
+Si,9,3,0,1,1,2,2,0,0,Cliente Leal,No
+No,9,0,0,2,0,1,2,0,1,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,13,4,0,0,0,0,1,0,4,Cliente Leal,Si
+No,10,1,0,1,0,1,7,0,0,Cliente Objetivo,Si
+No,13,2,0,0,2,1,2,1,3,Cliente Objetivo,No
+Si,32,7,10,1,0,0,1,0,10,Cliente No Segmentado,Si
+No,16,1,1,2,0,0,5,0,5,Cliente Objetivo,Si
+No,13,7,0,1,0,1,3,0,1,Cliente Leal,Si
+No,13,4,0,2,0,1,3,0,0,Cliente Leal,Si
+No,14,8,0,1,1,1,1,1,1,Cliente Leal,No
+No,14,7,0,1,0,1,4,0,1,Cliente Leal,Si
+No,5,0,0,1,0,1,2,0,1,Cliente Objetivo,Si
+No,20,8,0,1,0,1,3,0,3,Cliente Leal,Si
+Si,10,1,0,1,0,0,3,0,1,Cliente Objetivo,Si
+No,4,0,0,1,0,2,1,0,0,Cliente Objetivo,Si
+No,1,0,0,0,0,1,0,0,0,Cliente Objetivo,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,12,5,0,1,0,0,2,0,4,Cliente Leal,Si
+Si,21,6,5,2,0,0,1,0,6,Cliente No Segmentado,Si
+No,31,9,0,3,1,1,6,1,2,Cliente Leal,No
+No,5,1,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,8,4,0,0,0,1,1,0,2,Cliente Leal,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,13,7,2,1,0,0,1,0,2,Cliente No Segmentado,Si
+No,33,0,0,1,1,1,0,0,1,Cliente Objetivo,No
+No,11,6,0,1,0,1,1,0,2,Cliente Leal,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,6,2,0,0,0,0,2,0,2,Cliente Objetivo,Si
+No,17,9,0,0,1,1,3,1,2,Cliente Leal,No
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,8,0,0,1,0,0,2,0,4,Cliente Objetivo,Si
+No,32,5,9,2,0,1,4,0,6,Cliente No Segmentado,Si
+No,38,0,0,14,8,8,5,0,3,Cliente Objetivo,No
+No,3,0,0,0,1,1,0,1,0,Cliente Objetivo,No
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,13,8,0,1,0,1,1,0,2,Cliente Leal,Si
+No,7,4,0,0,0,1,1,0,1,Cliente Leal,Si
+Si,2,1,0,0,0,0,0,0,0,Cliente Objetivo,Si
+No,9,5,0,0,0,1,1,0,2,Cliente Leal,Si
+No,26,3,6,5,0,5,1,0,6,Cliente No Segmentado,Si
+No,7,3,0,0,1,1,1,1,0,Cliente Leal,Si
+No,13,1,0,3,1,2,1,1,4,Cliente Objetivo,No
+No,9,1,0,1,0,1,1,0,4,Cliente Objetivo,Si
+No,5,1,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,13,2,0,0,2,3,2,0,4,Cliente Objetivo,No
+No,5,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,19,4,1,3,1,3,1,1,3,Cliente Leal,No
+Si,12,0,0,0,0,0,0,0,2,Cliente Objetivo,Si
+No,5,1,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,12,8,0,0,0,1,1,0,2,Cliente Leal,Si
+No,14,7,0,2,0,0,2,0,1,Cliente Leal,Si
+Si,6,0,1,1,0,1,0,0,3,Cliente Objetivo,Si
+No,12,4,0,3,0,1,2,0,2,Cliente Leal,Si
+No,11,5,0,1,0,1,3,0,1,Cliente Leal,Si
+No,5,0,0,2,0,0,2,0,1,Cliente Objetivo,Si
+No,50,10,33,1,0,2,0,0,4,Cliente No Segmentado,Si
+No,11,6,0,1,0,1,1,0,1,Cliente Leal,Si
+No,4,0,0,0,1,1,1,1,0,Cliente Objetivo,No
+No,2,0,0,1,0,0,0,0,1,Cliente Objetivo,Si
+No,7,1,0,2,1,1,0,0,2,Cliente Objetivo,No
+Si,22,10,0,3,0,0,6,0,0,Cliente Leal,Si
+No,1,0,0,1,0,0,0,0,0,Cliente Objetivo,Si
+No,13,7,0,0,0,1,3,1,1,Cliente Leal,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,15,0,0,1,0,0,3,0,1,Cliente Objetivo,Si
+Si,8,2,0,0,0,0,1,0,5,Cliente Objetivo,Si
+Si,13,5,2,2,0,1,1,0,2,Cliente No Segmentado,Si
+Si,13,6,0,0,0,1,1,0,3,Cliente Leal,Si
+No,15,0,0,6,0,0,9,0,0,Cliente Objetivo,Si
+No,10,4,0,1,0,1,1,0,3,Cliente Leal,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,11,6,0,1,0,0,2,0,1,Cliente Leal,Si
+No,18,4,2,3,0,2,1,1,3,Cliente No Segmentado,Si
+No,12,3,0,0,1,1,1,1,4,Cliente Leal,No
+No,10,1,0,1,0,2,0,1,3,Cliente Objetivo,Si
+Si,2,1,0,0,0,0,0,0,1,Cliente Objetivo,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,8,3,0,1,0,1,2,0,1,Cliente Leal,Si
+No,14,1,0,4,1,3,0,0,5,Cliente Objetivo,No
+Si,6,2,0,0,0,0,2,0,0,Cliente Objetivo,Si
+No,8,2,0,1,1,1,0,1,1,Cliente Objetivo,No
+Si,8,2,2,1,0,1,0,0,2,Cliente No Segmentado,Si
+No,8,5,0,1,0,0,1,0,1,Cliente Leal,Si
+No,24,0,0,1,1,2,6,0,4,Cliente Objetivo,No
+No,11,4,0,0,1,1,2,1,1,Cliente Leal,No
+No,2,0,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,10,0,0,2,0,0,1,0,1,Cliente Objetivo,Si
+No,12,5,1,0,1,1,1,1,1,Cliente Leal,No
+No,5,1,0,1,0,0,2,0,0,Cliente Objetivo,Si
+No,10,0,0,2,0,1,1,0,2,Cliente Objetivo,Si
+No,16,11,0,0,0,1,1,0,3,Cliente Leal,Si
+No,8,0,0,0,0,1,2,0,2,Cliente Objetivo,Si
+Si,6,2,0,0,0,0,1,0,2,Cliente Objetivo,Si
+Si,7,2,0,0,0,0,2,0,1,Cliente Objetivo,Si
+No,11,3,0,2,0,0,1,0,3,Cliente Leal,Si
+No,6,0,0,3,0,2,1,0,0,Cliente Objetivo,Si
+No,4,0,0,1,0,2,1,0,0,Cliente Objetivo,Si
+No,15,2,0,1,0,1,3,1,3,Cliente Objetivo,Si
+No,29,7,0,6,0,0,2,0,9,Cliente Leal,Si
+No,12,5,0,2,0,0,1,0,2,Cliente Leal,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,11,3,0,0,0,0,2,0,2,Cliente Leal,Si
+No,28,7,2,1,0,1,5,0,7,Cliente No Segmentado,Si
+No,8,2,0,1,1,1,1,1,0,Cliente Objetivo,Si
+No,7,0,0,4,0,0,0,0,1,Cliente Objetivo,Si
+Si,9,1,2,0,0,2,0,0,4,Cliente Objetivo,Si
+No,45,8,0,4,1,3,11,0,1,Cliente Leal,No
+No,14,0,0,4,0,2,0,0,8,Cliente Objetivo,Si
+No,14,1,9,1,0,1,0,0,2,Cliente No Segmentado,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,42,11,1,2,1,2,8,0,15,Cliente Leal,No
+No,5,0,0,1,0,0,3,0,0,Cliente Objetivo,Si
+No,4,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,1,0,0,1,0,0,0,0,0,Cliente Objetivo,Si
+No,6,1,0,1,0,1,0,0,3,Cliente Objetivo,Si
+No,4,1,0,0,0,0,2,0,1,Cliente Objetivo,Si
+Si,40,0,0,1,0,0,5,0,13,Cliente Objetivo,Si
+No,6,0,0,1,0,1,1,0,3,Cliente Objetivo,Si
+Si,25,3,4,1,0,0,4,0,8,Cliente No Segmentado,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+Si,10,4,0,1,0,0,1,0,4,Cliente Leal,Si
+No,10,0,0,0,1,1,2,0,1,Cliente Objetivo,No
+Si,11,6,1,1,0,0,2,0,0,Cliente Leal,Si
+No,1,4,0,1,0,2,3,0,1,Cliente Leal,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,16,0,0,1,0,1,1,0,6,Cliente Objetivo,Si
+Si,4,1,0,0,0,1,1,0,1,Cliente Objetivo,Si
+No,22,0,0,0,0,0,5,0,8,Cliente Objetivo,Si
+No,13,6,0,2,0,1,1,0,3,Cliente Leal,Si
+No,8,0,0,7,0,0,1,0,0,Cliente Objetivo,Si
+No,17,7,3,2,0,1,1,0,2,Cliente No Segmentado,Si
+No,7,1,0,2,0,1,0,0,3,Cliente Objetivo,Si
+No,4,0,0,1,0,0,1,0,2,Cliente Objetivo,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,22,8,0,3,0,1,8,0,1,Cliente Leal,Si
+No,8,3,0,1,0,0,2,0,1,Cliente Leal,Si
+Si,5,2,0,0,0,0,2,0,1,Cliente Objetivo,Si
+No,41,2,0,2,0,0,2,0,5,Cliente Objetivo,Si
+Si,9,0,0,0,0,0,3,0,2,Cliente Objetivo,Si
+No,9,3,0,1,0,0,1,0,3,Cliente Leal,Si
+No,14,6,0,2,1,1,1,1,2,Cliente Leal,No
+No,11,6,0,0,0,0,3,0,1,Cliente Leal,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,11,4,0,0,0,1,4,0,1,Cliente Leal,Si
+No,3,0,0,1,0,0,2,0,0,Cliente Objetivo,Si
+No,8,4,0,1,0,0,1,0,2,Cliente Leal,Si
+No,10,1,0,1,0,1,3,0,4,Cliente Objetivo,Si
+No,6,5,0,1,0,1,3,0,0,Cliente Leal,Si
+No,2,0,0,0,1,1,0,0,0,Cliente Objetivo,No
+No,11,4,0,0,1,1,1,1,2,Cliente Leal,No
+No,7,0,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,2,0,0,0,0,1,1,0,0,Cliente Objetivo,Si
+No,7,0,0,2,0,1,4,0,0,Cliente Objetivo,Si
+No,12,3,0,1,0,1,5,0,2,Cliente Leal,Si
+No,12,4,0,1,1,1,0,1,4,Cliente Leal,No
+No,4,0,0,1,0,0,2,0,1,Cliente Objetivo,Si
+No,5,0,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,37,0,0,3,0,5,2,0,6,Cliente Objetivo,Si
+Si,7,2,0,1,0,0,0,0,3,Cliente Objetivo,Si
+Si,13,8,0,1,0,0,0,0,3,Cliente Leal,Si
+No,5,1,0,0,0,1,3,0,0,Cliente Objetivo,Si
+No,6,1,0,1,0,2,0,0,2,Cliente Objetivo,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,19,7,0,3,0,1,1,1,6,Cliente Leal,Si
+Si,11,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,21,9,0,0,0,0,5,0,0,Cliente Leal,Si
+No,6,1,1,1,0,1,0,0,2,Cliente Objetivo,Si
+No,9,0,0,0,0,0,1,0,3,Cliente Objetivo,Si
+No,58,7,0,1,1,1,0,0,1,Cliente Leal,No
+No,4,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+Si,11,6,0,1,0,1,1,0,2,Cliente Leal,Si
+No,24,11,8,4,0,0,0,0,1,Cliente No Segmentado,Si
+Si,7,2,0,1,0,0,2,0,0,Cliente Objetivo,Si
+No,12,8,0,0,0,1,3,0,0,Cliente Leal,Si
+No,7,2,0,0,0,1,3,0,1,Cliente Objetivo,Si
+No,20,3,0,5,0,0,3,0,6,Cliente Leal,Si
+No,20,4,3,1,1,1,3,1,4,Cliente No Segmentado,No
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,10,4,0,1,0,1,1,0,3,Cliente Leal,Si
+Si,11,9,0,0,0,0,1,0,1,Cliente Leal,Si
+Si,9,1,0,0,0,0,4,0,2,Cliente Objetivo,Si
+No,17,3,1,1,1,1,0,1,2,Cliente Leal,No
+No,22,4,0,5,0,4,4,0,5,Cliente Leal,Si
+Si,46,6,0,8,0,3,27,0,1,Cliente Leal,Si
+Si,7,2,2,2,0,0,0,0,1,Cliente No Segmentado,Si
+No,28,4,0,0,2,4,13,0,0,Cliente Leal,No
+Si,5,2,0,1,0,0,2,0,0,Cliente Objetivo,Si
+No,15,4,0,0,0,1,5,0,0,Cliente Leal,Si
+No,5,0,0,1,0,0,1,0,2,Cliente Objetivo,Si
+No,9,2,2,2,0,1,0,0,2,Cliente No Segmentado,Si
+No,10,2,0,1,1,2,1,1,2,Cliente Objetivo,No
+Si,4,1,0,1,0,1,0,0,1,Cliente Objetivo,Si
+No,6,1,0,1,0,1,2,0,1,Cliente Objetivo,Si
+Si,7,4,0,0,0,0,0,0,3,Cliente Leal,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+Si,4,1,0,0,0,1,2,0,0,Cliente Objetivo,Si
+No,8,0,0,4,0,0,4,0,0,Cliente Objetivo,Si
+Si,17,5,0,1,0,0,7,0,0,Cliente Leal,Si
+Si,9,1,2,2,0,1,0,1,0,Cliente Objetivo,Si
+No,11,1,0,3,0,1,4,0,0,Cliente Objetivo,Si
+Si,5,1,0,0,0,1,3,0,0,Cliente Objetivo,Si
+Si,4,1,0,1,0,0,0,0,2,Cliente Objetivo,Si
+No,10,5,0,0,0,1,1,1,2,Cliente Leal,Si
+No,9,1,0,0,1,2,2,0,2,Cliente Objetivo,No
+No,4,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,22,5,2,3,0,3,3,0,4,Cliente No Segmentado,Si
+No,24,5,0,5,0,2,10,0,0,Cliente Leal,Si
+No,8,3,0,0,1,1,1,1,1,Cliente Leal,No
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+Si,4,0,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,12,1,0,5,0,2,0,1,3,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,23,9,12,0,0,0,0,0,1,Cliente No Segmentado,Si
+No,13,0,0,0,0,5,8,0,0,Cliente Objetivo,Si
+No,38,3,0,1,0,1,0,1,3,Cliente Leal,Si
+No,15,6,0,1,0,1,5,0,2,Cliente Leal,Si
+Si,4,1,1,0,0,0,0,0,1,Cliente Objetivo,Si
+Si,4,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,16,4,0,5,0,2,2,1,2,Cliente Leal,Si
+No,17,5,0,2,1,1,0,1,1,Cliente Leal,No
+No,11,3,0,1,1,1,0,1,1,Cliente Leal,No
+No,16,2,0,2,1,4,7,0,0,Cliente Objetivo,No
+Si,11,2,0,1,0,0,7,0,1,Cliente Objetivo,Si
+Si,51,10,0,3,0,2,8,1,17,Cliente Leal,Si
+Si,16,9,2,2,0,0,2,0,1,Cliente No Segmentado,Si
+No,24,10,3,4,1,2,4,0,0,Cliente No Segmentado,Si
+Si,11,1,4,2,0,1,1,0,0,Cliente No Segmentado,Si
+No,10,2,0,1,0,0,5,0,0,Cliente Objetivo,Si
+Si,6,4,0,1,0,0,0,0,1,Cliente Leal,Si
+No,10,3,0,3,0,1,2,0,1,Cliente Leal,Si
+No,18,0,0,4,0,0,1,0,5,Cliente Objetivo,Si
+No,37,5,21,1,0,0,4,0,3,Cliente No Segmentado,Si
+No,39,9,4,1,1,1,6,1,14,Cliente No Segmentado,No
+No,8,3,0,1,0,0,2,0,1,Cliente Leal,Si
+Si,14,0,0,1,0,2,3,0,1,Cliente Objetivo,Si
+Si,10,4,2,0,0,0,2,0,1,Cliente No Segmentado,Si
+No,7,0,0,0,1,1,1,0,1,Cliente Objetivo,No
+No,4,0,0,1,0,0,1,0,2,Cliente Objetivo,Si
+No,97,9,0,0,1,1,0,0,2,Cliente Leal,No
+Si,8,6,0,0,0,0,1,0,1,Cliente Leal,Si
+No,12,7,0,1,0,1,1,0,2,Cliente Leal,Si
+No,4,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,6,0,0,0,0,0,1,0,4,Cliente Objetivo,Si
+No,3,0,0,0,0,1,1,0,1,Cliente Objetivo,Si
+No,7,2,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,11,3,0,0,0,0,1,0,3,Cliente Leal,Si
+Si,3,1,0,0,0,0,0,0,1,Cliente Objetivo,Si
+No,8,3,2,0,1,1,1,0,0,Cliente No Segmentado,No
+No,24,1,0,7,1,3,9,0,1,Cliente Objetivo,No
+No,4,1,0,2,0,0,1,0,0,Cliente Objetivo,Si
+Si,49,10,0,4,0,1,29,0,1,Cliente Leal,Si
+No,34,1,0,1,0,0,1,0,5,Cliente Objetivo,Si
+Si,25,11,11,1,0,0,1,0,1,Cliente No Segmentado,Si
+No,44,1,0,3,0,0,13,0,1,Cliente Objetivo,Si
+No,12,5,0,0,0,1,1,0,2,Cliente Leal,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,3,0,0,1,0,0,2,0,0,Cliente Objetivo,Si
+No,14,0,0,1,1,1,2,0,8,Cliente Objetivo,No
+No,3,0,0,2,0,0,0,0,1,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,4,1,0,0,0,1,2,0,0,Cliente Objetivo,Si
+No,2,0,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,19,0,0,2,0,0,2,0,1,Cliente Objetivo,Si
+No,35,0,0,1,0,3,1,0,6,Cliente Objetivo,Si
+Si,9,5,1,0,0,0,1,0,0,Cliente Leal,Si
+No,10,3,2,1,0,0,1,0,3,Cliente No Segmentado,Si
+No,13,9,0,1,0,1,2,0,0,Cliente Leal,Si
+Si,14,2,1,0,0,2,2,1,3,Cliente Objetivo,Si
+No,7,2,2,1,0,0,1,0,1,Cliente No Segmentado,Si
+No,16,0,0,1,0,3,8,0,2,Cliente Objetivo,Si
+Si,11,6,1,2,0,0,0,0,2,Cliente Leal,Si
+No,10,6,0,0,0,1,1,0,2,Cliente Leal,Si
+No,21,3,9,2,1,2,1,1,1,Cliente No Segmentado,Si
+No,2,0,0,0,0,1,1,0,0,Cliente Objetivo,Si
+Si,19,2,1,4,1,3,0,0,8,Cliente Objetivo,Si
+Si,13,5,0,3,0,0,1,0,3,Cliente Leal,Si
+No,10,2,0,1,2,1,0,1,3,Cliente Objetivo,No
+No,25,11,0,0,1,1,4,1,4,Cliente Leal,No
+Si,22,2,3,6,0,0,3,0,7,Cliente No Segmentado,Si
+Si,9,1,1,0,0,1,0,0,6,Cliente Objetivo,Si
+No,6,1,0,0,0,1,0,1,3,Cliente Objetivo,Si
+No,1,7,0,2,0,0,6,0,1,Cliente Leal,Si
+Si,5,1,1,1,0,0,1,0,1,Cliente Objetivo,Si
+No,22,6,1,2,4,1,1,1,3,Cliente Leal,No
+Si,3,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+Si,13,6,0,0,0,0,1,0,1,Cliente Leal,Si
+No,6,1,0,1,0,1,1,0,2,Cliente Objetivo,Si
+Si,11,1,0,3,0,1,0,0,6,Cliente Objetivo,Si
+No,6,1,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,16,8,0,1,0,1,2,0,3,Cliente Leal,Si
+Si,12,3,5,1,0,0,2,0,1,Cliente No Segmentado,Si
+No,19,1,0,1,0,0,1,0,15,Cliente Objetivo,Si
+No,5,1,0,0,1,1,1,1,0,Cliente Objetivo,No
+No,16,2,1,4,1,3,0,1,4,Cliente Objetivo,No
+No,12,2,0,0,0,0,3,0,5,Cliente Objetivo,Si
+No,1,0,0,1,0,0,0,0,0,Cliente Objetivo,Si
+Si,12,2,0,0,0,1,4,1,3,Cliente Objetivo,Si
+No,5,0,0,0,0,2,3,0,0,Cliente Objetivo,Si
+Si,6,2,0,0,0,1,2,0,1,Cliente Objetivo,Si
+Si,10,0,0,0,0,0,2,0,6,Cliente Objetivo,Si
+Si,6,3,0,0,0,0,1,0,1,Cliente Leal,Si
+Si,5,0,0,1,1,3,0,0,0,Cliente Objetivo,No
+No,6,1,0,1,0,1,0,1,2,Cliente Objetivo,Si
+No,6,0,0,1,0,0,1,0,1,Cliente Objetivo,Si
+No,10,5,0,0,0,1,1,0,3,Cliente Leal,Si
+No,24,9,0,1,1,1,4,1,3,Cliente Leal,No
+No,15,6,1,2,1,1,1,1,1,Cliente Leal,No
+No,11,4,0,0,1,2,0,1,2,Cliente Leal,No
+No,6,1,0,1,0,1,0,0,3,Cliente Objetivo,Si
+No,3,0,0,1,0,1,0,0,1,Cliente Objetivo,Si
+No,41,2,25,1,1,4,1,2,5,Cliente No Segmentado,No
+No,5,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,7,1,0,0,1,1,1,1,1,Cliente Objetivo,No
+No,5,1,0,3,0,0,0,0,1,Cliente Objetivo,Si
+No,3,0,0,1,0,0,1,0,1,Cliente Objetivo,Si
+No,13,5,0,1,0,0,2,0,3,Cliente Leal,Si
+Si,9,5,0,0,0,0,1,0,1,Cliente Leal,Si
+Si,9,2,0,1,0,1,1,0,3,Cliente Objetivo,Si
+No,11,2,1,0,0,0,2,0,3,Cliente Objetivo,Si
+Si,19,11,0,2,0,1,4,0,0,Cliente Leal,Si
+Si,5,1,0,1,0,0,3,0,0,Cliente Objetivo,Si
+No,5,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,17,10,0,1,0,0,4,0,0,Cliente Leal,Si
+No,25,8,6,5,0,0,2,0,4,Cliente No Segmentado,Si
+No,7,0,0,0,0,0,1,0,2,Cliente Objetivo,Si
+No,18,5,0,3,0,2,0,0,6,Cliente Leal,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,9,0,0,0,1,1,1,0,3,Cliente Objetivo,No
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,5,2,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,10,3,0,1,0,0,0,0,3,Cliente Leal,Si
+No,6,0,0,0,0,2,3,0,1,Cliente Objetivo,Si
+No,8,0,0,0,0,1,2,0,5,Cliente Objetivo,Si
+No,1,0,0,1,0,0,0,0,0,Cliente Objetivo,Si
+No,16,5,0,3,0,0,5,0,0,Cliente Leal,Si
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+No,10,2,2,3,0,1,0,0,2,Cliente No Segmentado,Si
+No,13,0,0,1,3,1,0,0,3,Cliente Objetivo,No
+No,8,0,0,0,0,4,3,0,1,Cliente Objetivo,Si
+No,8,3,0,1,0,1,1,0,2,Cliente Leal,Si
+No,8,4,0,0,1,1,0,1,1,Cliente Leal,No
+No,17,4,0,1,0,1,6,0,5,Cliente Leal,Si
+No,5,0,0,1,1,1,1,0,0,Cliente Objetivo,No
+Si,4,1,0,0,0,0,0,0,2,Cliente Objetivo,Si
+Si,4,0,0,0,0,0,1,0,1,Cliente Objetivo,Si
+Si,14,6,1,1,0,0,1,0,3,Cliente Leal,Si
+No,6,2,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,10,1,0,2,1,2,0,1,3,Cliente Objetivo,No
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+Si,3,0,1,0,0,0,1,0,1,Cliente Objetivo,Si
+No,9,1,0,3,0,1,2,0,1,Cliente Objetivo,Si
+No,9,0,0,0,1,1,1,0,2,Cliente Objetivo,No
+No,8,1,0,2,0,2,0,0,3,Cliente Objetivo,Si
+No,12,5,0,0,0,0,0,0,5,Cliente Leal,Si
+No,8,1,0,1,0,0,1,0,2,Cliente Objetivo,Si
+Si,11,4,4,0,0,0,1,0,1,Cliente No Segmentado,Si
+No,8,0,0,3,0,1,2,0,1,Cliente Objetivo,Si
+No,10,0,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,20,9,1,1,2,1,1,1,1,Cliente Leal,No
+No,8,0,0,1,0,0,1,0,4,Cliente Objetivo,Si
+Si,24,0,0,0,0,0,3,0,5,Cliente Objetivo,Si
+No,8,0,0,0,0,0,2,0,1,Cliente Objetivo,Si
+No,9,3,0,1,0,1,1,0,3,Cliente Leal,Si
+Si,7,3,0,1,0,0,2,0,0,Cliente Leal,Si
+No,20,8,2,2,0,0,2,0,3,Cliente No Segmentado,Si
+No,8,1,0,2,0,1,2,0,2,Cliente Objetivo,Si
+No,8,5,0,0,0,1,1,0,1,Cliente Leal,Si
+No,19,6,0,4,0,1,1,0,1,Cliente Leal,Si
+Si,8,5,0,0,0,0,1,0,1,Cliente Leal,Si
+Si,6,2,0,0,0,1,0,0,2,Cliente Objetivo,Si
+Si,2,1,0,0,0,0,0,0,1,Cliente Objetivo,Si
+No,14,3,0,4,1,2,4,0,0,Cliente Leal,No
+Si,6,1,0,0,0,1,1,1,2,Cliente Objetivo,Si
+No,6,0,0,0,0,1,5,0,0,Cliente Objetivo,Si
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+No,8,2,0,2,0,1,1,0,2,Cliente Objetivo,Si
+No,9,1,0,1,1,1,1,1,3,Cliente Objetivo,No
+No,7,1,0,3,0,1,0,1,0,Cliente Objetivo,Si
+No,4,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,4,0,0,1,0,1,0,1,1,Cliente Objetivo,Si
+No,4,0,0,1,0,1,0,1,1,Cliente Objetivo,Si
+No,13,2,0,2,1,2,1,1,2,Cliente Objetivo,Si
+No,9,1,0,0,0,1,4,0,1,Cliente Objetivo,Si
+No,10,1,0,2,0,1,1,1,4,Cliente Objetivo,Si
+No,14,3,0,0,0,1,0,1,9,Cliente Leal,Si
+No,17,6,1,2,0,1,2,0,4,Cliente Leal,Si
+Si,36,7,21,1,0,0,1,0,5,Cliente No Segmentado,Si
+No,8,0,0,1,0,1,6,0,0,Cliente Objetivo,Si
+No,3,0,0,1,0,0,0,0,2,Cliente Objetivo,Si
+Si,12,4,0,0,0,2,1,0,5,Cliente Leal,Si
+Si,18,4,0,0,1,2,7,0,0,Cliente Leal,No
+No,54,1,0,1,0,2,46,0,0,Cliente Objetivo,Si
+No,10,3,0,1,0,0,1,0,3,Cliente Leal,Si
+No,1,0,0,0,0,1,0,0,0,Cliente Objetivo,Si
+Si,4,1,0,1,0,0,1,0,1,Cliente Objetivo,Si
+Si,13,3,0,0,0,0,1,0,6,Cliente Leal,Si
+No,27,1,0,2,1,3,0,1,17,Cliente Objetivo,Si
+No,21,3,1,4,0,6,2,1,2,Cliente Leal,Si
+Si,13,4,4,0,0,0,1,0,1,Cliente No Segmentado,Si
+No,9,1,0,0,0,2,4,1,1,Cliente Objetivo,Si
+No,31,5,0,1,1,1,0,0,6,Cliente Leal,Si
+No,48,5,0,13,1,4,8,0,2,Cliente Leal,No
+Si,6,1,0,0,0,1,4,0,0,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,5,2,0,0,0,0,1,0,2,Cliente Objetivo,Si
+No,23,0,0,8,5,5,4,0,1,Cliente Objetivo,No
+No,16,4,0,0,2,1,3,1,3,Cliente Leal,No
+No,12,2,3,1,0,1,0,1,3,Cliente No Segmentado,Si
+Si,5,1,0,0,0,1,3,0,0,Cliente Objetivo,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+Si,19,0,1,1,0,0,2,0,7,Cliente Objetivo,Si
+Si,9,1,0,0,0,0,7,0,1,Cliente Objetivo,Si
+Si,6,0,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+Si,4,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,5,0,0,1,0,0,2,0,2,Cliente Objetivo,Si
+No,12,1,0,0,0,2,1,0,0,Cliente Objetivo,Si
+Si,19,9,1,3,0,0,3,0,1,Cliente Leal,Si
+Si,8,3,0,0,0,1,1,0,2,Cliente Leal,Si
+No,17,0,0,1,1,2,0,0,3,Cliente Objetivo,No
+No,8,3,0,1,0,1,3,0,0,Cliente Leal,Si
+No,3,0,0,0,0,1,0,0,2,Cliente Objetivo,Si
+No,8,1,0,0,1,2,1,2,1,Cliente Objetivo,Si
+Si,8,6,0,0,0,0,1,0,0,Cliente Leal,Si
+No,19,7,3,1,1,2,1,1,1,Cliente No Segmentado,No
+No,8,4,0,0,0,1,1,0,2,Cliente Leal,Si
+Si,5,4,0,0,0,0,1,0,0,Cliente Leal,Si
+No,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,4,1,0,1,0,1,0,0,0,Cliente Objetivo,Si
+No,8,4,0,0,0,1,1,0,2,Cliente Leal,Si
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+Si,3,0,0,0,0,2,0,0,1,Cliente Objetivo,Si
+Si,3,1,0,0,0,0,0,0,1,Cliente Objetivo,Si
+Si,8,3,0,2,0,1,0,1,1,Cliente Leal,Si
+No,12,4,1,2,0,2,0,1,2,Cliente Leal,Si
+Si,7,5,0,0,0,0,0,0,2,Cliente Leal,Si
+No,8,2,0,1,1,1,1,1,1,Cliente Objetivo,No
+No,13,8,0,1,0,1,2,0,1,Cliente Leal,Si
+No,12,5,1,1,0,1,2,0,2,Cliente Leal,Si
+No,32,11,0,3,0,2,13,0,0,Cliente Leal,Si
+No,6,1,0,0,0,1,3,0,1,Cliente Objetivo,Si
+No,6,1,0,0,0,2,1,0,2,Cliente Objetivo,Si
+Si,8,4,0,1,0,0,1,0,1,Cliente Leal,Si
+No,16,7,0,1,0,1,5,0,0,Cliente Leal,Si
+No,15,7,0,2,0,1,1,1,2,Cliente Leal,Si
+No,9,3,0,1,0,1,1,1,2,Cliente Leal,Si
+Si,22,0,0,0,0,0,1,0,3,Cliente Objetivo,Si
+No,7,1,0,0,0,1,5,0,0,Cliente Objetivo,Si
+No,3,0,0,2,0,0,0,0,1,Cliente Objetivo,Si
+No,5,1,0,0,0,1,1,0,2,Cliente Objetivo,Si
+Si,38,10,3,0,0,0,7,0,9,Cliente No Segmentado,Si
+No,13,6,0,1,0,0,3,0,1,Cliente Leal,Si
+No,4,1,0,0,0,1,0,0,2,Cliente Objetivo,Si
+No,12,7,0,1,0,1,1,0,2,Cliente Leal,Si
+No,5,1,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,7,3,0,0,0,1,2,0,1,Cliente Leal,Si
+Si,6,1,1,1,0,1,0,0,2,Cliente Objetivo,Si
+No,11,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,4,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,4,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,17,1,2,0,0,2,0,0,12,Cliente Objetivo,Si
+No,7,1,0,2,1,3,0,0,0,Cliente Objetivo,No
+Si,6,3,0,0,0,0,0,0,3,Cliente Leal,Si
+Si,5,3,0,1,0,0,1,0,0,Cliente Leal,Si
+No,7,1,0,2,0,2,2,0,0,Cliente Objetivo,Si
+No,14,3,0,5,1,2,0,0,3,Cliente Leal,No
+No,15,6,1,1,1,1,1,1,1,Cliente Leal,No
+No,9,0,0,0,0,1,1,0,4,Cliente Objetivo,Si
+Si,63,9,6,6,0,1,6,0,21,Cliente No Segmentado,Si
+No,23,2,0,6,1,3,5,0,6,Cliente Objetivo,No
+No,19,3,2,5,0,0,4,0,5,Cliente No Segmentado,Si
+Si,14,4,2,2,0,2,0,0,4,Cliente No Segmentado,Si
+No,3,0,0,0,0,1,0,0,2,Cliente Objetivo,Si
+No,5,1,0,1,0,0,3,0,0,Cliente Objetivo,Si
+No,6,2,0,1,0,0,3,0,0,Cliente Objetivo,Si
+No,10,5,0,1,0,1,1,0,2,Cliente Leal,Si
+No,8,2,0,1,0,1,1,0,3,Cliente Objetivo,Si
+No,25,8,0,4,0,1,6,0,3,Cliente Leal,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,9,2,0,0,0,0,3,0,1,Cliente Objetivo,Si
+No,9,0,0,0,1,4,0,0,4,Cliente Objetivo,No
+No,8,2,0,0,1,1,1,1,1,Cliente Objetivo,No
+Si,5,1,2,0,0,0,0,0,2,Cliente Objetivo,Si
+No,13,2,5,2,0,0,0,0,3,Cliente No Segmentado,Si
+Si,15,6,4,1,0,0,0,0,4,Cliente No Segmentado,Si
+No,1,0,0,0,0,1,0,0,0,Cliente Objetivo,Si
+No,18,4,3,2,1,1,4,1,1,Cliente No Segmentado,No
+No,13,0,0,3,0,0,0,0,1,Cliente Objetivo,Si
+No,16,0,0,4,0,4,7,0,1,Cliente Objetivo,Si
+No,8,2,0,1,0,1,1,0,2,Cliente Objetivo,Si
+Si,10,5,0,0,0,0,2,0,2,Cliente Leal,Si
+Si,4,1,0,0,0,1,1,0,0,Cliente Objetivo,Si
+No,8,1,0,0,0,2,0,1,3,Cliente Objetivo,Si
+No,10,0,0,0,1,1,1,0,2,Cliente Objetivo,No
+No,3,0,0,3,0,0,0,0,0,Cliente Objetivo,Si
+Si,3,1,0,1,0,0,0,0,1,Cliente Objetivo,Si
+No,9,0,0,1,0,1,1,1,5,Cliente Objetivo,Si
+No,5,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,5,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,17,4,5,0,1,1,0,1,2,Cliente No Segmentado,No
+Si,10,4,0,1,0,0,1,0,2,Cliente Leal,Si
+No,5,0,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,11,6,0,0,0,0,0,0,4,Cliente Leal,Si
+Si,3,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+Si,15,1,2,3,0,2,4,0,3,Cliente Objetivo,Si
+No,14,2,0,3,0,0,2,0,4,Cliente Objetivo,Si
+No,5,1,0,1,0,2,1,0,0,Cliente Objetivo,Si
+Si,5,0,0,0,0,0,1,0,2,Cliente Objetivo,Si
+Si,21,7,6,0,0,0,2,0,6,Cliente No Segmentado,Si
+Si,8,3,0,2,0,0,2,0,1,Cliente Leal,Si
+No,6,0,0,1,0,0,1,0,2,Cliente Objetivo,Si
+No,9,5,0,0,0,1,1,0,0,Cliente Leal,Si
+No,32,7,4,1,0,3,1,1,11,Cliente No Segmentado,Si
+Si,12,5,0,3,0,0,3,0,0,Cliente Leal,Si
+No,5,0,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,13,5,0,2,1,1,1,1,1,Cliente Leal,No
+Si,4,1,0,1,0,0,0,0,2,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,10,2,0,0,0,0,1,0,5,Cliente Objetivo,Si
+No,14,2,0,1,0,1,1,0,1,Cliente Objetivo,Si
+No,5,0,0,3,0,1,0,0,1,Cliente Objetivo,Si
+No,13,3,0,1,0,1,1,0,3,Cliente Leal,Si
+No,5,0,0,0,0,1,1,0,3,Cliente Objetivo,Si
+No,9,0,0,1,0,1,0,0,3,Cliente Objetivo,Si
+No,7,2,0,0,1,1,1,1,1,Cliente Objetivo,Si
+No,32,4,0,0,0,0,4,0,13,Cliente Leal,Si
+No,4,0,0,2,0,0,0,0,2,Cliente Objetivo,Si
+Si,5,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+Si,21,6,2,4,0,4,0,0,5,Cliente No Segmentado,Si
+No,14,6,0,0,0,2,0,2,4,Cliente Leal,Si
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+No,11,6,0,0,0,1,2,0,1,Cliente Leal,Si
+No,10,1,0,0,0,1,4,0,3,Cliente Objetivo,Si
+No,12,6,0,0,1,1,1,1,1,Cliente Leal,No
+No,2,0,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,7,1,0,1,0,1,2,0,2,Cliente Objetivo,Si
+No,21,8,5,2,0,2,0,0,3,Cliente No Segmentado,Si
+No,4,0,0,1,0,1,2,0,0,Cliente Objetivo,Si
+No,6,1,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,15,1,0,1,1,1,0,0,8,Cliente Objetivo,No
+No,4,0,0,2,1,0,1,0,0,Cliente Objetivo,No
+No,12,0,0,1,0,0,4,0,5,Cliente Objetivo,Si
+No,23,0,0,2,0,1,2,0,9,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,6,0,0,2,0,0,4,0,0,Cliente Objetivo,Si
+No,11,0,0,10,0,0,1,0,0,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,6,5,0,0,0,0,1,0,0,Cliente Leal,Si
+No,3,0,0,0,0,3,0,0,0,Cliente Objetivo,Si
+Si,14,5,2,0,0,0,1,0,3,Cliente No Segmentado,Si
+Si,18,0,0,5,0,2,2,0,6,Cliente Objetivo,Si
+No,6,0,0,0,0,0,2,0,0,Cliente Objetivo,Si
+No,24,10,0,3,0,0,10,0,0,Cliente Leal,Si
+No,16,9,0,3,0,1,2,0,1,Cliente Leal,Si
+No,9,4,0,1,0,1,1,0,2,Cliente Leal,Si
+No,7,1,0,0,0,2,3,0,1,Cliente Objetivo,Si
+Si,8,2,0,0,0,0,0,0,6,Cliente Objetivo,Si
+Si,8,4,0,1,0,0,1,0,2,Cliente Leal,Si
+No,7,2,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,41,1,31,0,1,2,1,1,4,Cliente No Segmentado,No
+No,5,1,0,0,0,1,0,1,2,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,13,5,0,2,0,3,2,0,0,Cliente Leal,Si
+Si,17,1,11,0,1,1,1,1,0,Cliente No Segmentado,No
+No,16,7,1,2,0,1,2,0,2,Cliente Leal,Si
+No,4,0,0,0,0,1,0,0,3,Cliente Objetivo,Si
+Si,5,1,0,0,0,1,3,0,0,Cliente Objetivo,Si
+No,22,11,0,1,1,1,1,1,3,Cliente Leal,Si
+No,11,1,0,1,0,1,6,0,2,Cliente Objetivo,Si
+No,2,0,0,1,0,0,0,0,1,Cliente Objetivo,Si
+Si,24,4,1,1,0,0,1,0,9,Cliente Leal,Si
+No,26,1,0,7,1,3,7,0,0,Cliente Objetivo,No
+No,7,2,1,1,0,1,1,0,1,Cliente Objetivo,Si
+No,8,2,0,2,0,1,1,0,2,Cliente Objetivo,Si
+Si,12,5,0,1,0,2,1,0,3,Cliente Leal,Si
+Si,10,1,0,1,0,2,5,0,1,Cliente Objetivo,Si
+No,11,1,0,0,1,2,1,1,1,Cliente Objetivo,No
+No,5,1,0,0,0,1,0,2,0,Cliente Objetivo,Si
+No,6,0,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,31,7,16,2,1,2,0,1,2,Cliente No Segmentado,No
+No,23,9,2,1,0,0,4,0,3,Cliente No Segmentado,Si
+No,7,1,0,1,0,1,1,0,1,Cliente Objetivo,Si
+No,4,0,0,0,0,1,0,0,3,Cliente Objetivo,Si
+No,3,0,0,1,0,1,0,0,1,Cliente Objetivo,Si
+No,12,5,0,2,0,1,3,0,1,Cliente Leal,Si
+No,5,0,0,2,0,0,3,0,0,Cliente Objetivo,Si
+No,10,0,0,3,0,3,3,0,1,Cliente Objetivo,Si
+No,10,1,0,0,0,0,1,0,4,Cliente Objetivo,Si
+No,5,1,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,5,1,0,1,0,2,1,0,0,Cliente Objetivo,Si
+Si,16,3,6,1,0,0,1,0,2,Cliente No Segmentado,Si
+No,1,0,0,0,0,1,0,0,0,Cliente Objetivo,Si
+Si,6,0,3,0,0,0,0,0,3,Cliente Objetivo,Si
+No,13,4,0,2,0,1,0,1,3,Cliente Leal,Si
+Si,14,8,0,0,0,0,3,0,3,Cliente Leal,Si
+Si,22,0,0,2,0,1,1,0,3,Cliente Objetivo,Si
+No,5,1,0,1,0,2,0,0,0,Cliente Objetivo,Si
+No,24,6,3,1,0,0,2,0,1,Cliente No Segmentado,Si
+No,1,0,0,0,0,1,0,0,0,Cliente Objetivo,Si
+Si,5,1,0,0,0,1,2,0,1,Cliente Objetivo,Si
+No,8,1,0,1,1,2,1,0,0,Cliente Objetivo,No
+No,16,4,5,3,0,1,1,0,2,Cliente No Segmentado,Si
+No,6,2,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,6,3,0,2,0,0,0,0,1,Cliente Leal,Si
+No,8,3,0,0,0,0,1,0,1,Cliente Leal,Si
+No,28,7,0,1,0,1,2,0,1,Cliente Leal,Si
+Si,7,4,0,0,0,1,1,0,1,Cliente Leal,Si
+No,31,0,0,1,1,0,29,0,0,Cliente Objetivo,No
+No,6,0,0,1,0,0,3,0,1,Cliente Objetivo,Si
+No,25,3,0,1,0,3,16,0,1,Cliente Leal,Si
+No,6,0,0,2,1,1,1,0,1,Cliente Objetivo,No
+Si,3,1,1,0,0,0,0,0,1,Cliente Objetivo,Si
+Si,41,6,1,3,0,0,0,0,3,Cliente Leal,Si
+No,6,1,0,1,0,1,0,1,2,Cliente Objetivo,Si
+Si,57,2,7,0,0,1,1,1,6,Cliente No Segmentado,Si
+Si,33,11,0,0,1,4,5,0,2,Cliente Leal,No
+No,12,0,0,3,0,7,2,0,0,Cliente Objetivo,Si
+Si,23,10,0,2,0,0,3,0,6,Cliente Leal,Si
+No,6,2,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,9,1,0,2,1,2,0,1,2,Cliente Objetivo,No
+No,12,9,0,0,0,2,1,0,0,Cliente Leal,Si
+No,6,1,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,11,0,0,0,0,1,1,0,3,Cliente Objetivo,Si
+Si,4,1,1,0,0,0,1,0,1,Cliente Objetivo,Si
+No,6,1,0,0,0,2,0,1,2,Cliente Objetivo,Si
+No,9,0,0,1,1,3,4,0,0,Cliente Objetivo,No
+No,7,2,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,9,5,0,1,0,1,2,0,0,Cliente Leal,Si
+No,9,0,0,0,0,1,1,0,2,Cliente Objetivo,Si
+Si,3,1,0,0,0,1,0,0,0,Cliente Objetivo,Si
+No,8,2,0,0,1,1,1,1,2,Cliente Objetivo,No
+No,13,2,0,8,0,0,3,0,0,Cliente Objetivo,Si
+No,6,1,0,1,0,0,4,0,0,Cliente Objetivo,Si
+Si,24,7,14,3,0,0,0,0,0,Cliente No Segmentado,Si
+No,21,0,0,0,0,3,17,0,1,Cliente Objetivo,Si
+No,25,2,0,3,1,3,0,1,5,Cliente Objetivo,No
+No,4,1,0,0,0,0,0,0,3,Cliente Objetivo,Si
+Si,2,0,1,0,0,0,0,0,1,Cliente Objetivo,Si
+Si,5,1,0,0,0,0,0,0,3,Cliente Objetivo,Si
+No,14,4,0,3,0,0,7,0,0,Cliente Leal,Si
+Si,5,2,0,0,0,0,1,0,2,Cliente Objetivo,Si
+Si,10,2,0,0,0,0,0,0,7,Cliente Objetivo,Si
+No,17,8,0,1,0,0,3,0,0,Cliente Leal,Si
+Si,15,8,0,0,0,0,2,0,2,Cliente Leal,Si
+No,14,3,0,4,0,1,0,0,6,Cliente Leal,Si
+Si,8,3,0,0,0,0,1,0,2,Cliente Leal,Si
+Si,8,2,0,1,0,0,4,0,0,Cliente Objetivo,Si
+No,8,2,0,2,0,1,1,0,2,Cliente Objetivo,Si
+Si,3,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,8,2,2,0,0,0,1,0,3,Cliente No Segmentado,Si
+No,18,2,0,0,0,3,4,0,0,Cliente Objetivo,Si
+Si,13,1,0,4,0,0,7,0,0,Cliente Objetivo,Si
+No,14,6,0,0,1,2,2,0,1,Cliente Leal,No
+No,23,0,0,1,2,3,12,0,2,Cliente Objetivo,No
+No,1,6,2,1,0,0,10,0,2,Cliente No Segmentado,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,7,2,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,15,5,0,3,0,3,2,0,2,Cliente Leal,Si
+No,6,2,0,1,0,0,1,0,1,Cliente Objetivo,Si
+No,10,1,0,1,1,1,1,1,2,Cliente Objetivo,No
+Si,30,7,7,1,0,0,4,0,5,Cliente No Segmentado,Si
+No,13,1,0,0,0,0,1,0,5,Cliente Objetivo,Si
+Si,22,4,0,0,0,0,3,0,7,Cliente Leal,Si
+No,6,2,0,1,0,0,1,0,2,Cliente Objetivo,Si
+No,8,0,0,1,0,1,6,0,0,Cliente Objetivo,Si
+No,7,1,0,0,0,1,5,0,0,Cliente Objetivo,Si
+Si,13,3,4,0,0,0,1,0,4,Cliente No Segmentado,Si
+No,21,1,0,1,0,2,17,0,0,Cliente Objetivo,Si
+No,10,0,0,2,0,2,0,1,2,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,33,1,0,1,0,0,24,0,0,Cliente Objetivo,Si
+No,28,2,0,5,0,3,11,0,0,Cliente Objetivo,Si
+Si,14,0,0,0,0,0,1,0,2,Cliente Objetivo,Si
+No,13,0,0,1,1,1,1,0,1,Cliente Objetivo,No
+No,9,1,0,1,1,2,2,1,1,Cliente Objetivo,No
+No,17,1,3,0,0,0,6,0,3,Cliente No Segmentado,Si
+Si,6,1,0,1,0,0,2,0,0,Cliente Objetivo,Si
+No,8,2,0,0,1,1,1,1,1,Cliente Objetivo,No
+Si,11,3,3,3,0,0,0,0,1,Cliente No Segmentado,Si
+No,7,2,0,1,0,1,1,0,2,Cliente Objetivo,Si
+Si,11,1,0,0,0,0,1,0,6,Cliente Objetivo,Si
+Si,9,2,0,2,0,0,1,0,3,Cliente Objetivo,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,19,0,0,0,0,0,0,0,2,Cliente Objetivo,Si
+No,21,8,0,5,0,0,6,0,0,Cliente Leal,Si
+No,11,3,0,2,0,1,1,0,3,Cliente Leal,Si
+No,6,0,0,2,0,1,2,0,1,Cliente Objetivo,Si
+No,10,1,0,2,0,1,2,1,3,Cliente Objetivo,Si
+Si,15,0,0,0,0,0,3,0,4,Cliente Objetivo,Si
+Si,11,4,0,0,0,2,4,0,0,Cliente Leal,Si
+Si,2,10,0,1,0,0,5,0,1,Cliente Leal,Si
+Si,10,2,0,0,0,0,1,0,6,Cliente Objetivo,Si
+No,11,5,0,1,1,1,1,1,1,Cliente Leal,No
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,4,1,0,0,0,1,2,0,0,Cliente Objetivo,Si
+Si,6,2,0,2,0,0,2,0,0,Cliente Objetivo,Si
+No,37,10,6,8,0,3,2,1,6,Cliente No Segmentado,Si
+Si,3,1,0,0,0,0,0,0,2,Cliente Objetivo,Si
+No,26,3,10,4,1,2,0,0,0,Cliente No Segmentado,No
+No,9,4,0,1,0,1,1,0,2,Cliente Leal,Si
+No,32,0,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,16,5,0,1,1,3,3,1,1,Cliente Leal,No
+No,7,0,0,4,0,1,1,0,1,Cliente Objetivo,Si
+No,30,9,11,3,1,1,2,0,3,Cliente No Segmentado,No
+No,13,4,2,0,1,1,3,1,1,Cliente No Segmentado,No
+Si,44,3,35,0,0,0,2,0,3,Cliente No Segmentado,Si
+No,19,8,1,2,0,1,1,1,3,Cliente Leal,Si
+No,17,0,0,0,0,1,4,0,6,Cliente Objetivo,Si
+No,23,6,2,4,1,1,2,1,4,Cliente No Segmentado,No
+Si,5,2,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,8,0,0,1,0,0,1,0,5,Cliente Objetivo,Si
+No,1,3,5,2,1,1,1,1,4,Cliente No Segmentado,No
+No,33,1,0,1,0,0,9,0,15,Cliente Objetivo,Si
+No,12,0,0,3,0,1,7,0,1,Cliente Objetivo,Si
+No,6,1,0,0,1,1,0,1,2,Cliente Objetivo,No
+Si,16,7,4,0,0,0,1,0,2,Cliente No Segmentado,Si
+No,19,5,8,0,0,0,4,0,1,Cliente No Segmentado,Si
+Si,14,5,0,2,0,0,1,0,2,Cliente Leal,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,2,0,0,0,0,0,4,0,21,Cliente Objetivo,Si
+No,20,6,0,1,0,0,1,0,1,Cliente Leal,Si
+No,21,1,0,2,1,1,1,1,10,Cliente Objetivo,No
+No,6,1,0,1,0,1,0,0,3,Cliente Objetivo,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,9,4,0,1,0,1,1,0,2,Cliente Leal,Si
+Si,11,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,6,2,0,1,0,0,2,0,0,Cliente Objetivo,Si
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+Si,32,10,0,1,0,0,15,0,1,Cliente Leal,Si
+No,43,4,6,2,0,1,8,1,11,Cliente No Segmentado,Si
+No,18,8,0,2,0,1,2,0,4,Cliente Leal,Si
+No,14,5,1,4,0,1,1,0,1,Cliente Leal,Si
+No,31,9,16,0,1,1,0,1,3,Cliente No Segmentado,No
+No,12,7,0,1,0,1,1,0,2,Cliente Leal,Si
+No,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+No,74,3,0,13,0,3,42,0,0,Cliente Leal,Si
+No,14,6,0,3,0,1,0,0,3,Cliente Leal,Si
+No,13,7,0,2,0,1,1,0,2,Cliente Leal,Si
+Si,36,10,0,4,1,1,0,0,4,Cliente Leal,No
+Si,10,1,0,0,0,0,0,0,9,Cliente Objetivo,Si
+No,8,3,0,1,0,1,1,0,2,Cliente Leal,Si
+No,11,1,0,1,0,1,2,0,0,Cliente Objetivo,Si
+Si,11,2,0,1,0,0,0,0,6,Cliente Objetivo,Si
+No,9,1,0,5,0,1,0,0,2,Cliente Objetivo,Si
+No,7,1,0,0,0,1,3,0,1,Cliente Objetivo,Si
+Si,5,1,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,4,0,0,2,0,0,0,0,1,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,10,5,0,1,0,0,2,0,2,Cliente Leal,Si
+No,10,7,0,0,0,1,1,0,1,Cliente Leal,Si
+Si,9,4,0,1,0,0,1,0,0,Cliente Leal,Si
+Si,1,0,0,1,0,0,3,0,1,Cliente Objetivo,Si
+No,21,3,1,0,0,3,4,0,3,Cliente Leal,Si
+No,8,2,0,1,0,1,1,0,3,Cliente Objetivo,Si
+No,41,9,11,2,0,0,4,0,9,Cliente No Segmentado,Si
+Si,7,1,1,1,0,1,0,0,3,Cliente Objetivo,Si
+No,10,1,0,0,0,2,5,0,1,Cliente Objetivo,Si
+No,2,0,0,1,0,0,0,0,1,Cliente Objetivo,Si
+No,12,5,0,0,0,1,2,0,2,Cliente Leal,Si
+No,16,9,0,1,0,1,2,0,3,Cliente Leal,Si
+No,8,0,0,3,0,1,0,0,4,Cliente Objetivo,Si
+No,17,6,0,0,0,0,1,0,7,Cliente Leal,Si
+No,6,1,0,0,0,1,1,0,3,Cliente Objetivo,Si
+Si,19,4,8,1,0,0,4,0,2,Cliente No Segmentado,Si
+No,1,2,0,4,0,0,1,0,2,Cliente Objetivo,Si
+No,11,1,0,1,0,1,6,0,0,Cliente Objetivo,Si
+No,22,1,0,1,0,0,12,0,0,Cliente Objetivo,Si
+Si,9,5,0,1,0,0,2,0,1,Cliente Leal,Si
+Si,19,2,0,1,0,5,2,0,8,Cliente Objetivo,Si
+No,8,1,0,0,1,1,0,1,4,Cliente Objetivo,No
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+Si,40,1,1,2,0,0,1,0,6,Cliente Objetivo,Si
+Si,10,4,0,0,0,0,0,0,4,Cliente Leal,Si
+No,5,1,0,0,0,0,1,0,2,Cliente Objetivo,Si
+No,3,0,0,1,0,0,2,0,0,Cliente Objetivo,Si
+No,6,0,0,2,0,1,2,0,1,Cliente Objetivo,Si
+No,24,9,0,3,1,1,2,1,5,Cliente Leal,No
+No,10,1,0,0,0,0,2,0,4,Cliente Objetivo,Si
+No,1,1,0,0,0,2,1,0,1,Cliente Objetivo,Si
+Si,8,5,0,1,0,0,1,0,0,Cliente Leal,Si
+No,8,1,0,1,0,1,1,0,3,Cliente Objetivo,Si
+No,5,2,0,1,0,1,1,0,0,Cliente Objetivo,Si
+Si,15,5,3,2,0,0,1,0,1,Cliente No Segmentado,Si
+No,18,4,1,3,0,3,2,0,4,Cliente Leal,Si
+Si,13,3,0,1,0,1,3,0,5,Cliente Leal,Si
+No,15,0,0,1,0,1,2,0,2,Cliente Objetivo,Si
+No,7,2,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,14,1,0,0,0,1,11,0,1,Cliente Objetivo,Si
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+Si,13,2,1,0,0,0,2,0,4,Cliente Objetivo,Si
+No,6,0,0,0,1,2,2,0,0,Cliente Objetivo,No
+No,13,5,0,1,0,1,1,0,4,Cliente Leal,Si
+No,14,6,2,2,0,1,1,0,1,Cliente No Segmentado,Si
+Si,8,4,0,0,0,1,1,0,1,Cliente Leal,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,21,10,0,2,1,1,1,1,3,Cliente Leal,No
+No,14,2,0,2,0,1,9,0,0,Cliente Objetivo,Si
+Si,11,5,0,0,0,0,3,0,2,Cliente Leal,Si
+Si,3,1,0,0,0,1,0,0,1,Cliente Objetivo,Si
+Si,16,6,0,3,0,0,6,0,0,Cliente Leal,Si
+No,11,0,2,2,0,0,1,0,6,Cliente Objetivo,Si
+No,8,3,0,1,0,0,0,0,0,Cliente Leal,Si
+Si,6,2,2,0,0,0,1,0,1,Cliente No Segmentado,Si
+Si,6,2,0,0,0,1,3,0,0,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,29,9,3,4,2,2,2,0,6,Cliente No Segmentado,No
+No,8,2,0,1,1,1,1,1,1,Cliente Objetivo,No
+No,18,10,0,2,0,1,2,0,2,Cliente Leal,Si
+No,10,0,0,0,1,1,1,0,0,Cliente Objetivo,No
+No,7,1,0,0,1,1,0,1,3,Cliente Objetivo,Si
+Si,9,2,2,0,0,0,1,0,1,Cliente No Segmentado,Si
+Si,7,1,0,2,0,1,0,1,2,Cliente Objetivo,Si
+No,19,7,0,2,2,2,1,2,3,Cliente Leal,No
+Si,7,4,0,0,0,0,1,0,0,Cliente Leal,Si
+No,7,3,0,1,0,1,0,0,2,Cliente Leal,Si
+No,17,8,0,1,1,1,4,1,1,Cliente Leal,No
+No,14,1,0,5,0,3,5,0,0,Cliente Objetivo,Si
+No,8,4,0,0,0,1,2,0,1,Cliente Leal,Si
+Si,16,0,0,0,0,0,1,0,2,Cliente Objetivo,Si
+Si,8,0,0,0,0,0,1,0,2,Cliente Objetivo,Si
+Si,20,2,10,3,0,0,3,0,2,Cliente No Segmentado,Si
+No,9,3,0,2,0,1,1,0,2,Cliente Leal,Si
+No,6,0,0,3,0,1,1,0,1,Cliente Objetivo,Si
+No,32,10,9,1,1,3,3,1,3,Cliente No Segmentado,No
+Si,11,6,0,1,0,0,3,0,1,Cliente Leal,Si
+No,14,6,0,2,0,1,1,0,4,Cliente Leal,Si
+No,7,1,0,3,0,1,1,0,1,Cliente Objetivo,Si
+No,19,5,0,0,0,2,9,0,0,Cliente Leal,Si
+Si,11,8,0,1,0,0,1,0,0,Cliente Leal,Si
+No,16,5,1,1,0,3,3,1,1,Cliente Leal,Si
+Si,17,7,0,3,0,1,2,0,3,Cliente Leal,Si
+No,9,0,0,5,0,0,4,0,0,Cliente Objetivo,Si
+No,8,3,0,1,0,1,1,0,2,Cliente Leal,Si
+No,21,8,1,3,0,0,5,0,1,Cliente Leal,Si
+No,65,0,0,0,0,1,3,0,0,Cliente Objetivo,Si
+Si,16,0,0,0,0,0,1,0,2,Cliente Objetivo,Si
+Si,28,6,8,2,0,1,0,0,9,Cliente No Segmentado,Si
+Si,2,1,0,0,0,0,0,0,1,Cliente Objetivo,Si
+No,17,2,0,1,0,2,4,0,6,Cliente Objetivo,Si
+No,3,0,0,0,0,1,2,0,0,Cliente Objetivo,Si
+No,3,0,0,0,0,1,2,0,0,Cliente Objetivo,Si
+No,6,1,0,1,0,1,3,0,0,Cliente Objetivo,Si
+No,10,5,0,1,0,1,1,0,2,Cliente Leal,Si
+Si,16,10,0,0,0,0,2,0,2,Cliente Leal,Si
+No,22,3,0,0,0,0,3,0,11,Cliente Leal,Si
+No,4,0,0,1,0,1,2,0,0,Cliente Objetivo,Si
+No,11,6,0,1,0,1,1,0,2,Cliente Leal,Si
+No,10,3,1,1,0,0,1,0,4,Cliente Leal,Si
+No,11,6,0,0,0,1,1,0,2,Cliente Leal,Si
+No,14,3,1,2,0,2,3,0,3,Cliente Leal,Si
+Si,29,1,0,0,0,0,2,0,10,Cliente Objetivo,Si
+Si,17,2,6,4,0,2,0,0,3,Cliente No Segmentado,Si
+No,7,1,0,1,0,1,3,0,1,Cliente Objetivo,Si
+No,9,0,0,1,1,1,1,0,1,Cliente Objetivo,No
+No,10,2,0,3,0,1,1,0,3,Cliente Objetivo,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+Si,36,0,0,0,0,0,8,0,4,Cliente Objetivo,Si
+Si,5,1,2,1,0,0,0,0,1,Cliente Objetivo,Si
+No,8,0,0,0,0,1,1,0,2,Cliente Objetivo,Si
+Si,5,1,1,1,0,0,0,0,2,Cliente Objetivo,Si
+Si,11,6,0,1,0,0,2,0,1,Cliente Leal,Si
+Si,8,4,0,1,0,0,0,0,3,Cliente Leal,Si
+No,14,7,2,0,1,1,0,1,2,Cliente No Segmentado,No
+No,41,10,10,4,1,3,3,0,6,Cliente No Segmentado,No
+Si,6,0,0,0,0,0,0,0,0,Cliente Objetivo,Si
+No,23,8,0,4,1,1,4,1,1,Cliente Leal,No
+No,6,2,1,0,0,0,1,0,0,Cliente Objetivo,Si
+No,30,5,1,6,1,1,7,1,7,Cliente Leal,No
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+No,11,4,2,0,1,1,1,1,1,Cliente No Segmentado,No
+Si,4,1,0,0,0,1,0,0,1,Cliente Objetivo,Si
+Si,4,1,0,0,0,0,1,0,2,Cliente Objetivo,Si
+No,8,1,0,0,0,1,0,0,6,Cliente Objetivo,Si
+Si,21,6,6,0,0,0,2,0,1,Cliente No Segmentado,Si
+No,17,1,0,5,1,4,1,0,4,Cliente Objetivo,Si
+No,23,7,4,4,0,1,2,1,4,Cliente No Segmentado,Si
+Si,2,1,0,1,0,0,0,0,0,Cliente Objetivo,Si
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+No,3,1,0,0,0,1,1,0,0,Cliente Objetivo,Si
+No,7,1,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,5,1,0,0,0,1,0,1,2,Cliente Objetivo,Si
+No,41,10,2,6,1,1,6,1,11,Cliente No Segmentado,No
+No,28,9,2,2,1,5,0,1,5,Cliente No Segmentado,No
+No,2,0,0,0,0,1,0,0,1,Cliente Objetivo,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,10,2,0,4,0,0,1,0,2,Cliente Objetivo,Si
+No,10,0,1,0,0,0,1,0,4,Cliente Objetivo,Si
+Si,11,3,1,0,0,1,1,1,3,Cliente Leal,Si
+Si,13,4,2,0,0,0,5,0,2,Cliente No Segmentado,Si
+No,8,2,0,3,0,1,0,0,2,Cliente Objetivo,Si
+No,24,10,3,4,0,2,1,1,2,Cliente No Segmentado,Si
+No,18,5,4,2,0,3,0,0,4,Cliente No Segmentado,Si
+No,7,3,0,0,0,1,1,0,2,Cliente Leal,Si
+No,6,0,0,2,0,1,0,0,1,Cliente Objetivo,Si
+No,6,2,0,0,1,1,1,1,0,Cliente Objetivo,No
+No,5,0,0,0,0,2,3,0,0,Cliente Objetivo,Si
+No,7,4,0,1,0,0,2,0,0,Cliente Leal,Si
+Si,3,1,0,0,0,0,0,0,1,Cliente Objetivo,Si
+No,6,1,0,2,0,0,1,0,0,Cliente Objetivo,Si
+No,10,0,0,2,0,1,0,0,3,Cliente Objetivo,Si
+No,20,0,0,0,0,0,4,0,2,Cliente Objetivo,Si
+Si,4,0,0,1,1,1,0,0,1,Cliente Objetivo,No
+No,8,2,0,3,0,1,0,0,2,Cliente Objetivo,Si
+Si,5,0,0,1,0,0,0,0,1,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,12,4,0,2,0,2,1,0,3,Cliente Leal,Si
+Si,27,4,11,1,0,1,3,1,4,Cliente No Segmentado,Si
+Si,3,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,2,0,0,0,0,1,1,0,0,Cliente Objetivo,Si
+No,29,7,0,2,1,3,10,0,0,Cliente Leal,No
+No,31,6,0,6,1,1,4,1,6,Cliente Leal,No
+Si,30,7,0,1,0,0,13,0,0,Cliente Leal,Si
+No,10,4,0,0,0,1,3,0,1,Cliente Leal,Si
+No,9,0,0,2,0,2,4,0,1,Cliente Objetivo,Si
+No,6,3,0,0,0,0,1,0,1,Cliente Leal,Si
+No,17,2,0,2,1,2,9,0,0,Cliente Objetivo,No
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,54,3,0,2,1,1,0,1,1,Cliente Leal,No
+No,17,1,1,4,0,3,0,0,7,Cliente Objetivo,Si
+No,5,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,7,0,0,3,0,2,2,0,0,Cliente Objetivo,Si
+Si,21,4,4,0,0,1,0,0,10,Cliente No Segmentado,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,3,1,0,1,0,0,0,0,0,Cliente Objetivo,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,22,3,0,8,1,5,4,0,0,Cliente Leal,No
+Si,13,5,2,0,0,0,1,0,3,Cliente No Segmentado,Si
+No,11,0,0,3,0,2,1,0,2,Cliente Objetivo,Si
+Si,9,4,0,0,0,1,2,0,1,Cliente Leal,Si
+No,13,3,0,2,0,0,4,0,4,Cliente Leal,Si
+Si,9,5,0,0,0,1,2,0,1,Cliente Leal,Si
+No,29,7,0,1,1,0,4,0,0,Cliente Leal,No
+No,2,0,0,1,0,0,0,0,0,Cliente Objetivo,Si
+Si,3,1,0,0,0,0,1,0,0,Cliente Objetivo,Si
+Si,5,1,1,0,0,0,1,0,1,Cliente Objetivo,Si
+Si,22,6,1,4,0,3,2,1,1,Cliente Leal,Si
+No,5,0,0,3,0,0,0,0,2,Cliente Objetivo,Si
+No,33,2,0,2,0,3,13,0,0,Cliente Objetivo,Si
+Si,14,6,0,1,1,2,3,0,0,Cliente Leal,No
+No,4,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,6,2,0,0,0,0,3,0,0,Cliente Objetivo,Si
+No,13,3,0,0,1,1,1,1,1,Cliente Leal,Si
+No,10,0,0,1,0,0,0,0,4,Cliente Objetivo,Si
+No,20,6,8,2,0,2,1,0,1,Cliente No Segmentado,Si
+No,15,1,0,1,1,1,0,0,11,Cliente Objetivo,No
+No,6,0,0,1,0,1,1,0,2,Cliente Objetivo,Si
+Si,7,5,0,1,0,0,0,0,1,Cliente Leal,Si
+No,5,0,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,11,2,0,4,0,2,0,0,3,Cliente Objetivo,Si
+No,8,2,0,2,0,1,1,0,2,Cliente Objetivo,Si
+No,1,0,0,0,0,1,0,0,0,Cliente Objetivo,Si
+No,9,0,0,1,0,1,2,0,4,Cliente Objetivo,Si
+No,7,1,0,3,0,1,0,0,2,Cliente Objetivo,Si
+Si,8,2,0,0,0,0,3,0,1,Cliente Objetivo,Si
+No,14,6,0,0,0,1,6,0,1,Cliente Leal,Si
+No,11,3,0,1,0,3,1,0,3,Cliente Leal,Si
+Si,7,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,7,1,0,0,0,2,4,0,0,Cliente Objetivo,Si
+No,20,0,0,3,0,1,2,0,4,Cliente Objetivo,Si
+No,7,1,3,2,0,0,0,0,1,Cliente No Segmentado,Si
+Si,21,7,0,1,0,0,8,0,2,Cliente Leal,Si
+No,10,1,0,2,1,1,5,0,0,Cliente Objetivo,No
+No,11,0,0,0,1,1,0,0,3,Cliente Objetivo,No
+No,31,6,2,8,0,3,3,0,4,Cliente No Segmentado,Si
+No,19,2,0,2,0,0,6,0,0,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,5,0,1,0,0,0,2,0,1,Cliente Objetivo,Si
+No,6,0,0,2,0,2,2,0,0,Cliente Objetivo,Si
+No,10,3,1,1,1,1,1,1,1,Cliente Leal,No
+No,8,1,0,0,0,3,3,0,1,Cliente Objetivo,Si
+No,53,3,0,4,2,6,37,0,0,Cliente Leal,No
+No,7,2,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,47,0,0,2,0,1,1,0,4,Cliente Objetivo,Si
+No,2,10,0,5,0,1,3,1,9,Cliente Leal,Si
+No,18,1,0,2,0,1,7,0,0,Cliente Objetivo,Si
+No,13,4,0,2,0,1,3,0,3,Cliente Leal,Si
+No,5,2,0,0,0,0,1,0,2,Cliente Objetivo,Si
+No,1,4,4,2,0,3,1,0,2,Cliente No Segmentado,Si
+No,13,0,0,1,0,1,2,0,1,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,33,0,0,2,0,0,16,0,0,Cliente Objetivo,Si
+No,12,0,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,15,2,0,3,1,2,1,1,3,Cliente Objetivo,No
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,18,10,2,0,1,1,1,0,2,Cliente No Segmentado,No
+Si,22,3,2,1,0,0,0,0,0,Cliente No Segmentado,Si
+No,15,0,0,1,0,0,2,0,12,Cliente Objetivo,Si
+Si,2,0,0,0,1,1,0,0,0,Cliente Objetivo,No
+No,11,2,2,3,1,1,0,0,2,Cliente No Segmentado,No
+No,15,9,0,1,0,0,2,0,1,Cliente Leal,Si
+No,9,4,0,1,0,1,1,0,2,Cliente Leal,Si
+No,8,3,0,1,0,1,1,0,2,Cliente Leal,Si
+No,24,7,4,3,0,0,1,0,7,Cliente No Segmentado,Si
+No,10,2,0,2,0,2,0,0,4,Cliente Objetivo,Si
+No,8,1,0,1,1,1,1,1,1,Cliente Objetivo,No
+No,11,3,0,0,0,1,4,0,1,Cliente Leal,Si
+No,8,1,0,0,0,0,3,0,2,Cliente Objetivo,Si
+No,7,3,1,0,1,1,1,0,0,Cliente Leal,No
+Si,9,6,0,0,0,1,1,0,1,Cliente Leal,Si
+No,8,1,0,0,0,1,1,1,4,Cliente Objetivo,Si
+No,19,3,0,9,0,3,0,0,4,Cliente Leal,Si
+Si,6,3,0,0,0,0,1,0,1,Cliente Leal,Si
+Si,25,0,0,4,0,0,3,0,3,Cliente Objetivo,Si
+No,5,0,0,1,1,1,1,0,1,Cliente Objetivo,No
+No,17,2,6,2,0,0,3,0,2,Cliente No Segmentado,Si
+No,7,3,0,0,1,1,0,1,0,Cliente Leal,No
+No,12,3,0,2,0,1,3,0,3,Cliente Leal,Si
+No,11,5,0,1,1,1,1,1,0,Cliente Leal,Si
+No,17,6,0,2,0,0,5,0,2,Cliente Leal,Si
+Si,3,1,0,1,0,0,0,0,0,Cliente Objetivo,Si
+No,13,3,0,2,0,0,2,0,3,Cliente Leal,Si
+No,9,3,0,1,0,1,1,0,2,Cliente Leal,Si
+No,12,4,1,0,2,1,1,1,1,Cliente Leal,Si
+No,4,0,0,1,0,1,2,0,0,Cliente Objetivo,Si
+No,6,1,0,1,0,1,0,1,2,Cliente Objetivo,Si
+No,4,0,0,1,0,1,2,0,0,Cliente Objetivo,Si
+Si,3,0,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,8,3,0,1,0,0,2,0,2,Cliente Leal,Si
+No,12,1,0,1,1,2,4,0,2,Cliente Objetivo,No
+No,6,2,1,2,0,0,0,0,1,Cliente Objetivo,Si
+Si,11,9,0,0,0,0,1,0,0,Cliente Leal,Si
+Si,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,5,1,0,0,0,2,1,0,0,Cliente Objetivo,Si
+Si,4,1,0,2,0,0,0,0,1,Cliente Objetivo,Si
+Si,22,3,8,0,0,0,2,0,4,Cliente No Segmentado,Si
+No,11,2,0,3,0,1,3,0,2,Cliente Objetivo,Si
+No,9,3,0,0,1,1,1,1,1,Cliente Leal,No
+No,14,7,0,0,0,0,3,0,2,Cliente Leal,Si
+No,10,1,0,1,0,0,4,0,2,Cliente Objetivo,Si
+No,16,10,0,0,0,1,1,0,3,Cliente Leal,Si
+No,38,9,5,8,0,3,2,1,6,Cliente No Segmentado,Si
+No,14,0,0,2,0,1,5,0,1,Cliente Objetivo,Si
+Si,6,1,0,0,0,1,2,0,0,Cliente Objetivo,Si
+Si,7,1,0,0,0,0,3,0,2,Cliente Objetivo,Si
+No,1,0,0,1,0,0,0,0,0,Cliente Objetivo,Si
+Si,6,0,0,0,0,0,1,0,1,Cliente Objetivo,Si
+Si,14,5,4,1,0,0,1,0,3,Cliente No Segmentado,Si
+No,21,11,2,4,0,1,1,0,0,Cliente No Segmentado,Si
+No,2,0,0,1,0,0,1,0,0,Cliente Objetivo,Si
+Si,15,8,0,2,0,0,2,0,1,Cliente Leal,Si
+No,19,9,1,2,1,2,1,1,2,Cliente Leal,No
+No,2,0,0,0,0,1,0,0,1,Cliente Objetivo,Si
+Si,20,4,2,5,1,1,0,1,5,Cliente No Segmentado,No
+No,8,1,0,0,0,2,2,1,1,Cliente Objetivo,Si
+No,9,1,0,0,0,0,3,0,3,Cliente Objetivo,Si
+No,6,1,1,2,0,1,0,0,1,Cliente Objetivo,Si
+No,14,3,0,1,0,4,1,1,4,Cliente Leal,Si
+No,5,1,0,0,1,1,0,1,1,Cliente Objetivo,No
+No,8,5,1,1,0,0,0,0,1,Cliente Leal,Si
+No,11,4,0,1,1,1,2,1,1,Cliente Leal,No
+Si,16,8,0,0,0,1,3,0,3,Cliente Leal,Si
+No,28,6,7,3,1,1,5,0,0,Cliente No Segmentado,No
+No,51,4,0,9,3,6,0,1,7,Cliente Leal,No
+No,6,0,0,0,0,3,1,0,2,Cliente Objetivo,Si
+Si,5,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,11,1,0,0,0,2,0,1,7,Cliente Objetivo,Si
+No,1,5,0,2,0,0,4,0,0,Cliente Leal,Si
+No,12,1,0,2,0,3,4,0,0,Cliente Objetivo,Si
+No,7,1,0,2,0,0,4,0,0,Cliente Objetivo,Si
+Si,10,7,0,0,0,0,1,0,1,Cliente Leal,Si
+No,16,8,1,0,0,1,2,1,2,Cliente Leal,Si
+No,9,4,0,1,0,1,0,0,3,Cliente Leal,Si
+Si,12,3,0,0,0,1,4,0,1,Cliente Leal,Si
+No,28,1,0,0,0,0,4,0,15,Cliente Objetivo,Si
+No,8,2,0,3,0,1,0,1,1,Cliente Objetivo,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,16,5,0,2,1,3,4,0,1,Cliente Leal,No
+No,15,0,0,0,0,1,0,0,6,Cliente Objetivo,Si
+No,12,6,0,2,0,0,3,0,1,Cliente Leal,Si
+No,73,4,0,5,0,3,6,0,11,Cliente Leal,Si
+No,50,6,28,7,0,0,2,0,4,Cliente No Segmentado,Si
+No,2,0,0,1,0,1,0,0,0,Cliente Objetivo,Si
+Si,14,8,0,2,0,0,2,0,1,Cliente Leal,Si
+No,1,3,0,2,0,0,1,0,1,Cliente Leal,Si
+No,5,1,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,5,0,0,2,0,0,0,0,2,Cliente Objetivo,Si
+Si,13,3,0,0,0,0,1,0,9,Cliente Leal,Si
+No,7,1,0,0,0,0,2,0,1,Cliente Objetivo,Si
+No,19,3,0,0,0,3,0,0,10,Cliente Leal,Si
+No,60,0,0,12,0,1,36,0,0,Cliente Objetivo,Si
+Si,8,0,0,1,0,1,1,0,2,Cliente Objetivo,Si
+Si,4,1,0,0,0,0,2,0,1,Cliente Objetivo,Si
+No,7,2,0,0,1,1,1,1,1,Cliente Objetivo,No
+No,5,2,0,2,0,0,0,0,1,Cliente Objetivo,Si
+No,34,2,0,4,4,8,14,0,2,Cliente Objetivo,No
+No,21,6,0,3,1,2,1,0,6,Cliente Leal,Si
+Si,6,1,0,0,0,0,4,0,0,Cliente Objetivo,Si
+No,6,0,0,1,0,0,2,0,1,Cliente Objetivo,Si
+No,4,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,2,1,0,0,0,0,0,0,0,Cliente Objetivo,Si
+No,10,4,0,1,0,1,2,0,2,Cliente Leal,Si
+Si,19,10,1,1,0,0,1,0,4,Cliente Leal,Si
+No,10,4,0,2,0,0,2,0,2,Cliente Leal,Si
+No,10,4,1,0,1,1,1,0,0,Cliente Leal,No
+Si,24,6,2,10,0,0,2,0,4,Cliente No Segmentado,Si
+No,45,9,0,0,0,1,3,0,7,Cliente Leal,Si
+No,17,5,3,3,0,0,0,0,5,Cliente No Segmentado,Si
+Si,15,11,0,0,0,0,1,0,2,Cliente Leal,Si
+No,9,2,0,1,1,1,1,1,0,Cliente Objetivo,No
+No,7,1,0,1,0,1,0,0,3,Cliente Objetivo,Si
+Si,19,4,0,1,0,0,10,0,0,Cliente Leal,Si
+No,10,1,0,6,0,1,2,0,0,Cliente Objetivo,Si
+Si,4,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+Si,6,1,0,0,0,0,1,0,2,Cliente Objetivo,Si
+No,17,1,0,4,0,3,0,1,7,Cliente Objetivo,Si
+No,6,1,0,0,0,1,1,1,2,Cliente Objetivo,Si
+Si,8,2,0,0,1,2,2,0,1,Cliente Objetivo,No
+No,10,0,0,0,0,1,7,0,2,Cliente Objetivo,Si
+Si,8,1,0,1,0,0,1,0,4,Cliente Objetivo,Si
+Si,11,4,0,2,0,0,3,0,1,Cliente Leal,Si
+Si,10,6,0,1,0,0,1,0,2,Cliente Leal,Si
+Si,16,4,0,1,0,0,4,0,2,Cliente Leal,Si
+Si,4,0,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,9,4,0,1,0,1,2,0,1,Cliente Leal,Si
+No,6,0,0,0,1,2,1,0,0,Cliente Objetivo,No
+Si,3,1,1,0,0,0,0,0,1,Cliente Objetivo,Si
+Si,3,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+Si,6,2,1,0,0,1,0,0,2,Cliente Objetivo,Si
+No,8,1,0,3,0,1,0,1,2,Cliente Objetivo,Si
+Si,5,1,0,2,0,1,0,0,1,Cliente Objetivo,Si
+No,15,0,0,3,1,1,1,0,2,Cliente Objetivo,No
+Si,6,1,0,1,0,1,1,1,1,Cliente Objetivo,Si
+No,12,2,0,0,0,1,1,1,3,Cliente Objetivo,Si
+No,9,2,0,1,0,1,3,0,1,Cliente Objetivo,Si
+No,12,3,0,4,0,0,3,0,2,Cliente Leal,Si
+Si,10,5,0,0,0,0,1,0,3,Cliente Leal,Si
+No,8,1,0,1,0,2,1,2,1,Cliente Objetivo,Si
+No,7,2,0,1,0,1,2,0,1,Cliente Objetivo,Si
+No,15,5,1,3,0,1,1,0,3,Cliente Leal,Si
+Si,41,10,10,2,0,0,12,0,3,Cliente No Segmentado,Si
+Si,10,6,1,0,0,1,1,0,1,Cliente Leal,Si
+Si,5,2,0,0,0,0,0,0,2,Cliente Objetivo,Si
+Si,10,4,0,0,0,2,1,0,1,Cliente Leal,Si
+Si,16,0,1,1,0,0,1,0,1,Cliente Objetivo,Si
+No,8,0,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,9,2,1,3,0,1,0,0,2,Cliente Objetivo,Si
+Si,6,2,0,2,0,0,2,0,0,Cliente Objetivo,Si
+No,9,1,0,3,0,2,0,0,3,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,17,1,0,0,0,0,4,0,7,Cliente Objetivo,Si
+Si,5,1,0,0,1,1,1,1,0,Cliente Objetivo,No
+No,6,1,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,20,0,0,2,1,3,2,0,3,Cliente Objetivo,No
+No,17,0,0,0,0,0,3,0,1,Cliente Objetivo,Si
+No,6,0,0,2,1,1,2,0,0,Cliente Objetivo,No
+No,30,10,3,4,0,1,2,0,8,Cliente No Segmentado,Si
+Si,10,6,1,0,0,0,1,0,1,Cliente Leal,Si
+No,14,2,1,1,0,2,2,0,5,Cliente Objetivo,Si
+Si,5,1,0,0,0,1,0,1,2,Cliente Objetivo,Si
+No,19,7,0,0,0,1,4,0,2,Cliente Leal,Si
+No,15,7,1,2,0,1,2,0,2,Cliente Leal,Si
+No,17,5,0,5,0,1,3,1,2,Cliente Leal,Si
+Si,6,1,0,0,0,3,2,0,0,Cliente Objetivo,Si
+No,6,0,0,1,1,1,2,0,1,Cliente Objetivo,No
+No,4,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,13,7,0,0,0,0,3,0,3,Cliente Leal,Si
+Si,22,8,10,2,0,0,1,0,1,Cliente No Segmentado,Si
+Si,31,1,0,1,0,0,22,0,2,Cliente Objetivo,Si
+Si,17,0,0,0,0,0,0,0,1,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,14,2,0,1,1,2,1,1,6,Cliente Objetivo,No
+No,5,0,0,1,0,1,0,0,1,Cliente Objetivo,Si
+No,13,5,0,1,0,1,2,0,4,Cliente Leal,Si
+No,13,7,0,2,0,1,1,0,2,Cliente Leal,Si
+No,11,2,1,3,1,1,0,0,3,Cliente Objetivo,No
+No,51,0,0,8,0,0,5,0,4,Cliente Objetivo,Si
+No,11,5,0,1,1,1,1,1,1,Cliente Leal,No
+No,14,2,0,4,1,3,0,1,3,Cliente Objetivo,No
+No,26,0,0,2,0,1,3,0,6,Cliente Objetivo,Si
+Si,12,2,0,3,0,3,0,1,3,Cliente Objetivo,Si
+Si,13,6,2,1,0,1,1,1,0,Cliente No Segmentado,Si
+Si,17,6,1,0,1,1,2,1,2,Cliente Leal,No
+Si,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,2,0,0,2,0,0,0,0,0,Cliente Objetivo,Si
+Si,4,0,0,0,0,0,1,0,0,Cliente Objetivo,Si
+No,1,0,0,1,0,0,0,0,0,Cliente Objetivo,Si
+No,13,8,0,0,0,1,1,0,3,Cliente Leal,Si
+No,17,1,0,3,0,1,3,2,6,Cliente Objetivo,Si
+No,14,2,0,3,0,1,4,0,0,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,4,1,0,0,0,1,2,0,0,Cliente Objetivo,Si
+No,5,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,11,1,0,0,1,2,1,0,3,Cliente Objetivo,Si
+No,14,0,0,2,0,8,0,1,3,Cliente Objetivo,Si
+Si,39,10,3,5,1,4,2,0,9,Cliente No Segmentado,No
+No,1,3,3,1,0,2,0,0,12,Cliente No Segmentado,Si
+No,10,5,0,1,0,1,1,0,2,Cliente Leal,Si
+No,23,1,0,0,0,1,1,0,17,Cliente Objetivo,Si
+No,39,4,0,3,0,1,13,0,1,Cliente Leal,Si
+Si,10,6,0,0,0,1,1,0,2,Cliente Leal,Si
+No,10,1,0,0,0,0,2,0,6,Cliente Objetivo,Si
+No,12,0,0,0,0,6,5,0,1,Cliente Objetivo,Si
+Si,9,2,0,1,0,2,1,1,1,Cliente Objetivo,Si
+Si,9,1,0,2,0,1,3,0,2,Cliente Objetivo,Si
+No,1,0,0,1,3,1,10,0,1,Cliente Objetivo,No
+Si,10,0,0,2,0,0,0,0,1,Cliente Objetivo,Si
+No,7,1,0,3,0,1,2,0,0,Cliente Objetivo,Si
+No,7,2,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,21,8,1,2,0,3,0,1,6,Cliente Leal,Si
+Si,15,6,6,0,0,0,1,0,1,Cliente No Segmentado,Si
+No,20,3,0,3,1,1,7,0,0,Cliente Leal,No
+Si,13,0,0,1,0,0,2,0,1,Cliente Objetivo,Si
+No,6,0,0,1,0,1,1,0,3,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,6,3,0,0,0,0,1,0,2,Cliente Leal,Si
+Si,9,3,1,1,0,0,1,0,3,Cliente Leal,Si
+Si,17,6,0,2,0,0,2,0,6,Cliente Leal,Si
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+No,11,6,0,1,0,1,1,0,2,Cliente Leal,Si
+Si,10,1,0,1,1,1,1,1,2,Cliente Objetivo,No
+No,10,1,0,0,0,4,5,0,0,Cliente Objetivo,Si
+Si,5,1,1,0,0,0,2,0,1,Cliente Objetivo,Si
+No,5,0,0,2,0,0,3,0,0,Cliente Objetivo,Si
+No,1,0,0,1,0,0,0,0,0,Cliente Objetivo,Si
+No,8,0,0,3,0,1,3,0,1,Cliente Objetivo,Si
+No,16,8,0,1,0,3,1,0,1,Cliente Leal,Si
+No,4,1,0,1,0,1,1,0,0,Cliente Objetivo,Si
+Si,15,2,0,2,0,0,3,0,7,Cliente Objetivo,Si
+No,11,6,0,1,0,1,2,0,1,Cliente Leal,Si
+No,14,0,0,0,0,0,4,0,5,Cliente Objetivo,Si
+Si,4,1,0,0,0,0,1,0,0,Cliente Objetivo,Si
+No,17,0,0,1,0,1,1,0,6,Cliente Objetivo,Si
+No,4,1,0,1,0,1,1,0,0,Cliente Objetivo,Si
+No,17,10,0,1,0,1,3,0,1,Cliente Leal,Si
+No,10,3,1,1,1,2,0,0,2,Cliente Leal,No
+No,3,0,0,0,1,2,0,0,0,Cliente Objetivo,No
+No,6,1,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,31,1,0,3,0,0,3,0,1,Cliente Objetivo,Si
+No,10,4,0,1,0,0,1,0,3,Cliente Leal,Si
+No,4,1,0,1,0,1,1,0,0,Cliente Objetivo,Si
+No,18,1,0,9,0,1,6,0,0,Cliente Objetivo,Si
+No,10,2,0,0,1,1,2,1,3,Cliente Objetivo,No
+Si,4,3,0,0,0,0,1,0,0,Cliente Leal,Si
+No,16,3,0,1,0,0,7,0,1,Cliente Leal,Si
+No,4,1,0,0,0,0,1,0,2,Cliente Objetivo,Si
+No,9,0,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,10,3,0,2,0,1,1,0,2,Cliente Leal,Si
+No,18,7,2,2,1,1,1,1,2,Cliente No Segmentado,No
+No,14,5,0,0,1,1,0,1,6,Cliente Leal,No
+No,39,0,0,0,1,1,2,0,6,Cliente Objetivo,No
+No,1,0,0,0,0,1,0,0,0,Cliente Objetivo,Si
+Si,5,2,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,3,0,0,0,0,1,0,0,2,Cliente Objetivo,Si
+No,12,0,0,10,0,0,1,0,1,Cliente Objetivo,Si
+Si,7,3,0,0,0,1,3,0,0,Cliente Leal,Si
+No,34,2,0,4,1,3,15,0,0,Cliente Objetivo,No
+No,11,5,0,0,1,1,0,1,2,Cliente Leal,No
+Si,4,1,0,0,0,1,2,0,0,Cliente Objetivo,Si
+Si,3,0,0,0,0,0,1,0,0,Cliente Objetivo,Si
+No,9,0,0,1,1,1,5,0,1,Cliente Objetivo,No
+No,14,5,0,1,1,1,1,1,3,Cliente Leal,No
+No,4,1,0,1,0,1,0,0,1,Cliente Objetivo,Si
+No,13,7,0,0,1,1,1,1,1,Cliente Leal,No
+No,20,0,0,3,0,1,15,0,1,Cliente Objetivo,Si
+No,6,1,0,2,0,1,2,0,0,Cliente Objetivo,Si
+No,33,0,0,2,1,2,4,0,1,Cliente Objetivo,No
+No,9,5,0,0,0,1,1,0,2,Cliente Leal,Si
+Si,9,0,1,0,0,0,2,0,4,Cliente Objetivo,Si
+Si,14,0,0,1,0,1,3,0,4,Cliente Objetivo,Si
+No,14,7,0,2,0,1,3,0,1,Cliente Leal,Si
+No,14,5,0,1,1,1,1,0,4,Cliente Leal,No
+No,15,5,0,2,0,0,3,0,5,Cliente Leal,Si
+No,28,2,0,3,0,0,21,0,0,Cliente Objetivo,Si
+No,6,1,1,1,0,0,0,0,2,Cliente Objetivo,Si
+No,6,0,0,2,0,0,0,0,4,Cliente Objetivo,Si
+Si,11,5,0,1,0,0,1,0,3,Cliente Leal,Si
+No,4,1,0,1,0,1,0,0,0,Cliente Objetivo,Si
+No,25,4,0,1,0,6,12,0,0,Cliente Leal,Si
+No,28,0,0,3,0,1,2,0,4,Cliente Objetivo,Si
+No,10,0,0,1,0,0,8,0,0,Cliente Objetivo,Si
+Si,7,2,0,0,0,0,3,0,1,Cliente Objetivo,Si
+No,6,2,0,0,0,1,1,0,2,Cliente Objetivo,Si
+Si,4,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,6,1,0,0,0,1,1,1,2,Cliente Objetivo,Si
+No,11,3,0,2,0,0,0,0,5,Cliente Leal,Si
+Si,5,0,0,0,0,0,1,0,0,Cliente Objetivo,Si
+No,12,0,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,6,2,0,1,0,0,1,0,1,Cliente Objetivo,Si
+No,15,8,0,1,0,1,2,0,2,Cliente Leal,Si
+Si,5,1,0,0,0,0,2,0,1,Cliente Objetivo,Si
+No,5,0,0,1,0,1,0,1,2,Cliente Objetivo,Si
+Si,39,0,0,3,0,2,0,0,4,Cliente Objetivo,Si
+No,17,5,4,0,1,1,0,1,5,Cliente No Segmentado,No
+Si,5,0,0,0,0,0,1,0,3,Cliente Objetivo,Si
+No,11,3,0,1,0,0,1,0,1,Cliente Leal,Si
+No,23,7,1,3,0,0,1,0,11,Cliente Leal,Si
+Si,27,0,0,2,0,0,6,0,1,Cliente Objetivo,Si
+Si,10,3,0,0,0,0,1,0,4,Cliente Leal,Si
+Si,8,4,0,3,0,0,0,0,1,Cliente Leal,Si
+No,10,0,0,0,0,4,0,2,4,Cliente Objetivo,Si
+Si,6,4,0,0,0,0,1,0,0,Cliente Leal,Si
+No,11,1,0,2,0,3,4,0,1,Cliente Objetivo,Si
+No,11,6,0,1,0,1,1,0,2,Cliente Leal,Si
+No,7,0,0,2,0,2,0,1,2,Cliente Objetivo,Si
+No,50,0,0,2,1,1,4,0,4,Cliente Objetivo,No
+No,21,11,4,3,0,0,3,0,0,Cliente No Segmentado,Si
+No,14,6,0,0,1,1,2,1,2,Cliente Leal,No
+No,7,2,0,2,0,1,0,0,2,Cliente Objetivo,Si
+Si,18,7,0,3,0,0,3,0,2,Cliente Leal,Si
+Si,29,5,3,0,0,3,1,0,15,Cliente No Segmentado,Si
+No,6,1,0,0,0,1,4,0,0,Cliente Objetivo,Si
+Si,8,2,0,3,0,0,1,0,1,Cliente Objetivo,Si
+No,22,2,0,0,1,3,12,0,3,Cliente Objetivo,No
+Si,7,3,1,0,0,0,1,0,0,Cliente Leal,Si
+No,15,4,0,2,1,1,2,1,4,Cliente Leal,No
+No,21,7,0,4,0,0,4,0,2,Cliente Leal,Si
+Si,26,7,6,2,0,0,2,0,4,Cliente No Segmentado,Si
+No,17,10,1,2,0,1,1,0,2,Cliente Leal,Si
+Si,18,0,0,1,0,1,10,0,0,Cliente Objetivo,Si
+Si,10,0,0,5,0,5,0,0,0,Cliente Objetivo,Si
+No,10,2,0,0,0,2,5,0,1,Cliente Objetivo,Si
+Si,10,4,0,1,1,1,3,0,0,Cliente Leal,No
+No,8,1,0,0,1,2,1,1,1,Cliente Objetivo,No
+Si,11,0,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,5,1,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,7,2,0,2,0,0,2,0,1,Cliente Objetivo,Si
+No,8,1,0,0,0,3,4,0,0,Cliente Objetivo,Si
+Si,40,4,6,6,0,2,0,2,14,Cliente No Segmentado,Si
+No,6,0,0,0,0,2,0,1,3,Cliente Objetivo,Si
+No,42,7,10,8,0,4,1,0,12,Cliente No Segmentado,Si
+No,7,2,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,7,1,0,1,1,1,0,0,3,Cliente Objetivo,No
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,10,0,0,3,0,0,7,0,0,Cliente Objetivo,Si
+No,11,4,0,1,0,1,1,0,4,Cliente Leal,Si
+Si,3,1,0,0,0,0,0,0,1,Cliente Objetivo,Si
+Si,14,4,0,1,0,0,3,0,0,Cliente Leal,Si
+No,6,1,0,1,0,1,1,1,1,Cliente Objetivo,Si
+No,47,3,0,1,1,2,1,0,0,Cliente Leal,No
+No,15,5,2,3,0,1,2,0,2,Cliente No Segmentado,Si
+No,12,0,0,0,2,2,8,0,0,Cliente Objetivo,No
+No,11,1,0,1,0,0,8,0,1,Cliente Objetivo,Si
+No,15,0,0,1,1,1,2,0,3,Cliente Objetivo,No
+No,6,1,0,0,0,1,0,1,2,Cliente Objetivo,Si
+No,6,0,0,1,0,1,1,0,3,Cliente Objetivo,Si
+Si,14,3,0,0,1,2,0,0,7,Cliente Leal,No
+Si,5,1,1,1,0,0,1,0,1,Cliente Objetivo,Si
+No,31,1,0,1,0,0,23,0,0,Cliente Objetivo,Si
+Si,4,1,0,1,0,0,1,0,1,Cliente Objetivo,Si
+No,10,5,0,1,0,1,1,0,2,Cliente Leal,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,6,1,1,3,0,0,0,0,1,Cliente Objetivo,Si
+No,55,8,25,11,0,1,2,1,4,Cliente No Segmentado,Si
+Si,13,4,0,1,0,0,6,0,0,Cliente Leal,Si
+No,10,4,1,0,0,2,1,0,2,Cliente Leal,Si
+No,10,2,0,3,0,2,0,0,3,Cliente Objetivo,Si
+Si,31,7,8,3,0,2,2,1,8,Cliente No Segmentado,Si
+No,5,2,0,0,0,0,0,0,3,Cliente Objetivo,Si
+No,6,0,0,1,0,1,3,0,1,Cliente Objetivo,Si
+No,4,0,0,1,0,2,1,0,0,Cliente Objetivo,Si
+Si,13,1,0,1,0,1,2,0,2,Cliente Objetivo,Si
+Si,7,2,0,0,1,1,2,1,0,Cliente Objetivo,No
+Si,17,4,5,0,0,0,1,0,5,Cliente No Segmentado,Si
+No,17,11,0,1,1,1,1,1,0,Cliente Leal,No
+Si,7,3,0,0,0,0,1,0,2,Cliente Leal,Si
+No,5,1,0,0,1,2,1,0,0,Cliente Objetivo,No
+No,3,0,0,3,0,0,0,0,0,Cliente Objetivo,Si
+Si,7,1,2,0,0,1,0,1,0,Cliente Objetivo,Si
+No,6,1,0,1,0,1,0,0,3,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,30,8,6,5,0,1,6,0,0,Cliente No Segmentado,Si
+No,14,1,1,0,0,4,1,1,4,Cliente Objetivo,Si
+Si,4,1,0,1,0,1,0,0,1,Cliente Objetivo,Si
+Si,2,1,0,0,0,0,0,0,1,Cliente Objetivo,Si
+No,4,1,0,1,0,1,0,0,1,Cliente Objetivo,Si
+Si,7,2,1,0,0,0,2,0,2,Cliente Objetivo,Si
+Si,30,7,6,3,0,0,4,0,8,Cliente No Segmentado,Si
+No,10,5,0,0,0,2,2,0,0,Cliente Leal,Si
+No,6,2,0,0,0,1,1,0,2,Cliente Objetivo,Si
+Si,21,8,5,3,0,0,0,0,4,Cliente No Segmentado,Si
+No,9,1,0,1,0,1,1,0,3,Cliente Objetivo,Si
+No,9,0,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,22,1,0,1,0,1,0,1,1,Cliente Objetivo,Si
+No,8,1,0,2,0,2,0,2,1,Cliente Objetivo,Si
+No,26,6,0,2,3,4,2,1,8,Cliente Leal,No
+No,5,1,0,1,0,1,1,0,1,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,7,0,0,0,0,0,0,0,2,Cliente Objetivo,Si
+No,16,5,1,0,1,1,1,1,3,Cliente Leal,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,27,11,0,3,0,0,3,0,4,Cliente Leal,Si
+Si,12,6,1,1,0,0,2,0,1,Cliente Leal,Si
+No,5,0,0,2,0,1,1,0,1,Cliente Objetivo,Si
+No,10,1,0,3,0,1,2,1,2,Cliente Objetivo,Si
+No,35,10,0,2,0,3,1,1,10,Cliente Leal,Si
+No,25,4,2,6,1,2,4,0,6,Cliente No Segmentado,No
+Si,5,2,0,0,0,0,1,0,1,Cliente Objetivo,Si
+Si,31,11,16,0,0,0,2,0,1,Cliente No Segmentado,Si
+Si,7,2,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,14,3,3,1,1,1,2,1,2,Cliente No Segmentado,No
+No,35,3,0,2,0,1,16,0,0,Cliente Leal,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+Si,6,2,0,0,0,0,2,0,2,Cliente Objetivo,Si
+Si,5,1,0,0,0,1,2,0,1,Cliente Objetivo,Si
+No,8,0,0,1,0,1,6,0,0,Cliente Objetivo,Si
+Si,12,4,0,0,1,2,1,1,2,Cliente Leal,No
+No,13,7,0,1,0,2,1,0,2,Cliente Leal,Si
+No,33,10,7,6,0,0,1,0,7,Cliente No Segmentado,Si
+No,7,1,0,1,0,0,1,0,3,Cliente Objetivo,Si
+Si,4,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,4,0,0,1,1,2,0,0,0,Cliente Objetivo,No
+No,3,0,0,0,0,1,1,0,1,Cliente Objetivo,Si
+Si,7,1,0,0,0,2,0,1,3,Cliente Objetivo,Si
+Si,18,4,0,2,0,1,1,1,8,Cliente Leal,Si
+No,1,0,0,0,0,5,1,0,0,Cliente Objetivo,Si
+No,153,9,0,3,0,1,120,0,0,Cliente Leal,Si
+No,34,8,5,1,1,2,5,1,5,Cliente No Segmentado,No
+Si,19,8,0,1,0,0,6,0,3,Cliente Leal,Si
+No,15,1,0,3,0,3,7,0,1,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,10,1,1,6,0,1,0,0,1,Cliente Objetivo,Si
+No,4,0,0,1,1,1,0,0,1,Cliente Objetivo,No
+No,12,8,0,0,0,1,1,0,2,Cliente Leal,Si
+Si,15,5,3,0,0,1,1,0,3,Cliente No Segmentado,Si
+No,7,1,0,0,1,1,2,1,1,Cliente Objetivo,Si
+No,15,2,0,2,1,2,4,0,4,Cliente Objetivo,No
+Si,7,1,2,3,0,0,0,0,1,Cliente Objetivo,Si
+Si,13,8,0,0,0,0,1,0,4,Cliente Leal,Si
+No,5,1,0,0,0,1,1,0,2,Cliente Objetivo,Si
+Si,6,3,0,0,0,0,1,0,1,Cliente Leal,Si
+No,46,9,0,1,0,1,5,1,17,Cliente Leal,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+Si,18,11,0,3,0,1,5,0,1,Cliente Leal,Si
+Si,7,3,0,1,0,0,0,0,3,Cliente Leal,Si
+No,8,3,0,1,0,1,1,0,2,Cliente Leal,Si
+No,11,5,0,0,0,1,1,0,4,Cliente Leal,Si
+No,14,11,0,1,0,0,1,0,0,Cliente Leal,Si
+No,1,1,0,3,0,0,4,0,4,Cliente Objetivo,Si
+No,3,0,0,2,0,0,1,0,0,Cliente Objetivo,Si
+No,10,5,0,1,0,1,1,0,2,Cliente Leal,Si
+Si,31,9,5,0,0,1,5,1,5,Cliente No Segmentado,Si
+No,27,10,5,4,0,0,3,0,4,Cliente No Segmentado,Si
+No,19,1,0,1,0,0,8,0,0,Cliente Objetivo,Si
+Si,31,4,11,0,0,1,3,0,3,Cliente No Segmentado,Si
+No,6,0,0,1,0,1,1,0,3,Cliente Objetivo,Si
+No,5,1,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,15,1,0,1,0,0,1,0,10,Cliente Objetivo,Si
+No,2,0,0,1,0,0,0,0,1,Cliente Objetivo,Si
+No,9,3,0,0,0,1,1,1,3,Cliente Leal,Si
+No,31,4,0,5,0,1,5,1,8,Cliente Leal,Si
+Si,17,4,0,4,0,3,0,0,6,Cliente Leal,Si
+No,14,3,2,1,1,1,1,1,2,Cliente No Segmentado,No
+No,7,3,0,0,0,1,1,0,1,Cliente Leal,Si
+No,8,1,0,2,0,0,4,0,0,Cliente Objetivo,Si
+No,2,0,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,6,0,0,1,0,2,3,0,0,Cliente Objetivo,Si
+Si,18,0,1,3,0,0,3,0,11,Cliente Objetivo,Si
+No,4,0,0,3,0,0,1,0,0,Cliente Objetivo,Si
+No,21,4,7,2,0,0,3,0,0,Cliente No Segmentado,Si
+No,15,4,2,2,1,1,1,1,1,Cliente No Segmentado,No
+Si,4,2,0,1,0,0,0,0,1,Cliente Objetivo,Si
+Si,18,2,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,11,1,0,4,1,1,1,1,2,Cliente Objetivo,No
+Si,3,0,0,0,0,0,1,0,1,Cliente Objetivo,Si
+Si,8,4,0,0,0,0,1,0,2,Cliente Leal,Si
+No,1,0,0,0,0,1,0,0,0,Cliente Objetivo,Si
+No,21,3,0,2,2,3,11,0,0,Cliente Leal,No
+No,11,4,0,3,0,1,1,0,2,Cliente Leal,Si
+No,5,1,0,3,0,0,0,0,1,Cliente Objetivo,Si
+No,13,4,0,0,1,2,2,0,4,Cliente Leal,No
+No,8,0,0,5,0,1,1,0,1,Cliente Objetivo,Si
+No,9,4,0,1,0,0,1,0,3,Cliente Leal,Si
+No,11,2,0,1,0,0,6,0,0,Cliente Objetivo,Si
+No,29,1,0,0,0,1,22,0,2,Cliente Objetivo,Si
+Si,8,4,0,2,0,1,1,0,0,Cliente Leal,Si
+No,1,0,0,1,0,2,0,0,0,Cliente Objetivo,Si
+Si,18,3,0,2,0,0,3,0,7,Cliente Leal,Si
+Si,5,1,0,0,0,0,2,0,2,Cliente Objetivo,Si
+No,40,5,14,10,0,5,1,0,5,Cliente No Segmentado,Si
+No,4,1,0,1,0,1,1,0,0,Cliente Objetivo,Si
+No,17,3,0,1,0,1,5,0,1,Cliente Leal,Si
+No,28,1,0,1,0,0,2,0,16,Cliente Objetivo,Si
+Si,11,3,0,4,0,1,1,0,2,Cliente Leal,Si
+No,6,1,0,1,0,0,1,0,3,Cliente Objetivo,Si
+No,15,2,0,2,0,1,10,0,0,Cliente Objetivo,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,5,0,0,1,0,0,1,0,1,Cliente Objetivo,Si
+No,18,2,0,1,0,0,8,0,1,Cliente Objetivo,Si
+No,73,3,0,6,2,3,53,0,3,Cliente Leal,No
+No,5,0,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,18,7,0,1,1,1,1,0,7,Cliente Leal,No
+No,8,1,0,1,0,1,1,1,3,Cliente Objetivo,Si
+No,1,0,0,0,0,1,0,0,0,Cliente Objetivo,Si
+No,10,3,0,0,0,0,6,0,0,Cliente Leal,Si
+No,1,0,0,1,0,0,0,0,0,Cliente Objetivo,Si
+No,18,4,1,4,0,2,1,1,4,Cliente Leal,Si
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+Si,12,5,4,0,0,0,1,0,1,Cliente No Segmentado,Si
+No,36,11,3,6,1,2,2,0,9,Cliente No Segmentado,Si
+No,19,1,0,1,0,0,7,0,0,Cliente Objetivo,Si
+Si,19,4,9,0,0,0,2,0,1,Cliente No Segmentado,Si
+No,6,0,0,3,0,0,1,0,2,Cliente Objetivo,Si
+No,18,3,0,0,0,0,3,0,7,Cliente Leal,Si
+No,20,6,0,1,1,1,1,1,7,Cliente Leal,Si
+No,25,5,3,2,1,4,3,0,6,Cliente No Segmentado,No
+Si,42,9,0,6,0,0,1,0,1,Cliente Leal,Si
+No,18,10,1,0,1,1,2,0,2,Cliente Leal,No
+No,16,7,0,2,0,3,4,0,0,Cliente Leal,Si
+Si,3,1,0,0,0,0,0,0,1,Cliente Objetivo,Si
+Si,19,9,0,0,0,0,0,0,4,Cliente Leal,Si
+No,11,1,0,0,0,1,0,0,2,Cliente Objetivo,Si
+Si,30,11,6,0,0,3,1,0,6,Cliente No Segmentado,Si
+No,9,1,0,0,0,3,1,0,3,Cliente Objetivo,Si
+Si,3,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+Si,2,1,0,0,0,0,0,0,1,Cliente Objetivo,Si
+No,8,1,0,5,0,0,1,0,0,Cliente Objetivo,Si
+No,3,0,0,0,0,1,2,0,0,Cliente Objetivo,Si
+No,21,3,0,0,0,0,2,0,12,Cliente Leal,Si
+Si,15,2,3,0,0,0,4,0,3,Cliente No Segmentado,Si
+Si,7,2,0,0,0,1,3,0,1,Cliente Objetivo,Si
+No,25,9,8,0,0,0,1,0,4,Cliente No Segmentado,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,3,0,0,1,0,1,1,0,0,Cliente Objetivo,Si
+No,12,1,0,0,0,1,0,0,3,Cliente Objetivo,Si
+No,26,1,0,4,0,2,18,0,0,Cliente Objetivo,Si
+No,10,2,0,2,0,1,0,0,5,Cliente Objetivo,Si
+No,14,7,0,2,0,1,1,1,2,Cliente Leal,Si
+No,10,0,0,1,0,0,1,0,7,Cliente Objetivo,Si
+Si,10,4,0,2,0,0,2,0,1,Cliente Leal,Si
+Si,19,6,0,0,0,0,3,0,7,Cliente Leal,Si
+Si,6,2,0,0,0,1,1,0,1,Cliente Objetivo,Si
+No,35,8,0,3,0,1,4,0,16,Cliente Leal,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+Si,5,1,0,0,0,1,2,0,0,Cliente Objetivo,Si
+Si,19,7,7,1,0,0,1,0,3,Cliente No Segmentado,Si
+No,13,3,0,1,0,3,2,1,1,Cliente Leal,Si
+No,12,1,0,1,0,0,4,0,6,Cliente Objetivo,Si
+No,8,0,0,1,0,2,4,0,1,Cliente Objetivo,Si
+Si,19,9,4,2,0,0,1,0,1,Cliente No Segmentado,Si
+No,15,4,0,4,0,1,3,1,2,Cliente Leal,Si
+No,6,2,0,1,0,1,2,0,0,Cliente Objetivo,Si
+Si,7,0,0,1,0,0,2,0,2,Cliente Objetivo,Si
+No,21,7,8,1,0,0,2,0,0,Cliente No Segmentado,Si
+No,3,0,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,6,0,0,1,0,0,5,0,0,Cliente Objetivo,Si
+No,13,3,0,2,0,0,3,0,2,Cliente Leal,Si
+No,1,2,0,3,0,2,1,1,2,Cliente Objetivo,Si
+No,7,0,1,2,1,1,0,1,0,Cliente Objetivo,No
+Si,4,1,0,0,0,1,0,1,0,Cliente Objetivo,Si
+No,5,1,0,1,0,2,1,0,0,Cliente Objetivo,Si
+No,27,5,5,10,0,3,1,0,3,Cliente No Segmentado,Si
+Si,23,11,1,0,0,0,3,0,3,Cliente Leal,Si
+No,12,2,0,2,0,2,2,1,3,Cliente Objetivo,Si
+No,10,4,0,0,0,1,1,0,1,Cliente Leal,Si
+No,1,0,0,1,0,0,0,0,0,Cliente Objetivo,Si
+Si,9,3,2,1,0,0,1,0,2,Cliente No Segmentado,Si
+No,16,1,0,3,0,7,2,1,2,Cliente Objetivo,Si
+Si,22,8,3,1,0,1,3,0,3,Cliente No Segmentado,Si
+No,13,5,0,1,0,1,2,1,2,Cliente Leal,Si
+No,15,0,0,0,2,1,2,0,2,Cliente Objetivo,No
+No,32,8,0,4,0,1,17,0,0,Cliente Leal,Si
+No,22,4,0,1,1,1,5,1,7,Cliente Leal,No
+No,16,8,0,0,0,1,2,0,3,Cliente Leal,Si
+Si,19,6,0,0,0,0,3,0,5,Cliente Leal,Si
+No,16,7,0,0,0,1,2,1,2,Cliente Leal,Si
+No,7,1,0,1,0,1,0,0,3,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,9,1,1,1,1,3,0,1,0,Cliente Objetivo,No
+No,25,0,0,1,0,1,6,0,4,Cliente Objetivo,Si
+Si,29,11,7,3,0,0,3,0,4,Cliente No Segmentado,Si
+No,9,4,0,1,0,1,1,0,2,Cliente Leal,Si
+No,12,3,0,1,0,0,5,0,2,Cliente Leal,Si
+No,10,5,0,0,1,1,1,1,0,Cliente Leal,No
+No,3,0,0,2,0,0,1,0,0,Cliente Objetivo,Si
+No,7,0,0,0,0,1,1,0,1,Cliente Objetivo,Si
+No,56,4,0,1,0,1,3,0,21,Cliente Leal,Si
+Si,22,5,1,0,0,0,2,0,8,Cliente Leal,Si
+No,8,3,0,0,0,1,0,1,2,Cliente Leal,Si
+No,4,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,4,2,0,0,0,0,0,0,2,Cliente Objetivo,Si
+No,13,5,0,2,0,0,2,0,2,Cliente Leal,Si
+No,15,3,0,2,0,0,2,0,4,Cliente Leal,Si
+Si,11,3,2,2,0,0,1,0,1,Cliente No Segmentado,Si
+No,17,4,3,1,0,1,3,0,4,Cliente No Segmentado,Si
+Si,13,6,0,2,0,1,1,0,3,Cliente Leal,Si
+No,4,0,0,1,0,1,2,0,0,Cliente Objetivo,Si
+Si,3,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,20,1,0,1,0,4,7,0,5,Cliente Objetivo,Si
+No,7,2,0,1,0,1,1,0,1,Cliente Objetivo,Si
+No,7,1,0,2,0,0,2,0,0,Cliente Objetivo,Si
+Si,4,1,0,0,0,0,2,0,1,Cliente Objetivo,Si
+No,10,4,0,0,0,0,1,0,4,Cliente Leal,Si
+No,8,5,0,1,0,0,1,0,1,Cliente Leal,Si
+No,22,10,4,0,0,0,3,0,2,Cliente No Segmentado,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,14,0,0,1,0,1,1,0,3,Cliente Objetivo,Si
+No,32,11,0,3,0,3,1,1,7,Cliente Leal,Si
+No,38,2,0,6,5,7,13,0,5,Cliente Objetivo,No
+No,11,3,3,1,0,2,0,0,2,Cliente No Segmentado,Si
+No,14,2,0,2,1,3,6,0,0,Cliente Objetivo,No
+Si,4,1,1,0,0,0,0,0,2,Cliente Objetivo,Si
+Si,9,3,0,2,0,0,2,0,2,Cliente Leal,Si
+No,11,1,0,5,0,1,2,0,2,Cliente Objetivo,Si
+No,7,0,0,3,0,1,3,0,0,Cliente Objetivo,Si
+No,11,0,0,0,0,0,1,0,2,Cliente Objetivo,Si
+No,7,0,0,0,0,0,1,0,2,Cliente Objetivo,Si
+No,17,0,0,2,0,0,1,0,4,Cliente Objetivo,Si
+No,7,0,1,1,1,2,1,0,1,Cliente Objetivo,No
+Si,10,4,3,0,0,0,2,0,0,Cliente No Segmentado,Si
+No,20,6,0,1,1,3,2,1,3,Cliente Leal,No
+No,5,0,0,2,0,1,2,0,0,Cliente Objetivo,Si
+Si,15,7,0,0,0,1,6,0,0,Cliente Leal,Si
+No,2,3,0,0,0,2,1,0,8,Cliente Leal,Si
+No,21,4,1,2,0,2,2,1,9,Cliente Leal,Si
+No,6,1,0,1,1,1,1,0,1,Cliente Objetivo,No
+No,5,0,0,0,0,1,3,0,1,Cliente Objetivo,Si
+Si,4,0,0,0,0,0,0,0,1,Cliente Objetivo,Si
+Si,20,4,1,2,0,2,1,0,6,Cliente Leal,Si
+No,10,0,0,1,0,1,4,0,4,Cliente Objetivo,Si
+Si,5,1,0,0,0,0,3,0,0,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,13,2,0,1,1,1,2,1,1,Cliente Objetivo,No
+Si,7,4,0,0,0,0,1,0,0,Cliente Leal,Si
+Si,16,0,0,2,0,0,1,0,1,Cliente Objetivo,Si
+No,8,2,0,0,0,2,1,0,3,Cliente Objetivo,Si
+No,11,0,0,3,0,1,0,0,4,Cliente Objetivo,Si
+No,11,5,1,1,1,1,1,1,0,Cliente Leal,Si
+Si,29,9,6,3,1,2,2,0,3,Cliente No Segmentado,Si
+No,3,0,0,3,0,0,0,0,0,Cliente Objetivo,Si
+Si,38,7,3,6,0,2,8,1,9,Cliente No Segmentado,Si
+No,13,7,0,0,0,1,1,0,3,Cliente Leal,Si
+No,10,4,0,1,0,1,1,1,0,Cliente Leal,Si
+No,1,0,0,3,0,1,1,0,1,Cliente Objetivo,Si
+No,10,4,0,1,0,1,1,1,1,Cliente Leal,Si
+No,9,1,0,0,1,3,1,1,1,Cliente Objetivo,No
+Si,31,8,8,3,0,1,8,0,2,Cliente No Segmentado,Si
+Si,10,2,0,1,0,2,4,0,0,Cliente Objetivo,Si
+No,10,6,0,1,0,1,1,0,0,Cliente Leal,Si
+No,4,0,0,0,0,1,3,0,0,Cliente Objetivo,Si
+No,4,0,0,0,0,0,0,0,2,Cliente Objetivo,Si
+No,5,1,0,0,0,2,2,0,0,Cliente Objetivo,Si
+No,17,8,2,0,0,2,2,0,2,Cliente No Segmentado,Si
+No,30,2,0,6,0,9,13,0,0,Cliente Objetivo,Si
+No,6,0,0,1,0,1,4,0,0,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,36,6,0,3,0,5,6,0,15,Cliente Leal,Si
+No,9,0,0,2,0,0,1,0,2,Cliente Objetivo,Si
+No,9,0,0,1,1,1,2,0,1,Cliente Objetivo,No
+No,11,5,1,1,0,1,1,0,2,Cliente Leal,Si
+No,8,4,0,0,0,1,2,0,1,Cliente Leal,Si
+No,16,8,1,2,0,1,1,0,3,Cliente Leal,Si
+Si,3,0,0,2,0,0,0,0,3,Cliente Objetivo,Si
+No,2,0,0,1,0,0,0,0,1,Cliente Objetivo,Si
+Si,7,1,4,1,0,0,0,0,1,Cliente No Segmentado,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+Si,22,4,0,3,0,1,6,0,1,Cliente Leal,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,11,1,0,0,0,2,1,0,7,Cliente Objetivo,Si
+No,3,1,0,1,0,0,0,0,1,Cliente Objetivo,Si
+No,14,0,0,0,0,0,1,0,10,Cliente Objetivo,Si
+No,48,6,8,7,0,5,1,0,13,Cliente No Segmentado,Si
+Si,7,0,0,0,0,0,1,0,5,Cliente Objetivo,Si
+Si,30,6,4,5,1,1,1,1,10,Cliente No Segmentado,Si
+No,13,4,0,1,0,1,4,0,3,Cliente Leal,Si
+No,24,1,0,0,0,0,11,0,8,Cliente Objetivo,Si
+Si,6,4,0,0,0,0,1,0,0,Cliente Leal,Si
+No,12,7,0,1,0,1,1,0,2,Cliente Leal,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,17,8,0,1,1,1,2,1,3,Cliente Leal,No
+Si,10,4,0,1,0,1,4,0,0,Cliente Leal,Si
+No,6,1,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,24,1,0,0,0,4,15,0,0,Cliente Objetivo,Si
+No,18,1,0,0,1,2,13,0,0,Cliente Objetivo,No
+Si,6,1,1,0,1,1,1,1,0,Cliente Objetivo,No
+No,25,10,9,4,0,0,1,0,0,Cliente No Segmentado,Si
+No,14,1,0,6,0,0,6,0,0,Cliente Objetivo,Si
+Si,9,0,0,0,0,1,1,0,0,Cliente Objetivo,Si
+No,19,3,1,3,1,1,4,1,4,Cliente Leal,No
+Si,2,1,0,0,0,0,1,0,0,Cliente Objetivo,Si
+No,9,1,2,3,0,0,0,0,2,Cliente Objetivo,Si
+Si,4,1,1,0,0,0,0,0,1,Cliente Objetivo,Si
+No,19,1,0,1,0,1,1,0,11,Cliente Objetivo,Si
+No,8,2,2,1,0,1,0,0,2,Cliente No Segmentado,Si
+No,13,6,1,1,1,1,1,1,0,Cliente Leal,No
+No,9,3,0,0,0,0,3,0,2,Cliente Leal,Si
+No,9,3,0,1,0,1,2,0,2,Cliente Leal,Si
+Si,6,1,0,0,0,1,2,0,0,Cliente Objetivo,Si
+No,2,0,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,32,3,3,5,1,3,6,2,4,Cliente No Segmentado,Si
+No,14,1,0,5,0,4,4,0,0,Cliente Objetivo,Si
+No,19,2,0,0,0,0,2,0,8,Cliente Objetivo,Si
+No,21,5,0,3,1,2,3,1,1,Cliente Leal,No
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+Si,5,1,0,1,0,1,2,0,0,Cliente Objetivo,Si
+Si,3,0,0,0,1,1,0,0,1,Cliente Objetivo,No
+No,17,0,0,4,2,7,4,0,0,Cliente Objetivo,No
+No,17,6,1,1,0,0,3,0,2,Cliente Leal,Si
+No,8,2,0,3,0,1,0,0,2,Cliente Objetivo,Si
+No,12,5,0,0,1,2,1,1,1,Cliente Leal,Si
+No,10,1,0,0,0,0,2,0,4,Cliente Objetivo,Si
+No,13,1,0,2,1,3,0,1,5,Cliente Objetivo,No
+No,3,0,0,1,0,0,2,0,0,Cliente Objetivo,Si
+No,25,0,0,4,1,1,2,0,9,Cliente Objetivo,No
+Si,9,2,2,1,0,0,1,0,3,Cliente No Segmentado,Si
+Si,13,6,3,0,0,0,1,0,2,Cliente No Segmentado,Si
+Si,5,1,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,23,3,0,4,0,1,9,1,5,Cliente Leal,Si
+Si,12,5,1,1,0,0,2,0,1,Cliente Leal,Si
+No,12,4,0,1,0,1,4,0,1,Cliente Leal,Si
+Si,7,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+Si,8,2,0,2,0,0,4,0,0,Cliente Objetivo,Si
+No,20,6,5,0,0,0,6,0,2,Cliente No Segmentado,Si
+No,10,4,0,1,0,0,2,0,2,Cliente Leal,Si
+No,7,3,0,2,0,0,2,0,0,Cliente Leal,Si
+No,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,4,0,0,3,0,0,1,0,0,Cliente Objetivo,Si
+No,9,4,0,0,0,1,3,0,1,Cliente Leal,Si
+No,12,4,0,1,0,1,2,0,4,Cliente Leal,Si
+No,5,0,0,2,0,1,0,0,1,Cliente Objetivo,Si
+Si,5,0,0,0,0,0,1,0,0,Cliente Objetivo,Si
+No,4,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,5,1,0,0,0,1,3,0,0,Cliente Objetivo,Si
+No,29,0,0,0,0,1,24,0,1,Cliente Objetivo,Si
+No,9,1,0,0,0,1,1,0,6,Cliente Objetivo,Si
+No,34,10,0,0,1,3,8,0,0,Cliente Leal,No
+No,9,3,0,0,0,0,3,0,1,Cliente Leal,Si
+No,7,0,0,0,1,1,1,0,1,Cliente Objetivo,No
+No,11,7,0,0,0,1,2,0,0,Cliente Leal,Si
+No,1,5,2,0,2,3,4,2,1,Cliente No Segmentado,No
+No,7,3,0,1,0,0,1,0,1,Cliente Leal,Si
+No,2,0,0,1,0,0,0,0,1,Cliente Objetivo,Si
+No,10,1,0,1,0,0,6,0,0,Cliente Objetivo,Si
+No,22,2,2,8,0,0,5,0,2,Cliente No Segmentado,Si
+No,5,1,0,0,0,1,1,1,1,Cliente Objetivo,Si
+Si,8,1,0,0,0,0,2,0,2,Cliente Objetivo,Si
+No,9,2,0,2,0,2,0,0,3,Cliente Objetivo,Si
+No,14,1,0,4,0,1,2,0,6,Cliente Objetivo,Si
+No,15,9,0,0,0,1,3,0,2,Cliente Leal,Si
+No,16,7,0,1,0,0,6,0,2,Cliente Leal,Si
+Si,10,0,0,2,0,0,0,0,1,Cliente Objetivo,Si
+No,9,1,0,0,0,1,0,0,6,Cliente Objetivo,Si
+No,4,0,0,0,0,2,1,0,1,Cliente Objetivo,Si
+No,13,8,0,1,0,1,1,0,2,Cliente Leal,Si
+No,7,1,0,0,1,2,2,0,0,Cliente Objetivo,No
+No,12,0,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,8,1,0,1,0,2,1,0,3,Cliente Objetivo,Si
+No,10,2,0,0,0,2,5,0,1,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,23,0,0,0,0,0,0,0,14,Cliente Objetivo,Si
+No,14,2,2,6,0,0,1,0,3,Cliente No Segmentado,Si
+No,5,1,0,0,0,1,2,0,1,Cliente Objetivo,Si
+Si,10,0,0,0,0,1,1,0,3,Cliente Objetivo,Si
+No,3,0,0,1,0,1,1,0,0,Cliente Objetivo,Si
+No,10,2,0,2,0,2,1,0,3,Cliente Objetivo,Si
+No,7,2,0,2,0,1,0,0,2,Cliente Objetivo,Si
+Si,4,1,0,0,0,0,1,0,2,Cliente Objetivo,Si
+Si,5,1,0,0,0,2,2,0,0,Cliente Objetivo,Si
+No,3,0,0,0,0,2,1,0,0,Cliente Objetivo,Si
+No,16,2,2,4,0,1,3,0,4,Cliente No Segmentado,Si
+No,14,4,0,2,0,2,6,0,0,Cliente Leal,Si
+No,4,0,0,1,0,1,0,1,1,Cliente Objetivo,Si
+No,20,4,0,1,0,1,10,0,0,Cliente Leal,Si
+No,7,1,0,0,1,2,1,0,1,Cliente Objetivo,No
+No,11,4,0,1,0,0,4,0,0,Cliente Leal,Si
+No,14,6,2,0,1,1,1,1,2,Cliente No Segmentado,No
+Si,26,1,0,2,1,1,8,0,0,Cliente Objetivo,No
+Si,9,5,0,1,0,1,2,0,0,Cliente Leal,Si
+No,12,1,1,1,0,0,2,0,3,Cliente Objetivo,Si
+No,27,9,0,1,0,2,2,1,11,Cliente Leal,Si
+No,15,2,0,2,0,1,3,0,1,Cliente Objetivo,Si
+No,18,5,0,5,0,1,2,1,3,Cliente Leal,Si
+No,28,4,1,5,0,1,4,0,11,Cliente Leal,Si
+No,8,0,0,0,1,2,0,0,4,Cliente Objetivo,No
+No,5,1,0,1,0,1,2,0,0,Cliente Objetivo,Si
+No,26,10,0,1,0,1,3,0,7,Cliente Leal,Si
+No,10,5,0,1,0,1,1,0,2,Cliente Leal,Si
+No,4,0,0,0,0,1,0,1,1,Cliente Objetivo,Si
+Si,20,11,0,0,1,3,4,0,0,Cliente Leal,No
+Si,10,4,1,2,0,0,1,0,1,Cliente Leal,Si
+No,38,4,22,5,0,1,2,0,1,Cliente No Segmentado,Si
+No,8,0,0,2,1,2,3,0,0,Cliente Objetivo,No
+No,6,1,0,2,0,0,3,0,0,Cliente Objetivo,Si
+No,5,1,0,1,0,2,0,0,0,Cliente Objetivo,Si
+No,41,3,0,2,0,2,7,0,0,Cliente Leal,Si
+No,6,1,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,5,0,0,0,0,1,1,0,3,Cliente Objetivo,Si
+Si,7,0,0,0,0,1,2,0,2,Cliente Objetivo,Si
+No,17,6,0,1,0,2,2,0,4,Cliente Leal,Si
+No,23,0,0,1,0,1,7,0,1,Cliente Objetivo,Si
+No,7,2,1,1,0,1,0,0,2,Cliente Objetivo,Si
+No,10,3,0,1,0,1,1,1,2,Cliente Leal,Si
+No,32,4,11,2,1,1,2,1,5,Cliente No Segmentado,No
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,14,4,0,0,1,1,1,0,6,Cliente Leal,No
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,10,0,0,1,0,0,1,0,1,Cliente Objetivo,Si
+No,17,4,3,1,1,1,2,1,1,Cliente No Segmentado,No
+No,13,0,0,1,0,4,0,0,8,Cliente Objetivo,Si
+No,5,0,0,3,0,1,1,0,0,Cliente Objetivo,Si
+No,20,0,0,0,0,0,2,0,4,Cliente Objetivo,Si
+Si,7,2,2,1,0,0,1,0,1,Cliente No Segmentado,Si
+No,6,1,0,0,0,0,0,0,4,Cliente Objetivo,Si
+No,8,2,0,2,0,1,1,0,2,Cliente Objetivo,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,69,1,0,1,0,2,53,0,1,Cliente Objetivo,Si
+Si,10,1,3,5,0,0,0,0,1,Cliente No Segmentado,Si
+No,53,3,0,1,0,9,33,0,0,Cliente Leal,Si
+No,2,1,0,0,0,0,3,0,1,Cliente Objetivo,Si
+No,12,6,0,1,0,1,1,0,3,Cliente Leal,Si
+Si,33,9,9,0,0,1,1,0,6,Cliente No Segmentado,Si
+Si,17,9,0,1,0,1,2,0,3,Cliente Leal,Si
+No,6,1,0,0,0,1,3,0,0,Cliente Objetivo,Si
+No,5,0,0,1,0,0,1,0,1,Cliente Objetivo,Si
+No,12,3,0,0,2,1,0,1,3,Cliente Leal,No
+No,8,1,0,2,0,0,1,0,3,Cliente Objetivo,Si
+No,12,5,0,1,1,1,1,1,1,Cliente Leal,No
+No,8,2,0,0,1,1,1,1,1,Cliente Objetivo,No
+Si,8,2,0,1,0,1,1,0,3,Cliente Objetivo,Si
+Si,6,2,1,0,0,0,0,0,3,Cliente Objetivo,Si
+No,23,1,0,1,0,2,6,1,11,Cliente Objetivo,Si
+No,1,4,0,0,0,4,1,0,1,Cliente Leal,Si
+No,19,2,0,4,2,4,0,0,7,Cliente Objetivo,Si
+No,8,0,0,1,1,1,1,1,2,Cliente Objetivo,No
+No,10,3,0,0,0,0,1,0,3,Cliente Leal,Si
+No,15,6,1,0,0,0,1,0,5,Cliente Leal,Si
+No,14,0,0,1,0,0,4,0,6,Cliente Objetivo,Si
+No,7,1,1,1,0,2,0,0,2,Cliente Objetivo,Si
+No,12,2,0,2,1,3,0,1,3,Cliente Objetivo,No
+Si,17,10,0,4,0,0,1,0,1,Cliente Leal,Si
+No,11,3,3,0,0,0,2,0,1,Cliente No Segmentado,Si
+No,4,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,57,0,0,1,0,5,3,0,9,Cliente Objetivo,Si
+Si,5,1,0,0,0,1,2,0,1,Cliente Objetivo,Si
+Si,4,1,1,1,0,0,1,0,0,Cliente Objetivo,Si
+No,3,0,0,0,0,1,2,0,0,Cliente Objetivo,Si
+No,8,3,0,1,0,1,1,0,2,Cliente Leal,Si
+No,7,1,0,1,0,0,2,0,2,Cliente Objetivo,Si
+No,10,5,0,1,0,1,1,0,2,Cliente Leal,Si
+No,6,2,0,1,0,0,1,0,2,Cliente Objetivo,Si
+No,14,0,0,0,1,1,1,0,3,Cliente Objetivo,No
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+Si,4,1,0,0,0,1,2,0,0,Cliente Objetivo,Si
+No,2,0,0,1,0,1,0,0,0,Cliente Objetivo,Si
+No,11,0,0,1,0,2,8,0,0,Cliente Objetivo,Si
+No,19,6,0,0,1,1,3,1,4,Cliente Leal,No
+No,12,5,0,1,0,0,4,0,2,Cliente Leal,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,3,0,0,1,0,1,0,1,0,Cliente Objetivo,Si
+No,5,0,0,1,0,1,3,0,0,Cliente Objetivo,Si
+No,49,9,25,0,0,0,4,0,10,Cliente No Segmentado,Si
+Si,8,6,0,0,0,0,1,0,0,Cliente Leal,Si
+Si,6,1,0,0,0,2,1,1,1,Cliente Objetivo,Si
+No,2,0,0,2,0,0,0,0,0,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,17,5,0,1,1,1,0,1,1,Cliente Leal,Si
+No,18,2,0,1,0,0,1,0,12,Cliente Objetivo,Si
+No,8,3,0,1,0,0,2,0,1,Cliente Leal,Si
+No,7,0,0,2,0,1,4,0,0,Cliente Objetivo,Si
+No,63,2,50,1,1,2,2,1,1,Cliente No Segmentado,No
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,15,3,3,0,0,0,2,0,6,Cliente No Segmentado,Si
+No,18,5,3,1,1,1,1,1,3,Cliente No Segmentado,No
+Si,4,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+Si,29,0,0,0,0,0,3,0,5,Cliente Objetivo,Si
+No,9,1,1,1,1,1,1,1,1,Cliente Objetivo,No
+No,5,0,0,0,0,0,2,0,1,Cliente Objetivo,Si
+No,12,4,0,0,1,1,1,1,2,Cliente Leal,No
+Si,4,1,0,2,0,0,0,0,1,Cliente Objetivo,Si
+Si,6,3,0,0,0,0,1,0,0,Cliente Leal,Si
+No,11,5,0,1,0,1,1,0,2,Cliente Leal,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,15,4,1,0,1,2,1,1,4,Cliente Leal,No
+Si,29,4,0,3,2,4,10,0,1,Cliente Leal,No
+No,7,1,0,3,0,0,1,0,1,Cliente Objetivo,Si
+No,21,1,0,2,0,2,8,0,2,Cliente Objetivo,Si
+No,10,2,0,2,0,1,2,0,3,Cliente Objetivo,Si
+No,12,1,0,3,0,0,0,0,1,Cliente Objetivo,Si
+No,5,3,0,1,0,0,1,0,0,Cliente Leal,Si
+Si,9,4,0,1,0,0,0,0,2,Cliente Leal,Si
+No,9,4,0,2,0,0,1,0,2,Cliente Leal,Si
+Si,20,2,2,2,0,5,1,2,6,Cliente No Segmentado,Si
+Si,66,8,49,0,0,1,2,0,2,Cliente No Segmentado,Si
+Si,15,3,0,1,0,0,3,0,4,Cliente Leal,Si
+No,22,3,2,0,0,4,2,0,6,Cliente No Segmentado,Si
+No,4,0,0,1,0,1,2,0,0,Cliente Objetivo,Si
+No,7,2,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,84,2,0,2,1,2,77,0,0,Cliente Objetivo,No
+No,27,4,5,4,0,0,2,0,8,Cliente No Segmentado,Si
+No,8,1,0,0,0,1,2,0,4,Cliente Objetivo,Si
+No,15,9,1,0,0,0,1,0,2,Cliente Leal,Si
+Si,9,2,4,1,0,0,1,0,1,Cliente No Segmentado,Si
+No,31,9,0,3,0,1,10,0,8,Cliente Leal,Si
+Si,2,1,0,0,0,0,0,0,0,Cliente Objetivo,Si
+No,7,0,0,1,0,1,0,0,5,Cliente Objetivo,Si
+No,6,1,0,2,0,1,0,1,1,Cliente Objetivo,Si
+No,17,1,0,0,0,4,10,0,0,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,13,5,0,1,0,1,1,1,1,Cliente Leal,Si
+No,19,8,1,2,0,0,3,0,4,Cliente Leal,Si
+No,6,1,0,0,0,1,1,0,3,Cliente Objetivo,Si
+Si,7,0,0,3,0,1,0,0,2,Cliente Objetivo,Si
+Si,3,0,0,2,0,0,0,0,1,Cliente Objetivo,Si
+Si,23,2,1,1,0,0,7,0,7,Cliente Objetivo,Si
+Si,5,1,1,0,0,0,1,0,2,Cliente Objetivo,Si
+Si,3,1,0,0,0,0,2,0,0,Cliente Objetivo,Si
+Si,10,1,5,1,0,0,1,0,1,Cliente No Segmentado,Si
+Si,2,1,0,0,0,0,0,0,1,Cliente Objetivo,Si
+Si,12,5,1,1,0,0,1,0,2,Cliente Leal,Si
+No,15,4,5,1,1,1,1,1,1,Cliente No Segmentado,No
+Si,6,3,1,0,0,0,0,0,1,Cliente Leal,Si
+No,5,2,1,1,0,0,0,0,1,Cliente Objetivo,Si
+Si,10,1,0,0,0,0,0,0,6,Cliente Objetivo,Si
+No,5,0,0,1,0,0,1,0,3,Cliente Objetivo,Si
+No,9,4,0,1,0,0,3,0,1,Cliente Leal,Si
+No,10,4,0,1,0,0,4,0,0,Cliente Leal,Si
+Si,9,1,1,1,0,2,0,1,3,Cliente Objetivo,Si
+No,10,3,0,1,0,0,1,0,4,Cliente Leal,Si
+No,6,1,0,0,0,2,3,0,0,Cliente Objetivo,Si
+Si,5,1,0,0,0,1,3,0,0,Cliente Objetivo,Si
+No,19,1,0,0,0,1,13,0,1,Cliente Objetivo,Si
+Si,28,11,5,4,0,0,3,0,3,Cliente No Segmentado,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,14,9,0,1,0,1,1,0,2,Cliente Leal,Si
+No,25,2,17,0,0,1,3,0,2,Cliente No Segmentado,Si
+No,15,5,0,2,0,0,1,0,3,Cliente Leal,Si
+No,14,3,3,1,1,1,1,1,2,Cliente No Segmentado,No
+No,41,8,7,4,0,2,7,0,12,Cliente No Segmentado,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,11,6,0,0,1,1,1,1,1,Cliente Leal,No
+No,4,1,0,1,0,1,1,0,0,Cliente Objetivo,Si
+No,5,0,0,0,0,1,1,0,3,Cliente Objetivo,Si
+No,19,8,3,0,0,2,1,1,3,Cliente No Segmentado,Si
+No,7,1,0,2,0,2,0,0,2,Cliente Objetivo,Si
+No,21,7,1,2,0,2,3,2,2,Cliente Leal,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,37,11,7,6,0,1,1,1,9,Cliente No Segmentado,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,9,4,0,2,0,0,1,0,1,Cliente Leal,Si
+No,6,0,0,0,0,3,1,0,2,Cliente Objetivo,Si
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+No,29,5,2,1,0,1,4,0,2,Cliente No Segmentado,Si
+No,10,1,0,1,0,2,3,1,1,Cliente Objetivo,Si
+No,2,0,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,24,4,0,1,1,2,14,0,1,Cliente Leal,No
+No,5,1,0,0,0,1,1,0,0,Cliente Objetivo,Si
+No,17,5,6,1,0,0,2,0,1,Cliente No Segmentado,Si
+No,9,3,0,0,0,2,3,0,0,Cliente Leal,Si
+No,6,1,0,1,0,1,0,1,2,Cliente Objetivo,Si
+No,9,1,0,0,1,1,0,1,4,Cliente Objetivo,Si
+Si,3,1,0,1,0,0,0,0,1,Cliente Objetivo,Si
+No,18,6,3,3,0,0,3,0,2,Cliente No Segmentado,Si
+No,13,3,0,1,0,3,2,0,0,Cliente Leal,Si
+No,8,1,0,1,1,2,1,0,2,Cliente Objetivo,Si
+No,5,0,0,0,0,1,1,0,3,Cliente Objetivo,Si
+No,16,5,0,0,0,3,7,0,1,Cliente Leal,Si
+Si,2,1,0,0,0,0,0,0,1,Cliente Objetivo,Si
+No,9,0,0,0,0,2,2,0,3,Cliente Objetivo,Si
+No,9,1,0,0,0,1,5,0,1,Cliente Objetivo,Si
+No,17,0,0,4,0,1,3,0,2,Cliente Objetivo,Si
+Si,8,0,0,0,0,0,1,0,3,Cliente Objetivo,Si
+No,5,2,0,1,0,0,0,0,2,Cliente Objetivo,Si
+No,2,0,0,1,0,0,0,0,1,Cliente Objetivo,Si
+Si,11,3,4,0,0,1,1,0,2,Cliente No Segmentado,Si
+No,14,6,0,1,0,1,1,1,4,Cliente Leal,Si
+No,3,0,0,1,0,1,0,0,0,Cliente Objetivo,Si
+No,8,2,0,2,0,1,0,0,3,Cliente Objetivo,Si
+No,9,1,0,1,1,3,0,1,2,Cliente Objetivo,No
+No,28,10,7,5,0,1,1,1,2,Cliente No Segmentado,Si
+No,6,2,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,16,5,0,1,0,0,2,0,5,Cliente Leal,Si
+No,5,1,0,0,0,0,0,0,2,Cliente Objetivo,Si
+No,5,1,0,2,0,0,0,0,2,Cliente Objetivo,Si
+Si,13,8,0,2,0,0,1,0,1,Cliente Leal,Si
+Si,15,7,0,8,0,0,0,0,0,Cliente Leal,Si
+Si,6,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,11,3,1,1,0,2,0,0,1,Cliente Leal,Si
+No,9,0,0,1,0,0,2,0,2,Cliente Objetivo,Si
+Si,7,4,0,1,0,0,1,0,1,Cliente Leal,Si
+No,54,11,7,6,0,9,4,0,5,Cliente No Segmentado,Si
+No,2,0,0,2,0,0,0,0,0,Cliente Objetivo,Si
+Si,8,0,0,0,0,0,1,0,0,Cliente Objetivo,No
+No,4,0,0,0,0,1,0,1,2,Cliente Objetivo,Si
+No,20,10,1,1,1,2,1,0,4,Cliente Leal,No
+No,5,0,0,1,1,2,0,0,0,Cliente Objetivo,No
+No,14,9,0,0,0,1,1,0,3,Cliente Leal,Si
+No,6,2,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,7,5,0,0,0,1,1,0,0,Cliente Leal,Si
+No,19,4,0,1,1,1,10,0,0,Cliente Leal,No
+No,10,1,0,1,0,4,1,0,0,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,4,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,10,2,0,4,0,0,1,0,2,Cliente Objetivo,Si
+No,17,8,0,2,1,1,1,1,2,Cliente Leal,Si
+No,15,6,0,2,0,4,1,0,2,Cliente Leal,Si
+No,10,4,0,0,1,1,1,1,2,Cliente Leal,Si
+Si,13,1,0,3,0,2,7,0,0,Cliente Objetivo,Si
+Si,8,0,0,2,0,0,1,0,2,Cliente Objetivo,Si
+No,27,5,2,2,0,1,3,1,7,Cliente No Segmentado,Si
+No,7,1,0,0,0,1,4,0,1,Cliente Objetivo,Si
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+No,11,2,0,2,0,1,1,0,5,Cliente Objetivo,Si
+No,6,1,0,0,0,1,3,0,1,Cliente Objetivo,Si
+No,7,3,0,1,0,1,0,0,2,Cliente Leal,Si
+No,12,6,0,0,1,1,1,1,2,Cliente Leal,No
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,13,5,0,3,0,1,2,0,1,Cliente Leal,Si
+No,8,1,0,0,0,1,5,0,1,Cliente Objetivo,Si
+No,7,2,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,13,0,0,3,0,3,7,0,0,Cliente Objetivo,Si
+No,6,1,0,0,1,1,1,1,0,Cliente Objetivo,Si
+No,40,5,2,3,2,1,8,1,12,Cliente No Segmentado,No
+No,14,5,1,1,1,1,2,1,2,Cliente Leal,No
+Si,6,2,0,2,0,1,0,0,1,Cliente Objetivo,Si
+No,12,0,0,0,1,1,1,0,5,Cliente Objetivo,No
+No,9,1,0,3,0,0,2,0,0,Cliente Objetivo,Si
+No,4,1,0,0,0,1,1,0,1,Cliente Objetivo,Si
+No,7,2,0,1,0,1,3,0,0,Cliente Objetivo,Si
+No,14,6,0,2,1,2,1,2,0,Cliente Leal,No
+Si,6,2,0,1,0,0,2,0,0,Cliente Objetivo,Si
+No,5,1,0,2,0,1,0,0,1,Cliente Objetivo,Si
+No,10,1,0,1,1,3,0,0,0,Cliente Objetivo,Si
+No,17,2,0,4,0,0,6,0,0,Cliente Objetivo,Si
+No,24,3,3,3,0,2,4,1,5,Cliente No Segmentado,Si
+No,20,1,5,2,0,0,3,0,8,Cliente No Segmentado,Si
+No,10,4,0,1,0,1,2,0,2,Cliente Leal,Si
+No,8,3,0,0,0,1,1,1,2,Cliente Leal,Si
+No,20,8,7,1,0,0,2,0,1,Cliente No Segmentado,Si
+No,4,1,0,1,0,1,1,0,0,Cliente Objetivo,Si
+No,3,0,0,0,0,2,0,0,1,Cliente Objetivo,Si
+No,23,4,1,4,1,3,0,0,8,Cliente Leal,No
+No,5,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,3,0,0,1,0,1,0,1,0,Cliente Objetivo,Si
+No,5,0,0,2,0,1,0,0,2,Cliente Objetivo,Si
+Si,13,3,6,0,0,1,1,1,1,Cliente No Segmentado,Si
+Si,16,5,0,5,0,0,2,0,3,Cliente Leal,Si
+Si,5,3,0,0,0,0,1,0,1,Cliente Leal,Si
+No,12,8,0,0,0,1,1,0,2,Cliente Leal,Si
+No,3,0,0,0,0,1,1,0,1,Cliente Objetivo,Si
+No,9,3,0,1,0,1,3,0,1,Cliente Leal,Si
+Si,7,1,0,0,0,0,1,0,2,Cliente Objetivo,Si
+No,4,1,0,1,0,1,1,0,0,Cliente Objetivo,Si
+Si,3,1,0,0,0,0,0,0,1,Cliente Objetivo,Si
+Si,10,0,0,1,0,0,6,0,0,Cliente Objetivo,Si
+No,9,1,1,0,0,2,1,2,2,Cliente Objetivo,Si
+No,18,7,0,1,1,1,1,1,3,Cliente Leal,No
+No,16,5,6,1,0,0,2,0,0,Cliente No Segmentado,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,4,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,6,0,0,1,0,1,3,0,1,Cliente Objetivo,Si
+Si,47,0,0,4,0,1,0,0,4,Cliente Objetivo,Si
+No,8,1,0,2,0,2,0,0,3,Cliente Objetivo,Si
+No,58,6,0,3,0,2,8,0,24,Cliente Leal,Si
+No,7,1,0,0,0,1,3,0,1,Cliente Objetivo,Si
+Si,31,9,0,5,1,2,14,0,0,Cliente Leal,No
+No,15,6,0,1,0,1,3,0,3,Cliente Leal,Si
+No,8,0,0,2,0,2,4,0,0,Cliente Objetivo,Si
+No,19,8,0,1,1,2,0,0,4,Cliente Leal,No
+Si,9,3,1,0,0,0,2,0,1,Cliente Leal,Si
+Si,9,2,2,0,0,1,0,1,2,Cliente No Segmentado,Si
+No,10,6,0,0,0,1,2,0,1,Cliente Leal,Si
+No,7,0,0,0,0,0,1,0,4,Cliente Objetivo,Si
+No,17,8,1,1,1,2,3,0,0,Cliente Leal,No
+No,7,4,0,1,0,0,1,0,1,Cliente Leal,Si
+No,9,4,0,2,0,0,2,0,0,Cliente Leal,Si
+Si,13,3,3,2,0,0,0,0,4,Cliente No Segmentado,Si
+No,18,11,0,2,0,1,3,0,1,Cliente Leal,Si
+No,10,0,0,2,1,2,1,0,2,Cliente Objetivo,No
+No,24,6,7,3,0,0,2,0,5,Cliente No Segmentado,Si
+No,26,6,7,2,1,1,2,1,5,Cliente No Segmentado,No
+Si,16,4,0,4,0,1,0,0,2,Cliente Leal,Si
+No,5,1,0,1,0,2,0,0,0,Cliente Objetivo,Si
+No,11,0,0,2,0,6,3,0,0,Cliente Objetivo,Si
+No,14,8,0,1,0,1,2,0,2,Cliente Leal,Si
+Si,28,6,6,3,0,1,3,0,5,Cliente No Segmentado,Si
+No,15,5,1,2,0,1,0,1,5,Cliente Leal,Si
+Si,11,1,2,0,0,1,1,0,4,Cliente Objetivo,Si
+No,6,1,0,1,0,0,1,0,1,Cliente Objetivo,Si
+No,7,2,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,9,0,0,2,0,1,5,0,1,Cliente Objetivo,Si
+No,5,2,0,0,0,2,1,0,0,Cliente Objetivo,Si
+No,7,1,0,2,0,1,0,0,3,Cliente Objetivo,Si
+No,12,3,0,0,0,1,7,0,0,Cliente Leal,Si
+Si,21,6,4,1,0,0,1,0,5,Cliente No Segmentado,Si
+No,10,2,0,1,1,1,1,1,1,Cliente Objetivo,Si
+No,5,1,0,0,0,1,0,0,2,Cliente Objetivo,Si
+No,15,3,0,2,0,1,1,1,6,Cliente Leal,Si
+Si,20,2,0,6,0,6,1,0,5,Cliente Objetivo,Si
+No,18,7,1,2,0,2,2,0,3,Cliente Leal,Si
+No,22,5,1,0,0,2,1,1,9,Cliente Leal,Si
+Si,21,7,11,0,0,0,0,0,0,Cliente No Segmentado,Si
+No,2,0,0,1,0,0,0,0,1,Cliente Objetivo,Si
+Si,10,5,1,0,0,0,2,0,1,Cliente Leal,Si
+No,10,3,0,0,0,0,1,0,3,Cliente Leal,Si
+Si,30,5,6,7,0,0,2,0,8,Cliente No Segmentado,Si
+No,10,1,0,1,0,1,1,0,1,Cliente Objetivo,Si
+No,20,0,0,2,0,3,15,0,0,Cliente Objetivo,Si
+No,12,8,0,0,0,1,1,0,2,Cliente Leal,Si
+No,3,0,0,1,0,0,2,0,0,Cliente Objetivo,Si
+Si,1,0,0,0,0,1,0,0,0,Cliente Objetivo,Si
+No,7,2,0,1,0,0,3,0,1,Cliente Objetivo,Si
+No,8,4,0,0,0,0,2,0,1,Cliente Leal,Si
+No,8,3,0,1,0,2,1,0,0,Cliente Leal,Si
+No,23,6,0,2,0,1,2,1,2,Cliente Leal,Si
+No,34,7,0,1,1,2,7,0,0,Cliente Leal,No
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,7,1,0,0,0,2,4,0,0,Cliente Objetivo,Si
+Si,13,3,4,1,0,0,0,0,3,Cliente No Segmentado,Si
+No,5,0,0,1,0,0,1,0,3,Cliente Objetivo,Si
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+No,16,10,0,1,0,0,3,0,1,Cliente Leal,Si
+No,11,6,0,0,0,1,1,1,2,Cliente Leal,Si
+No,25,3,2,1,1,1,3,1,10,Cliente No Segmentado,No
+Si,9,5,0,0,0,0,1,0,2,Cliente Leal,Si
+No,20,2,0,3,0,0,5,0,7,Cliente Objetivo,Si
+No,17,5,0,3,1,2,2,0,0,Cliente Leal,No
+No,13,6,0,1,0,1,2,0,2,Cliente Leal,Si
+No,13,0,0,1,1,2,2,0,2,Cliente Objetivo,No
+Si,9,5,0,0,1,1,2,0,0,Cliente Leal,No
+Si,8,3,0,0,0,0,1,0,2,Cliente Leal,Si
+No,15,1,0,0,0,4,7,0,2,Cliente Objetivo,Si
+No,12,1,0,4,0,3,3,0,0,Cliente Objetivo,Si
+No,35,1,0,3,0,1,24,0,1,Cliente Objetivo,Si
+Si,16,6,0,0,0,1,5,0,0,Cliente Leal,Si
+No,2,0,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,8,0,0,1,0,1,5,0,0,Cliente Objetivo,Si
+No,4,0,0,1,0,1,0,1,1,Cliente Objetivo,Si
+No,10,3,0,3,0,0,4,0,0,Cliente Leal,Si
+Si,3,1,0,0,0,0,0,0,1,Cliente Objetivo,Si
+No,4,1,0,1,0,1,1,0,0,Cliente Objetivo,Si
+No,9,4,0,1,0,1,1,0,2,Cliente Leal,Si
+Si,11,3,1,2,0,1,1,0,3,Cliente Leal,Si
+No,7,2,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,8,2,0,2,0,2,0,0,2,Cliente Objetivo,Si
+Si,16,1,0,0,1,1,2,1,2,Cliente Objetivo,No
+Si,11,7,0,0,0,1,2,0,1,Cliente Leal,Si
+Si,21,0,0,7,0,0,1,0,4,Cliente Objetivo,Si
+No,7,1,0,0,0,0,1,0,5,Cliente Objetivo,Si
+No,10,4,0,1,11,2,1,0,1,Cliente Leal,No
+Si,14,5,0,1,1,2,1,1,2,Cliente Leal,No
+No,15,3,0,0,0,1,5,1,4,Cliente Leal,Si
+No,4,1,0,1,0,0,2,0,0,Cliente Objetivo,Si
+Si,42,8,6,18,1,2,1,0,6,Cliente No Segmentado,No
+No,12,2,0,2,0,2,5,0,0,Cliente Objetivo,Si
+No,5,1,0,1,0,1,2,0,0,Cliente Objetivo,Si
+No,4,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,12,0,0,2,0,1,9,0,0,Cliente Objetivo,Si
+No,13,7,0,2,0,1,2,0,1,Cliente Leal,Si
+No,7,0,0,1,0,2,4,0,0,Cliente Objetivo,Si
+Si,7,2,2,0,0,0,1,0,1,Cliente No Segmentado,Si
+No,6,1,0,1,0,0,2,0,1,Cliente Objetivo,Si
+No,5,1,0,2,0,0,1,0,1,Cliente Objetivo,Si
+No,10,4,0,2,0,0,2,0,0,Cliente Leal,Si
+No,7,0,0,0,1,4,2,0,0,Cliente Objetivo,No
+No,65,3,0,1,0,0,14,0,27,Cliente Leal,Si
+No,11,0,0,1,1,2,2,0,0,Cliente Objetivo,No
+No,6,1,0,0,1,2,1,0,0,Cliente Objetivo,No
+No,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+Si,3,0,0,1,0,0,0,0,1,Cliente Objetivo,Si
+Si,3,1,0,0,0,1,1,0,0,Cliente Objetivo,Si
+No,12,6,0,1,0,1,1,1,2,Cliente Leal,Si
+No,6,1,0,1,0,1,0,1,2,Cliente Objetivo,Si
+Si,3,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,14,2,0,0,1,1,4,0,0,Cliente Objetivo,No
+No,13,7,0,1,0,0,2,0,1,Cliente Leal,Si
+Si,2,1,0,0,0,0,1,0,0,Cliente Objetivo,Si
+Si,5,1,1,0,0,1,0,0,1,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,10,0,7,1,0,0,0,0,2,Cliente No Segmentado,Si
+Si,4,1,0,0,0,0,0,0,3,Cliente Objetivo,Si
+No,2,0,0,0,0,1,0,0,1,Cliente Objetivo,Si
+Si,4,1,1,0,0,0,0,0,1,Cliente Objetivo,Si
+No,5,1,0,0,1,1,2,0,0,Cliente Objetivo,No
+Si,28,5,10,12,0,0,0,0,1,Cliente No Segmentado,Si
+No,4,1,0,0,0,1,0,1,1,Cliente Objetivo,Si
+No,29,1,0,4,0,0,16,0,0,Cliente Objetivo,Si
+No,9,0,0,0,0,1,1,0,4,Cliente Objetivo,Si
+Si,21,1,0,3,0,1,7,0,0,Cliente Objetivo,Si
+No,7,1,0,4,0,0,1,0,1,Cliente Objetivo,Si
+Si,11,4,0,1,0,0,2,0,2,Cliente Leal,Si
+No,8,0,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,16,6,0,1,0,4,3,0,0,Cliente Leal,Si
+No,8,0,0,1,0,2,2,0,1,Cliente Objetivo,Si
+No,8,1,0,2,0,2,0,0,3,Cliente Objetivo,Si
+No,24,3,1,5,1,4,1,1,6,Cliente Leal,No
+No,8,0,0,1,1,2,4,0,0,Cliente Objetivo,No
+No,24,5,10,3,0,1,2,0,2,Cliente No Segmentado,Si
+No,7,1,0,1,0,2,0,1,2,Cliente Objetivo,Si
+Si,6,1,0,0,0,1,1,0,0,Cliente Objetivo,Si
+No,39,3,0,2,0,6,25,0,3,Cliente Leal,Si
+No,12,6,0,0,1,1,1,1,2,Cliente Leal,No
+Si,2,1,0,0,0,0,0,0,1,Cliente Objetivo,Si
+No,16,4,1,1,1,1,0,1,4,Cliente Leal,No
+Si,5,2,0,1,0,0,1,0,1,Cliente Objetivo,Si
+No,54,2,0,10,7,10,23,0,1,Cliente Objetivo,No
+No,6,2,0,0,0,1,2,0,1,Cliente Objetivo,Si
+No,32,6,3,5,1,6,2,0,8,Cliente No Segmentado,No
+No,14,0,0,1,2,3,1,0,6,Cliente Objetivo,No
+No,9,1,0,1,1,2,2,0,1,Cliente Objetivo,No
+No,12,4,0,2,0,0,4,0,0,Cliente Leal,Si
+No,13,2,0,2,0,4,0,2,3,Cliente Objetivo,Si
+No,10,2,0,1,1,1,1,1,3,Cliente Objetivo,No
+No,2,0,0,1,0,0,0,0,1,Cliente Objetivo,Si
+No,19,0,0,0,1,3,2,1,12,Cliente Objetivo,No
+No,21,10,0,2,0,0,6,0,0,Cliente Leal,Si
+No,17,8,0,2,0,1,5,0,0,Cliente Leal,Si
+No,15,5,0,1,1,1,2,1,4,Cliente Leal,No
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+Si,18,4,4,4,0,0,0,0,3,Cliente No Segmentado,Si
+No,7,0,0,1,1,3,0,0,2,Cliente Objetivo,No
+No,8,1,0,0,1,1,1,1,2,Cliente Objetivo,No
+No,7,1,0,3,0,1,0,0,2,Cliente Objetivo,Si
+No,7,2,1,0,0,1,1,1,1,Cliente Objetivo,Si
+No,13,0,0,4,1,4,2,0,2,Cliente Objetivo,No
+No,4,1,0,1,0,1,1,0,0,Cliente Objetivo,Si
+No,11,3,0,1,1,1,5,0,0,Cliente Leal,No
+No,2,0,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,16,2,0,6,0,1,2,0,4,Cliente Objetivo,Si
+No,11,2,0,4,0,2,0,0,3,Cliente Objetivo,Si
+Si,3,1,0,0,0,0,0,0,1,Cliente Objetivo,Si
+Si,5,1,0,1,0,0,1,0,2,Cliente Objetivo,Si
+Si,5,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,10,1,0,0,0,3,0,1,5,Cliente Objetivo,Si
+No,7,3,0,0,0,1,1,0,2,Cliente Leal,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,8,2,0,0,1,1,1,1,1,Cliente Objetivo,No
+No,3,0,0,1,0,1,1,0,0,Cliente Objetivo,Si
+No,9,2,1,3,0,1,0,0,2,Cliente Objetivo,Si
+Si,8,2,0,0,0,1,3,0,0,Cliente Objetivo,Si
+No,7,0,0,1,0,1,1,0,3,Cliente Objetivo,Si
+No,6,1,0,1,0,0,2,0,1,Cliente Objetivo,Si
+No,7,1,0,1,0,1,1,0,3,Cliente Objetivo,Si
+No,12,6,0,0,1,1,0,1,3,Cliente Leal,Si
+No,10,4,0,0,0,3,1,1,1,Cliente Leal,Si
+Si,6,1,2,0,0,0,1,0,1,Cliente Objetivo,Si
+Si,6,4,0,0,0,0,2,0,0,Cliente Leal,Si
+No,8,0,0,1,0,0,1,0,2,Cliente Objetivo,Si
+No,6,0,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+Si,23,7,3,5,0,0,1,0,6,Cliente No Segmentado,Si
+Si,39,11,6,0,0,2,4,1,6,Cliente No Segmentado,Si
+No,8,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+Si,11,2,0,0,0,0,1,0,4,Cliente Objetivo,Si
+No,6,1,0,0,0,1,0,0,4,Cliente Objetivo,Si
+No,8,2,0,2,0,1,2,0,1,Cliente Objetivo,Si
+Si,9,6,0,0,0,0,1,0,2,Cliente Leal,Si
+Si,13,6,0,1,0,0,4,0,1,Cliente Leal,Si
+No,7,1,0,1,0,1,1,0,3,Cliente Objetivo,Si
+No,19,5,3,2,0,3,1,1,1,Cliente No Segmentado,Si
+Si,4,1,1,0,0,0,1,0,1,Cliente Objetivo,Si
+No,21,8,1,3,1,1,1,1,3,Cliente Leal,No
+No,2,0,0,1,0,0,0,0,1,Cliente Objetivo,Si
+No,5,0,0,1,0,2,2,0,0,Cliente Objetivo,Si
+No,10,5,0,0,0,1,1,0,3,Cliente Leal,Si
+No,13,0,0,2,0,1,1,0,3,Cliente Objetivo,Si
+No,8,3,0,0,0,1,1,0,2,Cliente Leal,Si
+No,10,5,0,2,0,0,1,0,1,Cliente Leal,Si
+No,9,0,0,3,0,0,6,0,0,Cliente Objetivo,Si
+No,6,1,0,2,0,1,1,0,1,Cliente Objetivo,Si
+No,15,11,0,0,0,1,1,0,2,Cliente Leal,Si
+No,21,9,3,2,0,1,4,1,1,Cliente No Segmentado,Si
+Si,9,1,2,4,0,0,0,0,1,Cliente Objetivo,Si
+No,13,5,0,1,0,2,1,0,3,Cliente Leal,Si
+No,13,0,0,3,0,0,2,0,1,Cliente Objetivo,Si
+Si,35,5,4,7,0,1,3,0,14,Cliente No Segmentado,Si
+No,18,8,2,0,1,1,1,1,4,Cliente No Segmentado,No
+No,17,9,1,1,0,1,2,1,2,Cliente Leal,Si
+Si,14,3,0,0,0,2,2,1,3,Cliente Leal,Si
+No,13,2,0,1,0,2,4,0,4,Cliente Objetivo,Si
+Si,5,1,0,1,0,1,2,0,0,Cliente Objetivo,Si
+No,11,0,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,12,7,0,1,0,1,1,0,2,Cliente Leal,Si
+Si,7,2,0,0,0,1,0,0,2,Cliente Objetivo,Si
+No,16,9,0,1,0,2,3,0,1,Cliente Leal,Si
+Si,11,0,4,1,0,1,1,1,2,Cliente Objetivo,Si
+No,3,0,0,2,0,0,1,0,0,Cliente Objetivo,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,1,0,0,0,0,1,0,0,0,Cliente Objetivo,Si
+No,12,7,0,2,0,0,2,0,1,Cliente Leal,Si
+No,13,3,0,0,0,1,3,0,3,Cliente Leal,Si
+No,6,1,0,1,0,1,3,0,0,Cliente Objetivo,Si
+No,15,1,0,2,0,1,0,0,11,Cliente Objetivo,Si
+No,24,0,0,1,2,3,1,0,4,Cliente Objetivo,No
+Si,10,1,1,1,0,0,2,0,4,Cliente Objetivo,Si
+Si,23,7,0,1,0,0,3,0,7,Cliente Leal,Si
+No,10,5,0,1,0,1,1,0,2,Cliente Leal,Si
+Si,10,2,2,3,0,0,0,0,2,Cliente No Segmentado,Si
+No,31,0,0,0,0,0,2,0,2,Cliente Objetivo,Si
+Si,7,4,0,0,0,0,1,0,0,Cliente Leal,Si
+No,14,7,0,1,0,2,0,0,3,Cliente Leal,Si
+Si,12,2,1,1,0,1,1,1,1,Cliente Objetivo,Si
+Si,5,1,1,1,0,0,0,0,2,Cliente Objetivo,Si
+No,12,5,0,0,1,1,1,2,1,Cliente Leal,No
+No,11,4,0,3,0,0,4,0,0,Cliente Leal,Si
+No,31,8,1,1,0,3,3,0,6,Cliente Leal,Si
+No,10,2,0,0,0,1,0,1,2,Cliente Objetivo,Si
+No,15,6,0,2,0,0,1,0,3,Cliente Leal,Si
+No,13,6,0,3,0,0,1,0,2,Cliente Leal,Si
+Si,6,0,0,0,0,0,1,0,0,Cliente Objetivo,Si
+Si,3,1,0,0,0,0,0,0,1,Cliente Objetivo,Si
+No,4,0,0,1,0,0,1,0,2,Cliente Objetivo,Si
+Si,7,3,0,1,0,0,0,0,3,Cliente Leal,Si
+No,8,5,0,1,0,0,2,0,0,Cliente Leal,Si
+No,8,2,0,1,0,2,2,0,1,Cliente Objetivo,Si
+Si,21,10,7,1,0,0,1,0,1,Cliente No Segmentado,Si
+No,5,0,0,0,0,1,3,0,1,Cliente Objetivo,Si
+No,13,1,0,3,0,2,1,1,5,Cliente Objetivo,Si
+No,32,7,6,3,0,0,1,0,5,Cliente No Segmentado,Si
+Si,4,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,13,0,0,2,1,2,1,0,3,Cliente Objetivo,No
+No,14,4,0,1,0,0,4,0,3,Cliente Leal,Si
+No,5,0,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,6,1,0,2,0,0,3,0,0,Cliente Objetivo,Si
+No,12,1,0,1,1,1,0,0,2,Cliente Objetivo,No
+No,12,5,0,1,1,1,1,1,2,Cliente Leal,No
+No,2,0,0,0,0,1,1,0,0,Cliente Objetivo,Si
+No,15,6,0,0,0,1,6,0,0,Cliente Leal,Si
+No,9,2,0,0,1,1,0,2,1,Cliente Objetivo,No
+No,6,0,0,3,0,1,1,0,1,Cliente Objetivo,Si
+No,20,1,0,1,0,0,4,0,10,Cliente Objetivo,Si
+Si,7,1,1,1,0,0,0,0,1,Cliente Objetivo,Si
+Si,6,3,0,0,0,0,0,0,3,Cliente Leal,Si
+No,33,4,0,2,1,1,9,1,10,Cliente Leal,Si
+No,10,3,2,0,0,0,1,0,2,Cliente No Segmentado,Si
+No,5,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,9,1,0,0,0,1,5,0,0,Cliente Objetivo,Si
+No,26,6,2,0,0,3,6,2,7,Cliente No Segmentado,Si
+No,20,1,0,0,0,9,1,1,6,Cliente Objetivo,Si
+No,83,6,0,1,1,1,2,0,4,Cliente Leal,No
+No,4,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,12,2,0,2,1,3,0,2,2,Cliente Objetivo,No
+No,8,1,0,2,1,2,1,1,0,Cliente Objetivo,No
+No,5,0,0,0,1,2,1,0,1,Cliente Objetivo,No
+No,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+Si,15,0,0,3,0,3,2,0,5,Cliente Objetivo,Si
+No,12,0,0,3,1,2,1,2,2,Cliente Objetivo,No
+No,14,9,0,1,0,0,1,0,3,Cliente Leal,Si
+Si,10,2,3,0,0,1,0,0,4,Cliente No Segmentado,Si
+No,6,1,0,1,0,1,0,1,2,Cliente Objetivo,Si
+Si,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,16,0,0,1,0,1,3,0,4,Cliente Objetivo,Si
+No,6,1,0,1,0,1,0,0,3,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,11,8,0,0,0,1,1,0,1,Cliente Leal,Si
+No,7,1,0,0,1,1,0,1,2,Cliente Objetivo,Si
+No,17,4,0,1,1,1,0,1,2,Cliente Leal,No
+No,3,0,0,1,0,1,0,0,1,Cliente Objetivo,Si
+Si,3,0,0,0,0,0,1,0,0,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,12,2,1,4,0,0,1,0,2,Cliente Objetivo,Si
+No,7,1,0,1,0,0,4,0,0,Cliente Objetivo,Si
+Si,22,7,3,3,0,1,2,0,5,Cliente No Segmentado,Si
+No,31,0,0,0,0,2,15,0,14,Cliente Objetivo,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+Si,6,8,3,1,0,0,2,0,0,Cliente No Segmentado,Si
+No,8,3,0,0,0,2,2,0,0,Cliente Leal,Si
+No,4,0,0,0,0,1,2,0,1,Cliente Objetivo,Si
+No,23,0,0,0,0,0,5,0,4,Cliente Objetivo,Si
+No,8,1,0,3,0,0,1,0,3,Cliente Objetivo,Si
+No,5,0,0,4,0,0,0,0,1,Cliente Objetivo,Si
+Si,30,9,1,4,0,1,1,0,12,Cliente Leal,Si
+Si,6,1,0,0,0,0,2,0,1,Cliente Objetivo,Si
+No,12,5,0,1,0,1,3,0,1,Cliente Leal,Si
+No,7,1,0,2,0,1,0,0,3,Cliente Objetivo,Si
+No,20,3,0,0,0,10,1,1,5,Cliente Leal,Si
+Si,6,2,0,0,0,1,1,0,1,Cliente Objetivo,Si
+Si,8,4,0,1,0,0,1,0,1,Cliente Leal,Si
+Si,3,1,0,0,0,1,1,0,0,Cliente Objetivo,Si
+No,38,3,0,3,0,3,2,1,6,Cliente Leal,Si
+Si,9,7,0,1,0,0,0,0,1,Cliente Leal,Si
+No,11,4,0,1,1,1,0,1,2,Cliente Leal,Si
+No,13,2,0,3,0,3,3,0,2,Cliente Objetivo,Si
+No,20,5,0,1,0,0,8,0,0,Cliente Leal,Si
+Si,7,2,3,0,0,0,1,0,1,Cliente No Segmentado,Si
+No,6,0,0,1,0,0,1,0,1,Cliente Objetivo,Si
+No,7,1,0,0,0,1,4,0,1,Cliente Objetivo,Si
+No,9,3,0,0,1,2,3,0,0,Cliente Leal,No
+No,8,3,0,0,0,1,1,0,2,Cliente Leal,Si
+No,10,4,0,1,1,1,1,1,1,Cliente Leal,Si
+No,15,8,2,1,0,1,1,0,2,Cliente No Segmentado,Si
+No,15,5,3,3,0,1,0,1,2,Cliente No Segmentado,Si
+No,7,1,0,1,0,1,1,0,3,Cliente Objetivo,Si
+Si,2,1,0,2,0,2,3,0,0,Cliente Objetivo,Si
+No,24,4,0,1,1,4,3,1,9,Cliente Leal,No
+Si,7,1,1,1,0,0,0,0,3,Cliente Objetivo,Si
+No,6,1,0,4,0,0,1,0,0,Cliente Objetivo,Si
+No,13,6,0,1,0,1,4,0,1,Cliente Leal,Si
+No,14,4,0,0,0,0,4,0,5,Cliente Leal,Si
+No,7,1,0,2,0,1,1,0,2,Cliente Objetivo,Si
+No,42,11,6,3,0,2,6,1,7,Cliente No Segmentado,Si
+No,6,1,0,0,0,0,1,0,2,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,10,3,0,0,1,1,1,1,3,Cliente Leal,No
+No,20,4,1,5,1,3,3,1,0,Cliente Leal,No
+No,9,3,0,2,0,0,0,0,2,Cliente Leal,Si
+No,16,9,0,2,0,2,1,1,1,Cliente Leal,Si
+Si,8,2,1,0,0,0,3,0,1,Cliente Objetivo,Si
+No,13,5,0,1,0,0,4,0,1,Cliente Leal,Si
+Si,7,0,1,3,0,0,0,0,3,Cliente Objetivo,Si
+No,8,3,0,1,0,1,1,0,1,Cliente Leal,Si
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+No,8,0,0,1,1,1,1,0,1,Cliente Objetivo,No
+No,14,3,4,1,0,1,2,1,1,Cliente No Segmentado,Si
+No,9,2,0,0,1,1,3,0,2,Cliente Objetivo,No
+Si,0,1,0,0,0,0,0,0,0,Cliente Objetivo,Si
+No,5,1,0,0,0,1,2,0,1,Cliente Objetivo,Si
+No,14,2,0,1,1,2,6,0,1,Cliente Objetivo,No
+No,11,3,0,1,1,1,2,1,1,Cliente Leal,Si
+No,22,7,3,4,1,1,1,1,4,Cliente No Segmentado,No
+No,11,2,0,1,0,1,2,0,3,Cliente Objetivo,Si
+No,15,2,0,2,0,3,2,1,1,Cliente Objetivo,Si
+No,25,3,2,3,0,2,4,2,5,Cliente No Segmentado,Si
+No,9,2,0,1,1,1,0,1,1,Cliente Objetivo,No
+No,6,1,0,1,0,1,1,0,2,Cliente Objetivo,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+Si,5,0,0,0,0,3,0,0,0,Cliente Objetivo,Si
+No,16,6,1,3,0,0,2,0,4,Cliente Leal,Si
+Si,13,3,4,1,0,0,1,0,3,Cliente No Segmentado,Si
+No,28,0,0,0,1,2,3,0,10,Cliente Objetivo,No
+No,14,0,0,8,0,2,0,0,4,Cliente Objetivo,Si
+No,12,7,0,0,0,1,1,0,3,Cliente Leal,Si
+Si,17,0,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,9,2,0,3,0,1,1,0,2,Cliente Objetivo,Si
+No,5,1,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,7,1,0,1,0,1,0,1,2,Cliente Objetivo,Si
+Si,5,3,0,0,0,0,0,0,2,Cliente Leal,Si
+No,29,0,0,14,1,4,6,0,4,Cliente Objetivo,No
+No,5,1,0,1,0,0,1,0,1,Cliente Objetivo,Si
+No,11,1,0,0,0,2,3,0,0,Cliente Objetivo,Si
+No,7,0,0,3,0,2,0,0,1,Cliente Objetivo,Si
+No,5,1,0,0,0,1,1,0,2,Cliente Objetivo,Si
+Si,9,0,0,1,0,1,1,0,3,Cliente Objetivo,Si
+No,5,0,0,0,0,1,1,0,3,Cliente Objetivo,Si
+No,6,1,0,1,0,2,0,0,2,Cliente Objetivo,Si
+Si,9,4,0,0,0,1,3,0,1,Cliente Leal,Si
+Si,3,1,0,1,0,0,0,0,0,Cliente Objetivo,Si
+Si,15,0,0,1,0,1,2,0,0,Cliente Objetivo,Si
+Si,7,4,0,0,0,0,2,0,1,Cliente Leal,Si
+No,13,1,0,0,0,5,0,2,4,Cliente Objetivo,Si
+No,6,2,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,28,3,2,8,1,3,3,1,5,Cliente No Segmentado,Si
+No,8,1,0,1,0,1,1,0,3,Cliente Objetivo,Si
+Si,6,0,0,0,0,0,1,0,2,Cliente Objetivo,Si
+No,15,0,0,1,0,2,1,0,2,Cliente Objetivo,Si
+Si,9,5,0,0,0,1,0,0,3,Cliente Leal,Si
+No,16,5,1,2,0,0,1,0,6,Cliente Leal,Si
+No,3,0,0,1,0,1,1,0,0,Cliente Objetivo,Si
+No,9,5,0,0,0,1,1,0,2,Cliente Leal,Si
+No,16,11,0,1,0,1,1,0,2,Cliente Leal,Si
+No,12,0,0,2,2,4,0,0,4,Cliente Objetivo,No
+Si,8,1,0,1,0,0,1,0,2,Cliente Objetivo,Si
+Si,24,8,1,0,0,1,3,0,8,Cliente Leal,Si
+No,15,4,0,1,0,0,3,0,0,Cliente Leal,Si
+Si,8,2,0,0,0,0,1,0,2,Cliente Objetivo,Si
+No,4,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,7,1,0,1,0,2,0,1,2,Cliente Objetivo,Si
+No,13,1,2,2,0,0,0,0,7,Cliente Objetivo,Si
+No,20,1,0,2,1,2,2,0,7,Cliente Objetivo,No
+No,10,5,0,1,0,0,1,0,1,Cliente Leal,Si
+No,28,10,0,2,0,1,3,0,0,Cliente Leal,Si
+No,9,2,0,0,0,3,4,0,0,Cliente Objetivo,Si
+No,17,5,0,1,0,0,3,0,3,Cliente Leal,Si
+Si,4,0,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,10,5,0,1,0,1,2,0,1,Cliente Leal,Si
+No,6,1,0,1,0,1,0,0,3,Cliente Objetivo,Si
+No,11,6,0,0,0,1,1,0,3,Cliente Leal,Si
+No,20,4,1,2,1,2,2,0,7,Cliente Leal,No
+No,5,0,0,1,0,0,3,0,0,Cliente Objetivo,Si
+No,7,0,0,1,0,3,3,0,0,Cliente Objetivo,Si
+No,11,3,0,1,0,2,1,0,2,Cliente Leal,Si
+Si,14,5,1,1,0,1,1,0,4,Cliente Leal,Si
+Si,5,2,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,6,2,0,3,0,0,0,0,1,Cliente Objetivo,Si
+Si,13,0,0,0,0,0,1,0,2,Cliente Objetivo,No
+No,6,0,0,1,0,0,5,0,0,Cliente Objetivo,Si
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+No,4,1,0,1,0,0,1,0,1,Cliente Objetivo,Si
+No,45,0,0,1,2,2,2,0,4,Cliente Objetivo,No
+No,10,5,0,1,0,1,2,0,1,Cliente Leal,Si
+No,5,0,0,3,0,1,0,0,1,Cliente Objetivo,Si
+Si,11,4,0,2,0,0,2,0,3,Cliente Leal,Si
+No,7,1,0,1,0,1,1,0,3,Cliente Objetivo,Si
+No,7,1,1,2,0,1,0,0,2,Cliente Objetivo,Si
+No,12,6,1,1,0,1,1,0,2,Cliente Leal,Si
+No,6,0,0,1,0,2,3,0,0,Cliente Objetivo,Si
+Si,13,2,2,1,0,0,3,0,5,Cliente No Segmentado,Si
+No,5,1,0,3,0,0,0,0,1,Cliente Objetivo,Si
+No,17,4,0,0,1,2,9,0,0,Cliente Leal,No
+Si,8,4,0,0,0,0,0,0,3,Cliente Leal,Si
+No,27,8,10,2,1,1,2,1,1,Cliente No Segmentado,No
+Si,7,1,0,0,0,0,2,0,2,Cliente Objetivo,Si
+No,5,0,0,0,0,1,0,0,4,Cliente Objetivo,Si
+No,57,4,2,0,1,1,2,0,3,Cliente No Segmentado,No
+No,10,0,0,5,1,1,0,0,1,Cliente Objetivo,No
+Si,28,6,0,15,0,0,6,0,0,Cliente Leal,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,20,1,0,2,0,1,9,0,0,Cliente Objetivo,Si
+No,7,2,0,2,0,1,0,0,2,Cliente Objetivo,Si
+Si,13,7,0,1,0,1,2,0,0,Cliente Leal,Si
+No,9,2,0,3,0,0,3,0,0,Cliente Objetivo,Si
+No,8,1,0,2,0,1,1,0,3,Cliente Objetivo,Si
+No,6,1,0,1,0,1,0,0,3,Cliente Objetivo,Si
+No,13,3,0,1,1,1,2,1,2,Cliente Leal,No
+No,6,0,0,1,0,2,3,0,0,Cliente Objetivo,Si
+Si,16,3,0,0,0,1,3,0,9,Cliente Leal,Si
+Si,10,6,0,0,0,0,1,0,3,Cliente Leal,Si
+Si,20,1,0,4,0,0,14,0,0,Cliente Objetivo,Si
+Si,30,5,3,2,0,0,7,0,11,Cliente No Segmentado,Si
+Si,4,1,1,1,0,0,0,0,1,Cliente Objetivo,Si
+No,8,4,0,0,0,1,1,0,2,Cliente Leal,Si
+Si,2,1,0,0,0,0,1,0,0,Cliente Objetivo,Si
+No,3,0,0,1,0,0,1,0,1,Cliente Objetivo,Si
+Si,6,3,0,0,0,0,1,0,1,Cliente Leal,Si
+No,17,3,0,3,0,1,2,0,4,Cliente Leal,Si
+Si,5,3,0,0,0,0,1,0,1,Cliente Leal,Si
+No,12,0,0,1,0,0,1,0,1,Cliente Objetivo,Si
+No,12,2,0,0,0,3,1,0,6,Cliente Objetivo,Si
+No,24,9,0,3,0,1,2,0,4,Cliente Leal,Si
+No,8,0,0,2,0,1,5,0,0,Cliente Objetivo,Si
+Si,7,3,0,1,0,0,1,0,1,Cliente Leal,Si
+Si,7,3,0,1,0,0,1,0,0,Cliente Leal,Si
+Si,12,1,0,1,0,1,1,0,5,Cliente Objetivo,Si
+No,22,7,0,8,0,3,0,0,4,Cliente Leal,Si
+No,15,7,1,3,0,1,1,0,2,Cliente Leal,Si
+No,1,0,0,1,0,0,0,0,0,Cliente Objetivo,Si
+No,9,1,0,0,1,1,2,1,3,Cliente Objetivo,No
+No,8,0,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,15,4,1,3,0,3,0,0,4,Cliente Leal,Si
+Si,3,1,0,1,0,0,0,0,1,Cliente Objetivo,Si
+No,18,8,0,2,0,0,5,0,0,Cliente Leal,Si
+Si,17,5,3,1,0,0,0,0,6,Cliente No Segmentado,Si
+No,10,2,0,3,0,2,1,1,0,Cliente Objetivo,Si
+No,4,1,0,0,0,0,0,0,1,Cliente Objetivo,Si
+No,10,4,0,0,0,0,1,0,3,Cliente Leal,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,9,2,0,1,0,0,3,0,2,Cliente Objetivo,Si
+No,4,1,0,0,0,1,1,0,1,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,12,3,0,0,0,2,6,0,1,Cliente Leal,Si
+No,28,4,6,9,1,3,0,0,5,Cliente No Segmentado,No
+Si,7,3,0,1,0,0,1,0,2,Cliente Leal,Si
+No,20,4,6,0,0,0,2,0,4,Cliente No Segmentado,Si
+No,27,6,1,1,0,1,4,1,12,Cliente Leal,Si
+No,18,2,0,1,0,3,12,0,0,Cliente Objetivo,Si
+Si,2,1,0,0,0,0,0,0,1,Cliente Objetivo,Si
+Si,3,1,0,0,0,1,0,0,0,Cliente Objetivo,Si
+No,7,2,0,0,0,1,1,1,2,Cliente Objetivo,Si
+Si,5,1,0,1,0,0,1,0,1,Cliente Objetivo,Si
+No,6,0,0,5,0,0,1,0,0,Cliente Objetivo,Si
+No,12,6,0,1,0,1,2,0,2,Cliente Leal,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,5,0,0,1,0,0,1,0,1,Cliente Objetivo,Si
+Si,40,0,0,4,0,0,1,0,9,Cliente Objetivo,Si
+No,17,5,2,1,1,2,2,1,3,Cliente No Segmentado,No
+No,12,1,3,0,0,0,3,0,0,Cliente No Segmentado,Si
+No,19,4,2,1,1,3,0,1,5,Cliente No Segmentado,No
+No,6,0,0,5,0,0,1,0,0,Cliente Objetivo,Si
+No,13,2,2,1,0,2,2,1,3,Cliente No Segmentado,Si
+No,3,0,0,0,0,1,1,0,1,Cliente Objetivo,Si
+No,6,1,0,0,0,1,3,0,1,Cliente Objetivo,Si
+No,191,1,0,1,0,2,7,0,3,Cliente Objetivo,Si
+No,11,1,0,0,0,1,7,0,0,Cliente Objetivo,Si
+No,1,2,0,3,0,2,1,2,5,Cliente Objetivo,Si
+No,26,8,5,2,0,0,2,0,6,Cliente No Segmentado,Si
+No,1,2,1,1,0,3,0,0,2,Cliente Objetivo,Si
+No,13,3,1,3,0,1,1,0,4,Cliente Leal,Si
+No,5,1,0,1,0,1,2,0,0,Cliente Objetivo,Si
+No,11,7,0,1,0,1,0,0,2,Cliente Leal,Si
+No,5,0,0,0,0,1,4,0,0,Cliente Objetivo,Si
+No,1,4,0,0,0,0,2,0,3,Cliente Leal,Si
+No,8,4,0,1,0,0,1,0,1,Cliente Leal,Si
+Si,11,8,0,0,0,0,1,0,1,Cliente Leal,Si
+Si,17,3,1,2,1,2,1,0,6,Cliente Leal,No
+No,8,2,0,1,0,1,1,0,2,Cliente Objetivo,Si
+Si,11,1,0,0,1,1,2,1,4,Cliente Objetivo,No
+No,5,0,0,0,0,0,1,0,2,Cliente Objetivo,Si
+Si,10,2,0,2,0,3,1,0,2,Cliente Objetivo,Si
+No,18,8,0,2,1,2,4,0,1,Cliente Leal,No
+No,5,1,0,1,0,2,1,0,0,Cliente Objetivo,Si
+No,13,5,0,1,0,1,3,0,1,Cliente Leal,Si
+No,15,3,2,1,2,1,1,1,3,Cliente No Segmentado,No
+No,17,0,0,3,0,3,11,0,0,Cliente Objetivo,Si
+No,12,7,0,0,0,1,1,0,3,Cliente Leal,Si
+No,2,0,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,20,2,0,1,0,0,4,0,7,Cliente Objetivo,Si
+No,56,1,0,6,0,2,13,0,1,Cliente Objetivo,Si
+Si,6,4,0,0,0,0,1,0,1,Cliente Leal,Si
+No,24,7,1,5,0,1,0,1,3,Cliente Leal,Si
+No,12,1,0,3,0,2,1,1,4,Cliente Objetivo,Si
+No,43,10,0,9,1,2,15,0,0,Cliente Leal,No
+Si,17,2,0,0,0,0,3,0,9,Cliente Objetivo,Si
+No,9,1,0,2,0,1,0,0,5,Cliente Objetivo,Si
+No,9,1,0,0,0,3,3,0,2,Cliente Objetivo,Si
+No,15,7,0,2,0,0,4,0,0,Cliente Leal,Si
+No,21,0,0,3,0,0,4,0,2,Cliente Objetivo,Si
+No,11,0,0,1,0,2,8,0,0,Cliente Objetivo,Si
+Si,6,3,0,1,0,0,2,0,0,Cliente Leal,Si
+No,12,3,0,3,0,1,1,0,4,Cliente Leal,Si
+Si,17,0,0,2,0,0,1,0,5,Cliente Objetivo,Si
+Si,4,1,1,1,0,0,0,0,1,Cliente Objetivo,Si
+No,12,0,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,7,1,0,0,1,1,1,1,1,Cliente Objetivo,No
+Si,4,1,0,0,0,1,1,0,1,Cliente Objetivo,Si
+No,37,11,8,11,0,1,1,0,5,Cliente No Segmentado,Si
+No,7,2,0,1,0,1,1,0,2,Cliente Objetivo,Si
+Si,13,4,0,0,0,0,1,0,5,Cliente Leal,Si
+No,7,1,0,2,0,2,0,1,0,Cliente Objetivo,Si
+Si,26,7,6,5,0,1,4,0,1,Cliente No Segmentado,Si
+No,23,0,0,3,2,2,15,0,1,Cliente Objetivo,No
+Si,2,1,0,0,0,0,0,0,0,Cliente Objetivo,Si
+Si,36,8,10,3,0,0,3,0,4,Cliente No Segmentado,Si
+No,11,6,0,0,0,1,1,0,2,Cliente Leal,Si
+Si,7,2,0,0,0,0,4,0,1,Cliente Objetivo,Si
+No,25,8,0,3,1,4,1,1,5,Cliente Leal,No
+No,9,3,1,1,0,1,1,0,2,Cliente Leal,Si
+No,14,0,0,2,0,1,0,0,1,Cliente Objetivo,Si
+Si,7,0,0,1,0,0,0,0,2,Cliente Objetivo,Si
+Si,15,2,9,0,0,0,1,0,0,Cliente No Segmentado,Si
+No,6,1,0,1,0,1,0,1,2,Cliente Objetivo,Si
+No,16,2,0,0,2,4,0,1,4,Cliente Objetivo,No
+No,10,3,0,0,0,1,4,0,1,Cliente Leal,Si
+Si,28,0,0,1,0,0,3,0,6,Cliente Objetivo,Si
+No,9,3,0,1,0,1,1,0,3,Cliente Leal,Si
+No,12,3,1,1,0,0,2,0,4,Cliente Leal,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,25,7,3,7,0,1,3,0,3,Cliente No Segmentado,Si
+No,8,1,0,0,0,1,2,0,2,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,41,7,10,3,0,1,3,0,10,Cliente No Segmentado,Si
+Si,15,4,0,0,0,4,3,0,0,Cliente Leal,Si
+No,51,2,0,3,0,3,2,0,1,Cliente Objetivo,Si
+No,12,7,1,0,0,1,1,0,2,Cliente Leal,Si
+No,16,3,0,1,0,0,5,0,2,Cliente Leal,Si
+No,8,0,0,0,1,1,1,0,2,Cliente Objetivo,No
+No,5,0,0,1,1,1,0,0,1,Cliente Objetivo,No
+No,2,0,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,18,0,0,2,0,1,12,0,0,Cliente Objetivo,Si
+No,31,0,0,4,0,0,3,0,9,Cliente Objetivo,Si
+No,12,2,1,1,0,1,1,2,3,Cliente Objetivo,Si
+No,9,5,0,0,0,1,1,0,2,Cliente Leal,Si
+No,7,2,0,4,0,0,0,0,1,Cliente Objetivo,Si
+No,7,2,0,0,0,0,2,0,0,Cliente Objetivo,Si
+No,15,8,0,0,0,3,3,0,1,Cliente Leal,Si
+No,64,8,0,1,0,0,1,0,3,Cliente Leal,Si
+Si,20,2,1,0,0,1,4,0,9,Cliente Objetivo,Si
+No,6,1,0,0,1,1,1,1,1,Cliente Objetivo,Si
+No,5,1,0,1,0,0,0,0,2,Cliente Objetivo,Si
+No,2,0,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,10,3,0,3,0,1,2,0,0,Cliente Leal,Si
+No,10,2,1,2,0,2,1,0,1,Cliente Objetivo,Si
+Si,6,0,0,0,0,1,4,0,0,Cliente Objetivo,Si
+No,7,1,0,2,0,0,3,0,0,Cliente Objetivo,Si
+No,11,1,5,2,1,1,0,0,1,Cliente No Segmentado,No
+No,13,3,0,3,0,1,1,1,4,Cliente Leal,Si
+No,23,11,4,2,1,1,2,1,0,Cliente No Segmentado,Si
+No,14,8,0,0,1,2,1,0,1,Cliente Leal,No
+No,13,8,1,1,0,0,1,0,2,Cliente Leal,Si
+No,7,0,0,1,0,3,2,0,1,Cliente Objetivo,Si
+Si,10,1,0,2,0,0,6,0,0,Cliente Objetivo,Si
+Si,9,1,1,0,0,0,1,0,4,Cliente Objetivo,Si
+Si,33,4,0,9,1,4,7,0,4,Cliente Leal,No
+Si,14,8,0,1,0,0,2,0,3,Cliente Leal,Si
+No,41,0,0,9,1,2,5,0,8,Cliente Objetivo,No
+No,4,0,0,0,0,1,0,0,1,Cliente Objetivo,Si
+Si,4,0,0,0,0,0,0,0,0,Cliente Objetivo,Si
+No,14,1,0,2,0,2,1,1,7,Cliente Objetivo,Si
+Si,2,1,0,0,0,0,0,0,0,Cliente Objetivo,Si
+Si,11,2,1,0,1,3,1,1,2,Cliente Objetivo,No
+No,5,0,0,0,0,1,4,0,0,Cliente Objetivo,Si
+No,8,3,0,0,0,0,1,0,2,Cliente Leal,Si
+No,10,5,0,1,0,1,1,0,2,Cliente Leal,Si
+No,5,1,0,0,0,0,3,0,0,Cliente Objetivo,Si
+No,19,10,4,1,0,1,1,0,2,Cliente No Segmentado,Si
+No,5,1,0,1,0,1,1,0,1,Cliente Objetivo,Si
+No,3,0,0,0,0,2,1,0,0,Cliente Objetivo,Si
+Si,8,3,0,2,0,0,3,0,0,Cliente Leal,Si
+No,19,1,0,3,0,4,11,0,0,Cliente Objetivo,Si
+Si,4,0,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,7,1,0,0,1,2,1,0,1,Cliente Objetivo,No
+No,9,5,0,0,0,1,1,0,2,Cliente Leal,Si
+No,8,0,0,4,0,2,0,0,1,Cliente Objetivo,Si
+No,2,0,0,0,0,2,0,0,0,Cliente Objetivo,Si
+No,1,4,3,1,0,0,0,0,0,Cliente No Segmentado,Si
+No,11,3,0,1,1,1,1,1,2,Cliente Leal,No
+No,18,3,1,3,0,2,2,1,6,Cliente Leal,Si
+No,51,2,0,1,0,0,18,0,24,Cliente Objetivo,Si
+Si,13,7,0,1,0,0,4,0,0,Cliente Leal,Si
+No,10,0,0,1,0,0,3,0,2,Cliente Objetivo,Si
+No,10,1,0,1,0,1,1,0,5,Cliente Objetivo,Si
+No,6,0,0,1,0,2,2,0,1,Cliente Objetivo,Si
+No,10,5,0,1,0,1,1,0,2,Cliente Leal,Si
+No,21,0,0,3,0,1,1,0,13,Cliente Objetivo,Si
+No,30,0,0,3,0,5,3,0,7,Cliente Objetivo,Si
+No,9,0,0,1,0,1,0,0,3,Cliente Objetivo,Si
+No,7,1,0,0,1,1,1,1,1,Cliente Objetivo,No
+No,9,1,2,2,0,0,1,0,3,Cliente Objetivo,Si
+Si,7,2,0,0,0,0,2,0,1,Cliente Objetivo,Si
+Si,17,5,2,1,0,0,6,0,2,Cliente No Segmentado,Si
+Si,4,1,1,1,0,0,0,0,1,Cliente Objetivo,Si
+No,7,1,0,1,1,3,0,1,0,Cliente Objetivo,No
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,9,1,0,3,0,2,3,0,0,Cliente Objetivo,Si
+Si,12,3,2,1,0,0,2,0,2,Cliente No Segmentado,Si
+No,10,6,0,0,0,1,1,0,2,Cliente Leal,Si
+No,32,6,1,12,1,2,1,1,7,Cliente Leal,No
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,28,9,1,0,0,3,1,1,9,Cliente Leal,Si
+Si,31,9,2,4,0,0,4,0,10,Cliente No Segmentado,Si
+Si,9,0,0,0,0,0,0,0,2,Cliente Objetivo,Si
+No,29,3,0,2,1,1,0,1,2,Cliente Leal,No
+No,6,1,0,1,0,1,0,0,3,Cliente Objetivo,Si
+No,3,0,0,0,0,1,0,0,2,Cliente Objetivo,Si
+No,5,0,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,9,0,0,0,0,0,2,0,4,Cliente Objetivo,Si
+No,21,7,0,1,1,1,1,1,8,Cliente Leal,Si
+No,3,0,0,0,1,1,0,1,0,Cliente Objetivo,No
+No,22,3,0,1,1,1,2,1,9,Cliente Leal,No
+No,14,2,2,2,0,1,1,0,5,Cliente No Segmentado,Si
+No,29,5,0,1,0,0,23,0,0,Cliente Leal,Si
+No,52,7,3,1,0,2,3,2,8,Cliente No Segmentado,Si
+Si,38,5,0,1,0,1,0,0,2,Cliente Leal,Si
+No,17,5,6,0,0,1,1,0,3,Cliente No Segmentado,Si
+No,4,0,0,0,0,3,1,0,0,Cliente Objetivo,Si
+No,9,0,0,0,0,3,2,0,4,Cliente Objetivo,Si
+No,2,0,0,0,0,2,0,0,0,Cliente Objetivo,Si
+No,55,1,0,2,0,0,23,0,0,Cliente Objetivo,Si
+Si,8,5,0,0,0,0,1,0,2,Cliente Leal,Si
+No,12,4,0,0,0,2,3,0,1,Cliente Leal,Si
+Si,19,0,0,4,0,0,1,0,3,Cliente Objetivo,Si
+Si,9,1,0,0,0,0,3,0,3,Cliente Objetivo,Si
+No,10,2,0,0,0,0,1,0,7,Cliente Objetivo,Si
+No,3,0,0,2,0,0,0,0,1,Cliente Objetivo,Si
+No,12,0,0,2,0,1,1,0,1,Cliente Objetivo,Si
+Si,10,4,4,0,0,0,1,0,0,Cliente No Segmentado,Si
+No,15,1,0,3,0,3,6,0,1,Cliente Objetivo,Si
+No,11,0,0,2,0,1,1,0,2,Cliente Objetivo,Si
+No,5,1,0,1,0,0,1,0,1,Cliente Objetivo,Si
+Si,9,2,0,2,0,0,4,0,1,Cliente Objetivo,Si
+Si,11,1,0,5,0,1,1,0,2,Cliente Objetivo,Si
+No,25,4,0,7,0,1,1,0,4,Cliente Leal,Si
+No,7,0,0,2,0,1,2,0,2,Cliente Objetivo,Si
+No,16,5,5,2,0,1,1,0,1,Cliente No Segmentado,Si
+No,8,3,0,2,0,1,1,0,1,Cliente Leal,Si
+No,4,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,8,0,0,2,1,2,3,0,0,Cliente Objetivo,No
+No,10,1,0,0,0,0,1,0,2,Cliente Objetivo,Si
+No,11,2,0,0,1,1,1,1,3,Cliente Objetivo,No
+Si,26,4,4,4,0,0,4,0,6,Cliente No Segmentado,Si
+No,12,5,0,0,0,0,1,0,3,Cliente Leal,Si
+No,18,10,0,4,0,0,2,0,2,Cliente Leal,Si
+Si,14,4,2,0,0,0,0,0,4,Cliente No Segmentado,Si
+No,29,0,0,1,1,1,1,0,1,Cliente Objetivo,No
+Si,7,1,0,2,0,1,1,0,1,Cliente Objetivo,Si
+Si,11,2,0,0,0,0,3,0,5,Cliente Objetivo,Si
+No,11,0,0,1,0,0,3,0,3,Cliente Objetivo,Si
+Si,6,1,1,0,0,0,2,0,2,Cliente Objetivo,Si
+No,7,1,0,1,0,1,1,0,3,Cliente Objetivo,Si
+Si,6,3,0,0,0,0,1,0,0,Cliente Leal,Si
+No,7,2,0,1,1,1,1,0,0,Cliente Objetivo,No
+Si,6,1,0,0,0,0,0,0,3,Cliente Objetivo,Si
+No,5,0,0,0,0,0,0,0,2,Cliente Objetivo,Si
+Si,3,0,0,0,0,0,1,0,0,Cliente Objetivo,Si
+Si,2,0,0,0,0,0,0,0,1,Cliente Objetivo,Si
+No,4,1,0,1,0,1,1,0,0,Cliente Objetivo,Si
+No,10,0,0,0,0,0,1,0,3,Cliente Objetivo,Si
+No,35,4,0,4,3,6,13,0,1,Cliente Leal,No
+Si,20,10,6,1,0,0,1,0,0,Cliente No Segmentado,Si
+No,6,0,0,0,0,1,1,0,3,Cliente Objetivo,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,6,0,0,1,0,1,0,0,3,Cliente Objetivo,Si
+No,17,0,0,4,0,3,3,0,1,Cliente Objetivo,Si
+No,9,1,0,1,0,0,6,0,0,Cliente Objetivo,Si
+Si,19,5,10,0,0,0,1,0,2,Cliente No Segmentado,Si
+No,11,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,42,8,5,0,0,0,5,0,16,Cliente No Segmentado,Si
+No,5,0,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,10,4,0,0,0,3,1,0,0,Cliente Leal,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,7,1,0,0,0,1,1,1,2,Cliente Objetivo,Si
+No,15,7,0,1,0,1,2,1,1,Cliente Leal,Si
+No,40,9,9,8,1,1,2,1,6,Cliente No Segmentado,No
+No,9,3,0,1,0,0,2,0,1,Cliente Leal,Si
+No,19,8,0,1,1,1,3,1,3,Cliente Leal,No
+No,7,3,0,0,0,1,1,0,2,Cliente Leal,Si
+No,3,0,0,2,0,0,1,0,0,Cliente Objetivo,Si
+No,12,4,2,0,0,0,2,0,3,Cliente No Segmentado,Si
+No,6,2,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,28,0,0,6,4,4,14,0,0,Cliente Objetivo,No
+Si,7,3,0,0,0,0,2,0,1,Cliente Leal,Si
+Si,18,3,0,3,0,0,7,0,3,Cliente Leal,Si
+No,4,0,0,1,0,1,0,1,1,Cliente Objetivo,Si
+No,8,2,0,0,0,2,2,0,2,Cliente Objetivo,Si
+No,22,5,0,2,0,0,10,0,1,Cliente Leal,Si
+No,12,0,0,1,0,1,0,0,10,Cliente Objetivo,Si
+Si,16,10,3,1,0,0,1,0,1,Cliente No Segmentado,Si
+No,26,5,2,3,0,0,1,0,7,Cliente No Segmentado,Si
+Si,5,1,0,1,0,0,2,0,0,Cliente Objetivo,Si
+No,5,1,0,1,0,1,2,0,0,Cliente Objetivo,Si
+No,9,5,0,2,0,0,2,0,0,Cliente Leal,Si
+No,1,0,0,1,0,0,0,0,0,Cliente Objetivo,Si
+No,11,2,0,1,0,2,4,0,0,Cliente Objetivo,Si
+No,6,0,0,1,1,1,0,0,3,Cliente Objetivo,No
+No,8,3,0,1,0,1,1,0,2,Cliente Leal,Si
+No,8,3,1,0,0,0,1,0,2,Cliente Leal,Si
+Si,24,6,4,1,0,0,3,0,7,Cliente No Segmentado,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+Si,14,4,0,3,1,1,14,0,0,Cliente Leal,No
+No,14,6,0,1,0,2,1,0,2,Cliente Leal,Si
+No,7,1,0,0,0,1,4,0,1,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,22,7,2,2,1,1,2,1,3,Cliente No Segmentado,No
+No,12,3,1,0,0,0,1,0,7,Cliente Leal,Si
+Si,5,1,1,1,0,0,1,0,1,Cliente Objetivo,Si
+Si,16,8,6,0,0,0,1,0,1,Cliente No Segmentado,Si
+Si,14,8,0,1,0,0,1,0,1,Cliente Leal,Si
+Si,5,3,0,0,0,0,1,0,0,Cliente Leal,Si
+No,7,0,0,0,0,1,5,0,1,Cliente Objetivo,Si
+No,6,0,0,1,1,1,0,0,3,Cliente Objetivo,No
+Si,7,1,0,0,0,1,0,0,5,Cliente Objetivo,Si
+No,5,1,0,1,0,2,1,0,0,Cliente Objetivo,Si
+Si,22,2,0,0,0,1,0,0,2,Cliente Objetivo,Si
+No,18,9,0,0,0,2,2,0,3,Cliente Leal,Si
+No,14,2,1,2,1,1,0,1,6,Cliente Objetivo,Si
+No,11,0,0,0,0,0,1,0,3,Cliente Objetivo,Si
+No,22,0,0,1,0,0,6,0,0,Cliente Objetivo,Si
+No,10,0,0,5,0,1,4,0,0,Cliente Objetivo,Si
+Si,5,0,0,0,0,0,1,0,2,Cliente Objetivo,Si
+No,6,1,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,4,0,0,1,0,1,0,0,1,Cliente Objetivo,Si
+Si,57,0,0,1,0,0,1,0,1,Cliente Objetivo,Si
+No,17,0,0,0,0,2,2,0,9,Cliente Objetivo,Si
+No,13,2,1,2,0,3,0,0,5,Cliente Objetivo,Si
+Si,23,4,2,5,1,3,0,0,8,Cliente No Segmentado,Si
+No,11,6,0,0,0,1,1,0,3,Cliente Leal,Si
+No,2,0,0,2,0,0,0,0,0,Cliente Objetivo,Si
+No,2,0,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,11,2,0,1,1,1,1,1,2,Cliente Objetivo,Si
+Si,7,1,0,1,0,1,1,1,1,Cliente Objetivo,Si
+No,4,1,0,0,0,1,0,0,2,Cliente Objetivo,Si
+No,29,9,3,4,1,1,3,1,4,Cliente No Segmentado,No
+No,12,2,0,2,0,0,1,0,5,Cliente Objetivo,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,13,4,0,2,1,1,0,1,3,Cliente Leal,No
+Si,3,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+Si,6,1,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,28,8,0,1,1,1,2,1,13,Cliente Leal,No
+No,1,0,0,1,0,0,0,0,0,Cliente Objetivo,Si
+No,3,0,0,1,1,1,0,0,0,Cliente Objetivo,No
+Si,6,3,0,1,0,0,0,0,2,Cliente Leal,Si
+No,23,9,6,1,1,1,1,1,1,Cliente No Segmentado,No
+Si,9,1,2,1,0,2,1,0,1,Cliente Objetivo,Si
+Si,13,3,0,4,0,2,2,0,2,Cliente Leal,Si
+No,10,2,1,0,0,2,1,0,4,Cliente Objetivo,Si
+No,14,9,0,1,0,1,1,0,1,Cliente Leal,Si
+Si,4,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,12,1,0,2,0,0,6,0,2,Cliente Objetivo,Si
+No,16,0,0,3,0,3,2,0,4,Cliente Objetivo,Si
+No,7,0,0,2,0,1,3,0,1,Cliente Objetivo,Si
+No,10,1,1,3,0,0,3,0,2,Cliente Objetivo,Si
+Si,10,7,0,1,0,0,1,0,1,Cliente Leal,Si
+No,23,2,0,2,1,2,0,0,4,Cliente Objetivo,No
+Si,15,8,3,1,0,0,1,0,1,Cliente No Segmentado,Si
+No,13,5,0,0,0,1,4,0,0,Cliente Leal,Si
+No,20,2,0,2,0,6,0,3,6,Cliente Objetivo,Si
+No,12,2,0,1,1,4,3,0,1,Cliente Objetivo,No
+Si,2,1,0,0,0,0,0,0,0,Cliente Objetivo,Si
+No,6,1,0,1,0,2,0,1,1,Cliente Objetivo,Si
+No,11,1,0,3,1,1,0,0,3,Cliente Objetivo,No
+Si,17,6,0,1,1,1,1,0,7,Cliente Leal,No
+No,5,1,0,0,0,1,1,0,2,Cliente Objetivo,Si
+Si,52,0,0,4,0,0,7,0,5,Cliente Objetivo,Si
+No,13,2,0,2,0,2,1,0,6,Cliente Objetivo,Si
+No,8,0,0,0,0,2,1,0,4,Cliente Objetivo,Si
+Si,3,0,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,7,1,0,1,0,1,1,0,3,Cliente Objetivo,Si
+No,22,6,7,6,0,1,0,1,0,Cliente No Segmentado,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,8,3,0,0,0,0,1,0,3,Cliente Leal,Si
+No,8,2,0,2,1,1,0,1,1,Cliente Objetivo,No
+Si,10,2,0,3,0,1,1,0,3,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,9,6,0,0,0,0,2,0,0,Cliente Leal,Si
+No,28,7,0,5,0,0,4,0,6,Cliente Leal,Si
+No,4,1,0,0,0,1,1,1,0,Cliente Objetivo,Si
+No,8,2,0,3,0,1,0,0,2,Cliente Objetivo,Si
+No,4,1,0,1,0,1,1,0,0,Cliente Objetivo,Si
+No,17,7,0,2,0,1,3,1,2,Cliente Leal,Si
+No,10,1,2,2,1,1,1,0,1,Cliente Objetivo,No
+No,4,1,0,1,0,0,1,0,1,Cliente Objetivo,Si
+No,9,1,0,1,1,1,1,1,2,Cliente Objetivo,No
+No,6,1,0,0,1,2,1,0,0,Cliente Objetivo,No
+No,10,2,0,0,0,1,1,0,4,Cliente Objetivo,Si
+No,9,1,0,2,0,1,1,0,1,Cliente Objetivo,Si
+No,11,6,0,1,0,1,1,0,2,Cliente Leal,Si
+No,19,11,0,4,0,0,3,0,1,Cliente Leal,Si
+No,8,1,0,0,0,3,0,2,2,Cliente Objetivo,Si
+No,5,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,18,7,4,1,1,1,1,1,1,Cliente No Segmentado,No
+Si,5,1,0,1,0,1,0,1,1,Cliente Objetivo,Si
+No,5,1,0,0,1,1,1,0,1,Cliente Objetivo,No
+No,14,7,0,2,0,1,1,0,3,Cliente Leal,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+Si,6,3,0,1,0,0,1,0,1,Cliente Leal,Si
+No,9,6,0,0,0,0,0,0,3,Cliente Leal,Si
+No,15,10,0,1,1,1,1,0,0,Cliente Leal,No
+Si,16,6,4,1,0,1,1,0,2,Cliente No Segmentado,Si
+Si,10,4,1,0,0,0,2,0,2,Cliente Leal,Si
+No,12,0,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,17,4,0,2,2,4,3,0,2,Cliente Leal,No
+Si,16,10,1,2,0,0,1,0,2,Cliente Leal,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,6,0,0,1,0,1,1,0,2,Cliente Objetivo,Si
+Si,4,1,0,0,0,0,0,0,3,Cliente Objetivo,Si
+No,12,7,0,1,0,0,2,0,2,Cliente Leal,Si
+No,13,5,0,0,0,2,4,0,2,Cliente Leal,Si
+No,11,4,0,0,1,1,2,1,1,Cliente Leal,No
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,26,1,0,3,0,1,4,1,12,Cliente Objetivo,Si
+Si,7,1,0,0,0,0,3,0,1,Cliente Objetivo,Si
+Si,8,3,0,0,0,0,0,0,4,Cliente Leal,Si
+Si,10,2,0,2,0,1,2,0,3,Cliente Objetivo,Si
+No,14,2,0,0,0,2,1,0,7,Cliente Objetivo,Si
+Si,16,9,0,1,0,0,1,0,3,Cliente Leal,Si
+Si,6,2,0,0,0,0,0,0,3,Cliente Objetivo,Si
+Si,3,1,0,1,0,0,0,0,0,Cliente Objetivo,Si
+Si,15,7,4,0,0,0,1,0,3,Cliente No Segmentado,Si
+No,11,4,0,1,0,1,1,0,3,Cliente Leal,Si
+Si,14,6,0,3,0,0,1,0,1,Cliente Leal,Si
+No,19,6,0,3,0,0,8,0,2,Cliente Leal,Si
+No,7,2,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,9,3,0,3,0,0,1,0,1,Cliente Leal,Si
+No,5,1,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,6,1,0,1,1,1,1,1,0,Cliente Objetivo,No
+No,7,1,0,2,0,1,0,1,2,Cliente Objetivo,Si
+Si,27,11,2,0,0,0,1,0,8,Cliente No Segmentado,Si
+No,18,1,1,5,0,0,0,0,7,Cliente Objetivo,Si
+No,24,2,0,0,0,1,19,0,0,Cliente Objetivo,Si
+Si,8,1,0,4,0,2,0,0,1,Cliente Objetivo,Si
+No,7,1,0,3,0,1,0,0,2,Cliente Objetivo,Si
+No,5,1,0,0,0,0,1,0,2,Cliente Objetivo,Si
+No,9,4,0,1,0,1,1,0,1,Cliente Leal,Si
+No,5,0,0,1,0,1,2,0,1,Cliente Objetivo,Si
+No,6,0,0,2,0,1,1,0,2,Cliente Objetivo,Si
+Si,9,2,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,10,3,0,3,0,1,1,0,2,Cliente Leal,Si
+No,13,3,0,1,0,2,2,1,2,Cliente Leal,Si
+Si,8,1,0,0,0,0,2,0,3,Cliente Objetivo,Si
+No,5,0,0,2,0,0,3,0,0,Cliente Objetivo,Si
+No,2,0,0,0,0,1,1,0,0,Cliente Objetivo,Si
+No,10,3,0,0,0,2,1,1,1,Cliente Leal,Si
+No,1,0,0,1,0,0,0,0,0,Cliente Objetivo,Si
+Si,13,6,0,2,0,0,2,0,1,Cliente Leal,Si
+No,4,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+No,5,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,10,0,0,0,0,2,8,0,0,Cliente Objetivo,Si
+No,10,3,0,0,1,1,1,1,2,Cliente Leal,No
+Si,9,4,1,3,0,0,0,0,1,Cliente Leal,Si
+No,8,4,0,0,0,0,1,0,2,Cliente Leal,Si
+No,20,2,0,0,0,0,0,0,5,Cliente Objetivo,Si
+Si,11,1,3,0,0,0,2,0,5,Cliente No Segmentado,Si
+No,6,3,0,1,0,1,0,0,1,Cliente Leal,Si
+No,23,0,0,1,1,2,4,0,2,Cliente Objetivo,No
+No,13,2,0,2,1,1,2,1,4,Cliente Objetivo,No
+Si,5,2,1,0,0,1,0,0,0,Cliente Objetivo,Si
+No,7,1,0,0,0,3,2,0,1,Cliente Objetivo,Si
+Si,15,3,0,3,0,0,8,0,0,Cliente Leal,Si
+No,4,1,0,0,0,1,2,0,0,Cliente Objetivo,Si
+Si,14,1,0,0,0,0,3,0,4,Cliente Objetivo,Si
+Si,29,10,0,2,0,3,3,0,11,Cliente Leal,Si
+Si,8,0,0,0,0,0,1,0,2,Cliente Objetivo,Si
+No,5,0,0,0,0,2,2,0,1,Cliente Objetivo,Si
+No,4,0,0,1,0,0,2,0,1,Cliente Objetivo,Si
+No,12,0,0,1,1,1,9,0,0,Cliente Objetivo,No
+No,7,1,0,0,1,1,1,1,1,Cliente Objetivo,Si
+No,10,2,2,3,0,0,1,0,0,Cliente No Segmentado,Si
+No,10,4,0,0,0,0,3,0,0,Cliente Leal,Si
+No,14,4,0,4,0,1,1,1,2,Cliente Leal,Si
+No,6,2,0,0,0,1,1,0,2,Cliente Objetivo,Si
+Si,26,7,6,1,0,0,1,0,5,Cliente No Segmentado,Si
+No,16,8,0,2,0,1,3,0,2,Cliente Leal,Si
+Si,5,2,0,0,0,1,1,0,1,Cliente Objetivo,Si
+Si,19,8,0,1,0,1,8,0,0,Cliente Leal,Si
+No,2,0,0,0,1,1,0,0,0,Cliente Objetivo,No
+No,3,0,0,1,0,0,2,0,0,Cliente Objetivo,Si
+No,49,2,5,4,0,1,0,1,3,Cliente No Segmentado,Si
+No,8,0,0,2,0,0,6,0,0,Cliente Objetivo,Si
+No,5,1,0,1,0,2,1,0,0,Cliente Objetivo,Si
+No,17,3,4,1,1,2,3,0,0,Cliente No Segmentado,No
+No,11,6,0,1,0,1,1,0,2,Cliente Leal,Si
+No,6,1,0,1,0,0,1,0,1,Cliente Objetivo,Si
+No,14,0,0,5,0,3,5,0,1,Cliente Objetivo,Si
+No,8,3,0,1,0,1,1,0,2,Cliente Leal,Si
+No,27,0,0,0,1,2,0,0,2,Cliente Objetivo,No
+No,7,0,0,1,0,1,1,0,3,Cliente Objetivo,Si
+No,10,1,0,0,0,4,4,0,1,Cliente Objetivo,Si
+No,19,2,0,2,0,2,3,0,2,Cliente Objetivo,Si
+No,16,5,0,9,0,0,1,0,1,Cliente Leal,Si
+No,7,1,1,1,0,0,0,0,3,Cliente Objetivo,Si
+No,7,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,9,1,0,1,0,0,4,0,3,Cliente Objetivo,Si
+Si,10,0,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,11,0,0,3,0,3,3,0,1,Cliente Objetivo,Si
+No,12,5,0,2,0,2,2,1,0,Cliente Leal,Si
+No,13,5,0,1,0,1,1,1,2,Cliente Leal,Si
+Si,3,0,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,4,0,0,1,1,1,0,1,0,Cliente Objetivo,Si
+Si,6,3,0,0,0,0,0,0,2,Cliente Leal,Si
+No,15,6,0,2,1,3,1,0,2,Cliente Leal,No
+Si,12,1,0,0,0,0,0,0,1,Cliente Objetivo,Si
+No,7,1,0,0,1,2,1,0,2,Cliente Objetivo,No
+No,10,4,0,2,0,1,1,0,2,Cliente Leal,Si
+Si,2,1,0,0,0,0,1,0,0,Cliente Objetivo,Si
+No,21,3,0,1,0,3,8,0,0,Cliente Leal,Si
+No,6,0,0,2,1,1,0,0,1,Cliente Objetivo,No
+Si,12,1,0,1,2,1,5,0,1,Cliente Objetivo,No
+No,6,1,0,1,0,2,0,0,2,Cliente Objetivo,Si
+No,7,0,0,1,0,0,1,0,1,Cliente Objetivo,Si
+No,11,6,0,2,0,0,3,0,0,Cliente Leal,Si
+No,12,8,0,0,0,1,1,0,2,Cliente Leal,Si
+No,20,2,10,1,0,2,1,0,4,Cliente No Segmentado,Si
+No,9,4,0,1,0,0,2,0,0,Cliente Leal,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,5,0,0,1,0,1,1,0,2,Cliente Objetivo,Si
+Si,14,2,0,1,0,0,2,0,7,Cliente Objetivo,Si
+No,2,1,0,0,0,6,0,1,7,Cliente Objetivo,Si
+No,5,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,12,3,0,0,1,3,0,1,4,Cliente Leal,No
+No,11,0,0,2,0,0,2,0,2,Cliente Objetivo,Si
+Si,4,1,0,0,0,1,1,0,0,Cliente Objetivo,Si
+Si,32,2,2,2,0,0,6,0,17,Cliente No Segmentado,Si
+No,35,8,1,10,0,2,5,1,5,Cliente Leal,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,9,1,2,2,1,1,0,0,2,Cliente Objetivo,No
+No,9,1,0,0,0,1,4,0,0,Cliente Objetivo,Si
+No,45,4,0,1,0,1,24,0,1,Cliente Leal,Si
+No,13,0,0,5,0,1,6,0,0,Cliente Objetivo,Si
+Si,12,7,2,0,0,0,1,0,1,Cliente No Segmentado,Si
+Si,17,6,2,0,0,0,1,0,2,Cliente No Segmentado,Si
+No,14,2,0,0,0,1,2,1,4,Cliente Objetivo,Si
+Si,9,2,0,0,0,2,2,0,3,Cliente Objetivo,Si
+Si,9,2,2,2,0,0,1,0,2,Cliente No Segmentado,Si
+No,16,1,0,1,1,1,11,0,0,Cliente Objetivo,No
+No,21,4,0,1,0,1,3,1,8,Cliente Leal,Si
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+No,10,1,0,1,0,0,1,0,3,Cliente Objetivo,Si
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+No,6,0,0,1,0,1,1,1,2,Cliente Objetivo,Si
+No,7,1,0,1,0,3,0,1,1,Cliente Objetivo,Si
+No,19,10,3,0,0,0,2,0,3,Cliente No Segmentado,Si
+No,6,0,0,1,0,1,1,0,3,Cliente Objetivo,Si
+No,11,4,1,0,1,1,1,1,2,Cliente Leal,No
+Si,4,1,0,1,0,1,0,0,1,Cliente Objetivo,Si
+No,1,0,0,1,0,0,0,0,0,Cliente Objetivo,Si
+No,11,6,0,1,0,1,2,0,1,Cliente Leal,Si
+No,1,2,0,0,3,2,1,1,1,Cliente Objetivo,No
+Si,3,1,1,0,0,0,0,0,1,Cliente Objetivo,Si
+No,6,0,0,2,0,1,3,0,0,Cliente Objetivo,Si
+Si,4,1,0,0,0,1,2,0,0,Cliente Objetivo,Si
+No,7,0,0,2,0,2,3,0,0,Cliente Objetivo,Si
+Si,13,4,0,2,0,0,5,0,1,Cliente Leal,Si
+No,17,4,1,2,0,2,1,0,6,Cliente Leal,Si
+Si,4,1,0,2,0,0,0,0,1,Cliente Objetivo,Si
+No,17,11,0,1,1,1,1,1,0,Cliente Leal,No
+Si,3,0,1,1,0,0,0,0,1,Cliente Objetivo,Si
+No,19,0,0,1,0,0,1,0,9,Cliente Objetivo,Si
+Si,13,6,4,1,0,0,0,0,2,Cliente No Segmentado,Si
+No,11,0,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,15,7,0,3,1,2,1,0,1,Cliente Leal,No
+No,9,1,0,1,1,2,1,1,1,Cliente Objetivo,No
+No,31,3,3,4,0,1,6,1,9,Cliente No Segmentado,Si
+No,6,0,0,3,0,1,2,0,0,Cliente Objetivo,Si
+No,15,9,1,1,0,1,1,0,2,Cliente Leal,Si
+Si,5,1,0,1,0,0,1,0,1,Cliente Objetivo,Si
+No,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,24,11,2,1,1,2,2,1,3,Cliente No Segmentado,No
+No,9,0,0,1,0,0,2,0,2,Cliente Objetivo,Si
+Si,7,2,0,0,0,1,4,0,0,Cliente Objetivo,Si
+No,5,0,0,1,0,1,3,0,0,Cliente Objetivo,Si
+No,7,0,0,0,0,2,1,1,3,Cliente Objetivo,Si
+No,14,6,0,0,1,1,1,1,2,Cliente Leal,Si
+No,1,4,21,2,0,3,4,1,8,Cliente No Segmentado,Si
+No,7,2,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,4,1,0,1,0,1,1,0,0,Cliente Objetivo,Si
+Si,8,2,0,1,0,0,2,0,3,Cliente Objetivo,Si
+No,9,2,0,1,0,0,1,0,5,Cliente Objetivo,Si
+Si,11,2,0,1,0,1,1,1,5,Cliente Objetivo,Si
+Si,20,4,0,2,0,0,6,0,3,Cliente Leal,Si
+No,16,10,0,1,0,0,0,0,5,Cliente Leal,Si
+No,5,1,0,1,0,1,0,1,1,Cliente Objetivo,Si
+No,4,1,0,1,0,1,1,0,0,Cliente Objetivo,Si
+No,30,3,6,6,1,5,1,0,8,Cliente No Segmentado,No
+No,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,20,0,0,2,0,0,3,0,2,Cliente Objetivo,Si
+No,24,8,0,4,0,2,8,0,2,Cliente Leal,Si
+Si,9,3,0,0,0,0,2,0,2,Cliente Leal,Si
+No,1,0,0,1,0,0,0,0,0,Cliente Objetivo,Si
+Si,1,7,0,0,0,2,2,0,3,Cliente Leal,Si
+Si,8,4,0,0,0,1,2,0,1,Cliente Leal,Si
+Si,18,0,0,2,0,0,2,0,8,Cliente Objetivo,Si
+Si,4,1,0,0,0,0,1,0,2,Cliente Objetivo,Si
+No,11,1,0,1,1,1,0,1,1,Cliente Objetivo,No
+No,14,9,0,1,0,1,1,0,2,Cliente Leal,Si
+Si,12,1,2,3,0,1,1,1,3,Cliente Objetivo,Si
+No,4,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,9,3,0,1,0,1,1,0,2,Cliente Leal,Si
+No,13,0,0,0,0,1,10,0,0,Cliente Objetivo,Si
+No,3,0,0,1,0,1,1,0,0,Cliente Objetivo,Si
+No,6,2,0,0,0,1,2,0,1,Cliente Objetivo,Si
+No,6,1,0,1,0,1,1,1,1,Cliente Objetivo,Si
+No,24,5,6,3,1,3,1,1,3,Cliente No Segmentado,No
+Si,6,1,0,0,0,1,4,0,0,Cliente Objetivo,Si
+No,18,0,0,1,0,8,5,0,4,Cliente Objetivo,Si
+No,9,2,0,2,0,2,0,0,3,Cliente Objetivo,Si
+No,4,1,0,0,0,1,0,0,0,Cliente Objetivo,Si
+No,7,0,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,11,0,0,3,0,0,2,0,0,Cliente Objetivo,Si
+No,8,0,0,1,0,1,1,0,3,Cliente Objetivo,Si
+No,11,2,0,3,1,2,0,0,3,Cliente Objetivo,Si
+No,12,4,0,0,1,1,0,1,1,Cliente Leal,No
+No,5,0,0,2,0,1,2,0,0,Cliente Objetivo,Si
+No,1,3,0,2,0,0,2,0,1,Cliente Leal,Si
+No,6,0,0,2,1,2,0,0,1,Cliente Objetivo,No
+No,9,2,0,0,0,4,1,0,1,Cliente Objetivo,Si
+Si,7,2,0,0,0,0,3,0,1,Cliente Objetivo,Si
+No,26,7,3,1,0,1,5,1,4,Cliente No Segmentado,Si
+No,14,3,0,1,1,1,1,1,5,Cliente Leal,No
+No,12,6,0,1,0,1,3,0,1,Cliente Leal,Si
+No,4,0,0,1,0,1,2,0,0,Cliente Objetivo,Si
+Si,6,2,0,0,0,1,1,0,1,Cliente Objetivo,Si
+No,10,0,0,1,0,3,6,0,0,Cliente Objetivo,Si
+No,8,0,0,0,1,1,1,0,1,Cliente Objetivo,No
+No,5,0,0,2,0,0,1,0,2,Cliente Objetivo,Si
+Si,36,9,4,2,0,1,0,1,16,Cliente No Segmentado,Si
+No,9,0,0,2,0,1,1,0,5,Cliente Objetivo,Si
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+Si,4,0,1,0,0,0,0,0,3,Cliente Objetivo,Si
+Si,3,0,0,0,0,0,3,0,0,Cliente Objetivo,Si
+No,8,1,0,1,0,1,2,0,3,Cliente Objetivo,Si
+No,2,0,0,0,0,1,1,0,0,Cliente Objetivo,Si
+Si,19,9,0,0,0,0,4,0,1,Cliente Leal,Si
+No,9,2,0,1,0,1,0,1,4,Cliente Objetivo,Si
+Si,2,0,0,2,0,0,0,0,0,Cliente Objetivo,Si
+No,16,0,0,1,1,2,0,0,11,Cliente Objetivo,No
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,5,1,0,1,0,2,1,0,0,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,11,6,0,1,0,0,1,0,3,Cliente Leal,Si
+No,19,1,2,0,0,0,3,0,8,Cliente Objetivo,Si
+No,10,4,0,2,0,1,1,0,2,Cliente Leal,Si
+No,5,0,0,1,0,2,2,0,0,Cliente Objetivo,Si
+No,11,3,0,2,0,1,2,0,3,Cliente Leal,Si
+No,16,3,0,0,2,2,7,0,1,Cliente Leal,No
+No,9,2,0,3,0,1,1,0,2,Cliente Objetivo,Si
+No,12,8,0,0,0,1,1,0,2,Cliente Leal,Si
+No,17,1,0,3,1,5,7,0,0,Cliente Objetivo,No
+No,29,9,12,0,0,2,1,1,0,Cliente No Segmentado,Si
+No,24,6,0,5,0,1,11,0,0,Cliente Leal,Si
+No,16,9,0,0,1,1,1,1,2,Cliente Leal,No
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+No,2,0,0,0,0,1,1,0,0,Cliente Objetivo,Si
+Si,17,1,1,1,0,1,2,1,3,Cliente Objetivo,Si
+No,5,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,14,2,0,1,0,0,5,0,0,Cliente Objetivo,Si
+No,41,3,0,2,0,1,7,0,16,Cliente Leal,Si
+No,25,4,10,5,1,1,0,1,3,Cliente No Segmentado,No
+No,2,0,0,0,0,1,0,0,1,Cliente Objetivo,Si
+No,6,1,0,0,0,0,1,0,2,Cliente Objetivo,Si
+Si,12,2,0,0,0,0,1,0,6,Cliente Objetivo,Si
+No,10,2,0,1,1,1,1,1,2,Cliente Objetivo,No
+No,20,2,0,1,0,1,0,0,4,Cliente Objetivo,Si
+No,6,0,0,1,0,1,0,0,3,Cliente Objetivo,Si
+Si,16,5,3,0,0,0,2,0,3,Cliente No Segmentado,Si
+No,16,7,2,0,0,0,1,0,4,Cliente No Segmentado,Si
+Si,13,9,0,1,0,0,3,0,0,Cliente Leal,Si
+No,10,0,0,0,1,1,1,0,3,Cliente Objetivo,No
+Si,2,1,0,0,0,0,0,0,0,Cliente Objetivo,Si
+No,8,0,0,3,0,1,2,0,2,Cliente Objetivo,Si
+No,35,3,0,5,0,2,7,0,1,Cliente Leal,Si
+No,32,8,18,2,0,1,0,0,2,Cliente No Segmentado,Si
+Si,3,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,4,1,0,0,0,0,2,0,1,Cliente Objetivo,Si
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+Si,19,9,6,2,0,0,1,0,1,Cliente No Segmentado,Si
+Si,34,1,0,0,0,1,25,0,3,Cliente Objetivo,Si
+No,11,2,1,1,1,1,1,1,1,Cliente Objetivo,Si
+No,13,0,0,2,0,0,4,0,1,Cliente Objetivo,Si
+No,7,1,0,2,0,1,0,0,3,Cliente Objetivo,Si
+Si,13,0,0,0,0,1,2,0,1,Cliente Objetivo,Si
+Si,2,0,0,0,0,2,0,0,0,Cliente Objetivo,Si
+No,12,0,0,1,1,1,1,0,1,Cliente Objetivo,No
+Si,10,3,0,0,0,1,0,1,5,Cliente Leal,Si
+No,5,1,0,2,0,0,2,0,0,Cliente Objetivo,Si
+No,9,0,0,0,1,1,2,0,1,Cliente Objetivo,No
+No,6,1,0,0,0,1,3,0,1,Cliente Objetivo,Si
+No,6,0,0,2,0,2,2,0,0,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,7,3,2,0,0,1,0,0,0,Cliente No Segmentado,Si
+No,15,5,0,2,0,0,6,0,0,Cliente Leal,Si
+No,11,5,0,1,0,0,1,0,3,Cliente Leal,Si
+No,18,3,0,0,0,0,3,0,7,Cliente Leal,Si
+No,8,3,0,0,0,0,0,0,2,Cliente Leal,Si
+Si,6,1,0,2,0,1,1,0,1,Cliente Objetivo,Si
+No,12,6,0,0,0,1,2,1,2,Cliente Leal,Si
+No,20,10,0,2,0,0,3,0,4,Cliente Leal,Si
+Si,15,9,0,0,0,1,3,0,0,Cliente Leal,Si
+No,4,1,0,1,0,1,0,0,1,Cliente Objetivo,Si
+No,12,6,1,1,0,1,1,0,2,Cliente Leal,Si
+Si,11,4,3,1,0,0,1,0,2,Cliente No Segmentado,Si
+No,4,1,0,1,0,1,1,0,0,Cliente Objetivo,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,16,8,0,0,1,1,0,1,3,Cliente Leal,No
+Si,5,1,0,0,0,1,3,0,0,Cliente Objetivo,Si
+No,11,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,9,1,0,0,0,1,3,0,4,Cliente Objetivo,Si
+No,27,2,0,1,1,2,14,0,0,Cliente Objetivo,No
+Si,10,4,2,1,0,0,0,0,3,Cliente No Segmentado,Si
+No,6,0,0,6,0,0,0,0,0,Cliente Objetivo,Si
+No,78,0,0,3,0,3,3,0,4,Cliente Objetivo,Si
+No,10,4,0,2,0,1,1,0,2,Cliente Leal,Si
+No,2,0,0,1,0,0,0,0,1,Cliente Objetivo,Si
+No,14,10,0,0,0,1,1,0,1,Cliente Leal,Si
+Si,7,0,0,0,0,0,1,0,4,Cliente Objetivo,Si
+Si,23,7,6,3,0,1,3,0,3,Cliente No Segmentado,Si
+No,13,3,0,0,1,2,0,0,6,Cliente Leal,No
+No,17,0,0,2,1,3,1,0,2,Cliente Objetivo,No
+No,15,3,0,0,0,2,0,0,10,Cliente Leal,Si
+No,9,1,4,1,0,1,0,0,2,Cliente No Segmentado,Si
+No,20,8,1,0,1,2,2,1,3,Cliente Leal,Si
+Si,6,0,0,0,0,0,1,0,2,Cliente Objetivo,Si
+Si,24,7,4,2,0,0,2,0,7,Cliente No Segmentado,Si
+Si,6,1,1,0,0,0,0,0,2,Cliente Objetivo,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,11,4,0,0,1,1,1,1,1,Cliente Leal,No
+No,21,9,0,2,0,2,3,0,2,Cliente Leal,Si
+No,13,2,0,1,0,0,7,0,0,Cliente Objetivo,Si
+No,5,0,0,1,0,0,1,0,2,Cliente Objetivo,Si
+No,4,0,0,0,0,1,0,0,3,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,8,1,1,2,0,1,0,0,3,Cliente Objetivo,Si
+Si,13,6,0,0,0,0,3,0,3,Cliente Leal,Si
+No,21,2,0,2,0,5,11,0,0,Cliente Objetivo,Si
+No,10,3,4,0,0,0,2,0,0,Cliente No Segmentado,Si
+No,10,3,0,1,0,1,1,1,3,Cliente Leal,Si
+Si,8,3,0,0,0,1,3,0,1,Cliente Leal,Si
+No,25,4,6,3,0,1,3,1,5,Cliente No Segmentado,Si
+No,17,5,2,3,0,3,1,0,3,Cliente No Segmentado,Si
+Si,9,2,0,0,1,2,1,0,3,Cliente Objetivo,No
+Si,3,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,24,1,0,0,0,1,16,0,1,Cliente Objetivo,Si
+No,26,7,8,1,0,1,4,1,3,Cliente No Segmentado,Si
+Si,17,10,0,0,0,0,2,0,4,Cliente Leal,Si
+No,17,5,0,3,1,2,3,0,0,Cliente Leal,No
+No,7,2,0,0,0,1,1,0,1,Cliente Objetivo,Si
+No,9,4,0,2,0,0,0,0,3,Cliente Leal,Si
+Si,12,8,0,1,0,0,1,0,1,Cliente Leal,Si
+No,3,0,0,1,0,0,2,0,0,Cliente Objetivo,Si
+No,9,0,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,6,2,1,1,0,0,1,0,0,Cliente Objetivo,Si
+No,5,0,0,1,1,1,0,1,1,Cliente Objetivo,No
+No,8,0,0,1,0,1,3,0,2,Cliente Objetivo,Si
+No,6,2,0,1,0,1,1,0,1,Cliente Objetivo,Si
+No,6,1,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,18,3,1,4,1,1,2,1,5,Cliente Leal,No
+No,16,3,2,1,1,1,2,2,1,Cliente No Segmentado,No
+No,17,2,4,2,1,1,2,1,2,Cliente No Segmentado,No
+Si,13,1,2,1,0,2,2,1,3,Cliente Objetivo,Si
+No,12,0,0,0,0,1,0,0,0,Cliente Objetivo,Si
+Si,12,4,1,0,0,2,2,0,2,Cliente Leal,Si
+Si,11,6,0,1,0,1,1,0,2,Cliente Leal,Si
+No,32,5,0,0,1,1,2,1,6,Cliente Leal,No
+No,8,2,0,2,0,1,0,0,3,Cliente Objetivo,Si
+No,5,1,0,0,0,2,1,0,1,Cliente Objetivo,Si
+No,12,2,1,2,0,1,1,0,5,Cliente Objetivo,Si
+Si,12,1,0,0,0,2,7,0,1,Cliente Objetivo,Si
+No,12,1,0,3,0,2,1,0,3,Cliente Objetivo,Si
+No,13,5,0,2,1,1,0,1,3,Cliente Leal,No
+Si,16,0,0,3,0,0,1,0,3,Cliente Objetivo,Si
+No,20,5,0,6,0,1,4,0,1,Cliente Leal,Si
+No,5,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,12,2,0,0,0,4,2,0,4,Cliente Objetivo,Si
+No,6,2,0,0,0,1,2,0,1,Cliente Objetivo,Si
+Si,11,5,1,1,0,0,2,0,1,Cliente Leal,Si
+No,10,4,0,2,0,0,1,0,2,Cliente Leal,Si
+No,10,0,0,1,0,0,1,0,3,Cliente Objetivo,Si
+No,16,2,0,2,0,2,2,0,7,Cliente Objetivo,Si
+No,14,9,0,1,0,1,1,0,2,Cliente Leal,Si
+No,6,1,0,1,0,1,0,1,2,Cliente Objetivo,Si
+No,35,10,0,0,1,4,10,0,0,Cliente Leal,No
+No,2,0,0,0,0,1,0,0,1,Cliente Objetivo,Si
+No,13,8,0,1,0,1,1,0,2,Cliente Leal,Si
+Si,12,4,0,2,0,0,1,0,4,Cliente Leal,Si
+No,6,1,0,0,0,1,3,0,0,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,7,1,1,1,0,0,2,0,0,Cliente Objetivo,Si
+Si,25,2,0,1,0,0,8,0,0,Cliente Objetivo,Si
+No,32,10,1,11,0,1,3,0,5,Cliente Leal,Si
+No,8,5,0,0,0,1,1,0,0,Cliente Leal,Si
+No,17,7,0,2,0,0,2,0,4,Cliente Leal,Si
+No,10,3,0,0,0,2,1,0,3,Cliente Leal,Si
+Si,5,2,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,7,3,0,1,0,1,1,0,1,Cliente Leal,Si
+No,9,1,0,1,0,0,4,0,1,Cliente Objetivo,Si
+No,17,3,0,2,1,3,5,0,1,Cliente Leal,No
+No,10,1,0,0,0,2,7,0,0,Cliente Objetivo,Si
+No,15,4,2,3,0,0,2,0,4,Cliente No Segmentado,Si
+Si,3,1,0,0,0,0,0,0,1,Cliente Objetivo,Si
+No,23,10,2,3,0,0,3,0,4,Cliente No Segmentado,Si
+No,11,2,2,2,0,1,0,0,4,Cliente No Segmentado,Si
+No,8,4,0,0,0,1,1,0,2,Cliente Leal,Si
+No,20,3,10,4,1,1,0,0,1,Cliente No Segmentado,No
+Si,12,5,1,1,0,0,2,0,0,Cliente Leal,Si
+No,31,5,0,8,2,2,4,0,9,Cliente Leal,No
+No,10,1,0,0,0,1,8,0,0,Cliente Objetivo,Si
+No,8,1,0,1,1,1,0,1,2,Cliente Objetivo,No
+Si,6,3,0,1,0,0,0,0,1,Cliente Leal,Si
+No,8,4,0,0,0,1,1,0,2,Cliente Leal,Si
+Si,14,9,0,1,0,0,2,0,0,Cliente Leal,Si
+Si,12,4,0,4,0,0,3,0,1,Cliente Leal,Si
+No,29,11,0,5,0,0,4,0,5,Cliente Leal,Si
+No,7,0,0,1,0,1,4,0,1,Cliente Objetivo,Si
+No,7,3,0,1,0,0,2,0,0,Cliente Leal,Si
+No,5,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,13,3,2,1,0,2,2,0,3,Cliente No Segmentado,Si
+No,7,2,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,8,0,0,0,0,2,0,0,6,Cliente Objetivo,Si
+Si,4,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+Si,53,6,0,34,1,7,4,0,0,Cliente Leal,No
+No,12,6,0,1,1,1,0,1,2,Cliente Leal,No
+Si,13,7,2,0,0,0,1,0,1,Cliente No Segmentado,Si
+No,2,0,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,27,0,0,1,0,0,3,0,3,Cliente Objetivo,Si
+No,7,1,0,2,0,1,0,0,3,Cliente Objetivo,Si
+No,4,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,14,0,0,2,1,2,1,0,2,Cliente Objetivo,No
+Si,3,1,0,1,0,0,0,0,1,Cliente Objetivo,Si
+No,1,0,0,2,0,3,6,0,4,Cliente Objetivo,Si
+No,1,0,0,1,0,0,0,0,0,Cliente Objetivo,Si
+Si,8,5,0,0,0,0,2,0,1,Cliente Leal,Si
+No,6,0,0,1,0,1,3,0,1,Cliente Objetivo,Si
+No,24,1,0,3,1,4,14,0,1,Cliente Objetivo,No
+Si,5,1,0,0,0,0,1,0,2,Cliente Objetivo,Si
+Si,3,1,0,0,0,0,0,0,2,Cliente Objetivo,Si
+Si,11,6,0,0,1,1,2,0,1,Cliente Leal,No
+No,8,0,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,6,2,0,0,0,1,0,1,1,Cliente Objetivo,Si
+Si,11,5,1,0,0,1,1,0,1,Cliente Leal,Si
+Si,7,4,0,0,0,0,1,0,1,Cliente Leal,Si
+No,6,1,0,1,0,1,2,0,1,Cliente Objetivo,Si
+No,15,3,0,2,0,2,7,0,0,Cliente Leal,Si
+Si,26,10,13,0,0,0,1,0,0,Cliente No Segmentado,Si
+Si,18,2,0,2,0,2,5,0,1,Cliente Objetivo,Si
+No,4,0,0,1,0,1,2,0,0,Cliente Objetivo,Si
+Si,6,2,0,0,0,0,0,0,2,Cliente Objetivo,Si
+No,4,0,0,0,0,1,1,0,2,Cliente Objetivo,Si
+Si,8,2,1,2,0,0,1,0,2,Cliente Objetivo,Si
+Si,10,3,0,0,0,0,1,0,4,Cliente Leal,Si
+Si,1,0,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,13,1,0,7,0,2,0,0,3,Cliente Objetivo,Si
+No,6,1,0,0,0,0,2,0,2,Cliente Objetivo,Si
+No,63,7,4,4,0,2,5,1,35,Cliente No Segmentado,Si
+No,10,2,0,2,0,0,1,0,2,Cliente Objetivo,Si
+No,13,0,0,1,0,2,4,0,2,Cliente Objetivo,Si
+Si,12,7,0,1,0,1,1,0,2,Cliente Leal,Si
+No,12,2,0,0,1,2,3,0,3,Cliente Objetivo,No
+Si,3,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+Si,10,2,1,0,0,1,2,1,1,Cliente Objetivo,Si
+Si,11,3,0,1,0,0,2,0,4,Cliente Leal,Si
+Si,21,9,0,5,0,0,5,0,0,Cliente Leal,Si
+No,10,3,0,1,1,2,2,0,0,Cliente Leal,No
+No,74,6,0,22,0,1,40,0,0,Cliente Leal,Si
+No,4,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,436,1,0,2,0,3,256,0,1,Cliente Objetivo,Si
+No,19,8,2,2,0,0,2,0,4,Cliente No Segmentado,Si
+No,20,6,1,3,0,2,1,1,5,Cliente Leal,Si
+No,7,1,0,0,0,3,1,1,1,Cliente Objetivo,Si
+No,6,1,0,0,0,1,0,1,3,Cliente Objetivo,Si
+No,5,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,17,6,2,1,0,0,2,0,4,Cliente No Segmentado,Si
+No,6,0,0,0,0,4,0,0,2,Cliente Objetivo,Si
+No,6,1,1,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,51,11,19,9,0,0,0,0,11,Cliente No Segmentado,Si
+Si,9,1,0,2,0,1,1,0,3,Cliente Objetivo,Si
+No,4,0,0,0,0,2,2,0,0,Cliente Objetivo,Si
+No,12,0,0,0,0,3,9,0,0,Cliente Objetivo,Si
+No,40,6,1,3,1,2,5,1,12,Cliente Leal,Si
+No,20,9,0,1,1,2,4,0,0,Cliente Leal,No
+No,14,5,0,2,0,4,2,0,1,Cliente Leal,Si
+No,3,0,0,1,0,1,0,0,1,Cliente Objetivo,Si
+Si,15,0,0,1,0,0,1,0,2,Cliente Objetivo,Si
+No,4,0,0,0,0,1,0,0,0,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,1,0,0,1,0,0,0,0,0,Cliente Objetivo,Si
+No,31,2,0,0,0,0,5,0,11,Cliente Objetivo,Si
+No,6,0,0,1,0,0,2,0,1,Cliente Objetivo,Si
+No,32,2,1,1,1,1,0,1,1,Cliente Objetivo,No
+No,4,0,0,1,0,1,2,0,0,Cliente Objetivo,Si
+No,8,1,0,1,1,1,1,1,2,Cliente Objetivo,No
+No,12,3,1,2,0,1,1,1,2,Cliente Leal,Si
+No,40,1,0,4,0,5,26,0,1,Cliente Objetivo,Si
+Si,40,4,2,5,1,1,7,1,13,Cliente No Segmentado,Si
+No,5,0,0,1,0,0,0,0,4,Cliente Objetivo,Si
+No,8,1,0,1,1,1,0,1,2,Cliente Objetivo,No
+No,12,7,0,1,0,1,1,0,2,Cliente Leal,Si
+Si,4,1,0,1,0,0,0,0,2,Cliente Objetivo,Si
+No,26,4,0,4,0,4,10,0,2,Cliente Leal,Si
+No,11,0,0,0,1,1,0,0,1,Cliente Objetivo,No
+No,9,1,0,0,0,1,1,1,5,Cliente Objetivo,Si
+No,9,1,0,5,0,2,0,0,1,Cliente Objetivo,Si
+No,11,4,1,3,0,0,1,0,0,Cliente Leal,Si
+Si,16,0,0,0,0,0,1,0,0,Cliente Objetivo,Si
+No,15,6,1,1,0,1,1,0,4,Cliente Leal,Si
+No,9,4,0,0,0,0,2,0,3,Cliente Leal,Si
+No,9,4,0,0,0,2,3,0,0,Cliente Leal,Si
+No,15,4,0,1,0,0,1,0,5,Cliente Leal,Si
+Si,7,5,0,0,0,0,1,0,0,Cliente Leal,Si
+Si,12,2,0,0,0,0,2,0,5,Cliente Objetivo,Si
+Si,8,2,0,0,0,0,2,0,2,Cliente Objetivo,Si
+Si,5,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,37,1,0,1,0,0,13,0,3,Cliente Objetivo,Si
+No,4,0,0,1,0,1,2,0,0,Cliente Objetivo,Si
+No,7,1,0,0,1,1,1,1,1,Cliente Objetivo,No
+Si,13,5,0,1,0,1,2,0,3,Cliente Leal,Si
+Si,3,0,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,2,0,0,1,0,0,1,0,0,Cliente Objetivo,Si
+Si,5,2,0,0,0,0,1,0,2,Cliente Objetivo,Si
+No,2,0,0,1,0,0,0,0,1,Cliente Objetivo,Si
+Si,7,2,0,0,0,0,1,0,2,Cliente Objetivo,Si
+Si,24,11,5,5,0,0,0,0,3,Cliente No Segmentado,Si
+No,20,7,0,2,1,1,1,1,6,Cliente Leal,No
+Si,8,5,0,1,0,0,2,0,0,Cliente Leal,Si
+No,93,1,0,3,1,3,7,0,10,Cliente Objetivo,No
+No,10,5,0,0,1,1,1,1,1,Cliente Leal,No
+Si,20,9,7,1,0,0,1,0,1,Cliente No Segmentado,Si
+No,10,0,0,1,1,4,3,0,1,Cliente Objetivo,No
+No,7,1,0,0,0,1,1,0,4,Cliente Objetivo,Si
+No,15,2,7,0,0,0,1,0,3,Cliente No Segmentado,Si
+No,18,8,0,0,0,1,1,0,4,Cliente Leal,Si
+No,20,3,1,6,0,5,0,2,3,Cliente Leal,Si
+No,8,0,0,1,1,2,2,0,0,Cliente Objetivo,No
+No,10,0,0,0,0,0,2,0,4,Cliente Objetivo,Si
+Si,8,6,0,0,0,1,1,0,0,Cliente Leal,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,9,4,0,1,0,1,1,0,2,Cliente Leal,Si
+No,8,1,0,1,0,1,1,0,4,Cliente Objetivo,Si
+No,9,4,0,0,0,1,1,0,2,Cliente Leal,Si
+Si,17,4,0,0,0,1,3,0,6,Cliente Leal,Si
+Si,10,0,0,1,0,0,2,0,1,Cliente Objetivo,Si
+No,5,1,0,0,0,1,1,1,1,Cliente Objetivo,Si
+No,4,0,0,1,0,0,3,0,0,Cliente Objetivo,Si
+No,25,3,0,3,2,6,7,0,1,Cliente Leal,No
+Si,13,2,0,2,0,3,0,0,6,Cliente Objetivo,Si
+No,20,10,1,1,1,1,0,1,5,Cliente Leal,No
+No,12,0,0,11,0,0,1,0,0,Cliente Objetivo,Si
+No,11,3,0,1,1,1,0,1,2,Cliente Leal,No
+Si,3,1,0,0,0,1,1,0,0,Cliente Objetivo,Si
+No,37,7,3,1,0,1,5,1,6,Cliente No Segmentado,Si
+No,6,1,0,0,0,1,3,0,1,Cliente Objetivo,Si
+Si,19,0,0,6,0,3,2,0,1,Cliente Objetivo,Si
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+Si,4,1,0,0,0,1,2,0,0,Cliente Objetivo,Si
+No,1,0,0,1,0,0,0,0,0,Cliente Objetivo,Si
+No,12,7,0,2,0,1,1,0,1,Cliente Leal,Si
+Si,34,4,6,4,0,1,5,1,10,Cliente No Segmentado,Si
+Si,5,1,0,0,0,1,2,0,0,Cliente Objetivo,Si
+Si,13,3,5,3,0,0,0,0,1,Cliente No Segmentado,Si
+No,16,2,0,0,0,4,10,0,0,Cliente Objetivo,Si
+Si,2,8,9,4,0,1,4,1,28,Cliente No Segmentado,Si
+Si,2,1,0,0,0,0,0,0,0,Cliente Objetivo,Si
+No,44,1,0,5,6,9,23,0,0,Cliente Objetivo,No
+No,9,1,0,0,0,1,6,0,0,Cliente Objetivo,Si
+No,7,3,0,0,0,1,1,0,2,Cliente Leal,Si
+No,11,1,0,0,0,1,2,1,2,Cliente Objetivo,Si
+No,7,1,0,1,0,2,0,2,1,Cliente Objetivo,Si
+Si,8,5,0,0,0,0,1,0,2,Cliente Leal,Si
+Si,18,4,6,0,0,0,1,0,6,Cliente No Segmentado,Si
+Si,14,3,0,0,0,0,3,0,3,Cliente Leal,Si
+No,23,4,0,0,1,1,2,1,6,Cliente Leal,No
+No,11,0,0,1,0,1,3,0,6,Cliente Objetivo,Si
+No,7,0,0,0,0,1,1,0,5,Cliente Objetivo,Si
+Si,11,3,0,0,1,1,3,0,1,Cliente Leal,No
+No,21,2,10,4,0,1,1,0,3,Cliente No Segmentado,Si
+No,6,0,0,1,0,0,5,0,0,Cliente Objetivo,Si
+No,7,1,0,1,0,1,1,0,3,Cliente Objetivo,Si
+No,17,2,0,6,1,4,0,1,3,Cliente Objetivo,No
+No,18,0,0,1,0,1,2,0,4,Cliente Objetivo,Si
+No,12,0,0,1,0,0,1,0,0,Cliente Objetivo,Si
+No,15,4,0,1,1,2,3,0,1,Cliente Leal,No
+No,3,0,0,1,0,1,0,0,1,Cliente Objetivo,Si
+No,15,8,0,1,1,2,1,0,1,Cliente Leal,No
+No,10,1,0,1,0,1,5,0,1,Cliente Objetivo,Si
+Si,26,0,0,0,0,0,1,0,5,Cliente Objetivo,Si
+No,8,1,0,1,0,1,1,1,3,Cliente Objetivo,Si
+No,4,0,0,1,0,0,0,0,2,Cliente Objetivo,Si
+No,19,1,0,2,1,1,5,1,0,Cliente Objetivo,Si
+No,5,1,0,0,0,1,3,0,0,Cliente Objetivo,Si
+Si,32,6,0,6,0,2,17,0,0,Cliente Leal,Si
+No,16,7,2,0,0,1,2,0,3,Cliente No Segmentado,Si
+Si,16,6,1,0,0,1,2,0,3,Cliente Leal,Si
+No,14,0,4,2,0,0,0,0,8,Cliente Objetivo,Si
+No,9,6,0,1,0,0,1,0,1,Cliente Leal,Si
+No,5,0,0,0,0,1,3,0,1,Cliente Objetivo,Si
+Si,12,7,0,1,0,1,1,0,2,Cliente Leal,Si
+Si,9,4,0,1,0,0,1,0,3,Cliente Leal,Si
+No,13,4,0,0,0,1,1,0,2,Cliente Leal,Si
+Si,12,8,0,0,0,0,2,0,1,Cliente Leal,Si
+Si,12,8,2,0,0,0,1,0,1,Cliente No Segmentado,Si
+Si,3,0,0,0,0,0,0,0,0,Cliente Objetivo,Si
+Si,5,2,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,13,0,0,0,0,0,2,0,4,Cliente Objetivo,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,11,2,1,3,0,1,1,1,2,Cliente Objetivo,Si
+No,26,4,0,4,0,0,1,0,1,Cliente Leal,Si
+No,14,4,1,2,0,0,3,0,2,Cliente Leal,Si
+Si,7,2,0,2,0,0,3,0,0,Cliente Objetivo,Si
+No,11,5,0,1,0,1,2,0,1,Cliente Leal,Si
+No,13,6,0,1,1,1,1,1,1,Cliente Leal,Si
+No,17,7,0,2,0,1,1,0,6,Cliente Leal,Si
+No,12,4,0,0,1,2,0,1,3,Cliente Leal,No
+No,8,2,0,1,0,1,1,1,2,Cliente Objetivo,Si
+Si,41,11,18,0,0,0,3,0,7,Cliente No Segmentado,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,18,2,1,3,0,0,4,0,5,Cliente Objetivo,Si
+No,22,5,1,2,0,1,4,1,4,Cliente Leal,Si
+No,48,1,0,1,0,1,38,0,4,Cliente Objetivo,Si
+Si,3,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,8,2,0,0,0,0,2,0,4,Cliente Objetivo,Si
+Si,57,6,1,2,0,1,2,0,33,Cliente Leal,Si
+Si,9,5,0,1,0,0,3,0,0,Cliente Leal,Si
+Si,11,2,0,2,0,2,3,0,1,Cliente Objetivo,Si
+Si,4,2,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,8,1,0,1,0,1,5,0,0,Cliente Objetivo,Si
+No,14,2,0,1,0,1,1,0,6,Cliente Objetivo,Si
+No,4,1,0,1,0,1,1,0,0,Cliente Objetivo,Si
+Si,8,2,0,0,0,0,4,0,1,Cliente Objetivo,Si
+No,14,7,0,1,1,1,2,0,2,Cliente Leal,No
+No,9,1,0,0,0,0,2,0,4,Cliente Objetivo,Si
+No,8,1,0,1,1,1,0,1,3,Cliente Objetivo,Si
+No,10,3,0,2,0,1,1,0,3,Cliente Leal,Si
+No,6,2,0,1,1,1,1,0,0,Cliente Objetivo,No
+No,13,5,0,0,0,1,4,0,3,Cliente Leal,Si
+No,21,10,4,1,0,0,2,0,2,Cliente No Segmentado,Si
+No,12,2,0,1,0,2,2,1,3,Cliente Objetivo,Si
+No,16,7,0,0,0,1,2,1,2,Cliente Leal,Si
+No,6,1,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,9,2,0,1,0,1,1,0,4,Cliente Objetivo,Si
+No,20,6,7,3,0,0,2,0,1,Cliente No Segmentado,Si
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+No,16,8,0,4,0,1,1,0,2,Cliente Leal,Si
+Si,6,2,1,1,0,0,1,0,1,Cliente Objetivo,Si
+No,4,0,0,0,1,1,2,0,0,Cliente Objetivo,No
+No,4,0,0,3,0,0,0,0,0,Cliente Objetivo,Si
+No,47,9,4,6,1,1,2,1,10,Cliente No Segmentado,No
+No,12,5,2,0,0,1,2,0,2,Cliente No Segmentado,Si
+Si,6,3,0,0,0,0,1,0,1,Cliente Leal,Si
+No,32,5,1,3,0,1,5,1,5,Cliente Leal,Si
+Si,13,8,0,1,0,1,2,0,0,Cliente Leal,Si
+No,5,0,0,0,0,1,3,0,1,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,9,3,0,1,0,1,4,0,0,Cliente Leal,Si
+Si,14,0,0,0,0,0,2,0,1,Cliente Objetivo,Si
+Si,19,10,0,1,0,1,4,0,1,Cliente Leal,Si
+No,28,11,0,6,0,2,5,1,3,Cliente Leal,Si
+No,2,0,0,1,0,0,0,0,1,Cliente Objetivo,Si
+No,12,8,0,0,0,1,1,0,2,Cliente Leal,Si
+No,15,4,0,1,0,2,3,2,1,Cliente Leal,Si
+Si,11,6,0,0,0,0,0,0,3,Cliente Leal,Si
+Si,7,3,0,1,0,0,1,0,1,Cliente Leal,Si
+No,14,0,0,0,0,1,1,0,2,Cliente Objetivo,Si
+Si,9,4,0,2,0,0,1,0,2,Cliente Leal,Si
+No,17,3,5,0,0,0,1,0,4,Cliente No Segmentado,Si
+No,29,9,9,3,0,2,2,1,2,Cliente No Segmentado,Si
+Si,7,0,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,17,0,0,6,3,4,3,0,1,Cliente Objetivo,No
+No,7,2,0,1,0,1,1,0,2,Cliente Objetivo,Si
+No,15,6,0,0,1,1,2,1,2,Cliente Leal,No
+Si,17,5,5,2,0,0,1,0,4,Cliente No Segmentado,Si
+No,7,2,0,0,0,1,2,0,1,Cliente Objetivo,Si
+No,5,2,0,1,0,0,0,0,2,Cliente Objetivo,Si
+No,4,0,0,0,1,2,0,0,1,Cliente Objetivo,No
+Si,20,1,0,3,1,3,0,2,10,Cliente Objetivo,Si
+No,5,1,0,1,0,2,1,0,0,Cliente Objetivo,Si
+No,12,0,0,1,0,1,2,0,3,Cliente Objetivo,Si
+No,7,1,0,1,0,1,1,0,3,Cliente Objetivo,Si
+No,13,3,0,1,0,1,5,0,0,Cliente Leal,Si
+No,8,1,0,2,0,2,0,0,3,Cliente Objetivo,Si
+No,30,1,0,3,0,2,20,0,0,Cliente Objetivo,Si
+No,4,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,10,0,0,0,0,0,0,0,3,Cliente Objetivo,Si
+Si,12,7,0,1,0,1,2,0,1,Cliente Leal,Si
+No,11,4,0,1,0,1,2,0,3,Cliente Leal,Si
+No,11,4,0,1,1,1,0,1,3,Cliente Leal,No
+No,10,1,0,2,1,2,0,1,2,Cliente Objetivo,No
+No,5,2,0,1,0,0,2,0,0,Cliente Objetivo,Si
+No,1,0,0,1,0,0,0,0,0,Cliente Objetivo,Si
+Si,14,0,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,4,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,12,0,0,3,0,1,3,0,1,Cliente Objetivo,Si
+No,21,0,0,1,1,2,2,0,3,Cliente Objetivo,No
+No,12,6,1,1,0,1,1,0,2,Cliente Leal,Si
+No,14,4,0,1,0,1,1,1,6,Cliente Leal,Si
+No,17,3,0,1,0,1,9,0,2,Cliente Leal,Si
+No,9,0,0,2,0,1,1,0,2,Cliente Objetivo,Si
+No,23,0,0,2,1,1,1,0,3,Cliente Objetivo,No
+No,7,3,0,1,0,0,1,0,2,Cliente Leal,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,21,1,0,2,0,2,12,0,0,Cliente Objetivo,Si
+No,5,0,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,7,2,0,3,0,0,0,0,1,Cliente Objetivo,Si
+Si,18,0,0,0,0,0,2,0,1,Cliente Objetivo,Si
+No,12,4,0,1,1,1,1,1,2,Cliente Leal,No
+No,15,7,0,0,0,1,1,0,1,Cliente Leal,Si
+No,8,3,0,0,0,1,4,0,0,Cliente Leal,Si
+No,6,2,0,0,0,1,0,1,1,Cliente Objetivo,Si
+No,6,0,0,0,0,1,4,0,1,Cliente Objetivo,Si
+No,17,5,2,3,1,1,0,1,4,Cliente No Segmentado,No
+No,11,0,0,0,0,0,3,0,2,Cliente Objetivo,Si
+Si,7,0,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,273,2,0,0,0,2,93,0,3,Cliente Objetivo,Si
+No,11,1,0,2,0,1,3,1,2,Cliente Objetivo,Si
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+No,8,2,0,3,0,1,0,0,2,Cliente Objetivo,Si
+No,18,7,2,1,1,1,2,1,3,Cliente No Segmentado,No
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,11,0,0,0,1,1,0,0,1,Cliente Objetivo,No
+No,5,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,15,2,0,1,0,1,10,0,0,Cliente Objetivo,Si
+No,27,1,0,7,0,3,1,0,12,Cliente Objetivo,Si
+No,14,9,0,0,0,1,1,0,3,Cliente Leal,Si
+No,8,0,0,0,0,0,0,0,5,Cliente Objetivo,Si
+Si,4,1,1,1,0,0,0,0,1,Cliente Objetivo,Si
+No,9,2,0,1,0,1,1,1,2,Cliente Objetivo,Si
+No,11,6,0,1,0,0,3,0,1,Cliente Leal,Si
+Si,4,2,0,0,0,0,2,0,0,Cliente Objetivo,Si
+No,15,9,0,0,0,1,2,0,3,Cliente Leal,Si
+No,15,9,1,0,0,1,1,0,2,Cliente Leal,Si
+No,6,1,0,1,0,1,0,1,2,Cliente Objetivo,Si
+No,6,1,0,0,0,0,1,0,3,Cliente Objetivo,Si
+Si,7,0,0,0,0,1,1,0,0,Cliente Objetivo,Si
+No,7,1,0,2,0,2,0,1,1,Cliente Objetivo,Si
+No,9,1,0,1,0,0,0,0,2,Cliente Objetivo,Si
+No,15,1,0,1,0,3,7,0,2,Cliente Objetivo,Si
+No,5,0,0,1,0,0,3,0,1,Cliente Objetivo,Si
+Si,12,0,0,1,0,0,2,0,1,Cliente Objetivo,Si
+Si,17,6,3,3,0,0,1,0,3,Cliente No Segmentado,Si
+Si,8,3,2,2,0,0,0,0,1,Cliente No Segmentado,Si
+No,11,1,0,1,0,2,7,0,0,Cliente Objetivo,Si
+No,15,4,0,1,0,1,4,0,5,Cliente Leal,Si
+No,7,0,0,5,0,2,0,0,0,Cliente Objetivo,Si
+No,18,1,0,1,1,1,4,0,2,Cliente Objetivo,No
+No,11,4,0,2,0,1,1,2,1,Cliente Leal,Si
+Si,10,1,0,2,0,0,2,0,5,Cliente Objetivo,Si
+No,9,4,0,0,0,1,1,0,3,Cliente Leal,Si
+No,10,0,0,1,0,1,2,0,5,Cliente Objetivo,Si
+Si,16,1,0,1,1,2,1,0,9,Cliente Objetivo,No
+Si,8,1,1,1,0,1,1,0,3,Cliente Objetivo,Si
+No,39,9,0,1,0,1,4,0,11,Cliente Leal,Si
+Si,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+Si,5,2,1,1,0,0,0,0,1,Cliente Objetivo,Si
+No,14,0,0,2,0,3,0,2,7,Cliente Objetivo,Si
+No,14,0,0,0,0,1,3,0,9,Cliente Objetivo,Si
+No,11,4,0,0,0,0,1,0,1,Cliente Leal,Si
+No,13,4,0,0,1,1,1,1,5,Cliente Leal,No
+No,4,0,0,1,0,1,1,0,1,Cliente Objetivo,Si
+No,5,0,0,2,0,1,0,0,1,Cliente Objetivo,Si
+No,25,9,8,2,0,1,0,0,4,Cliente No Segmentado,Si
+No,16,10,0,2,0,1,1,0,2,Cliente Leal,Si
+No,8,1,0,1,0,1,1,0,3,Cliente Objetivo,Si
+No,5,1,0,1,0,1,0,0,2,Cliente Objetivo,Si
+Si,4,1,0,0,0,1,1,0,1,Cliente Objetivo,Si
+No,8,2,1,2,0,1,0,0,2,Cliente Objetivo,Si
+Si,3,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,9,1,0,0,0,0,2,0,3,Cliente Objetivo,Si
+No,10,3,0,1,0,1,2,0,3,Cliente Leal,Si
+No,8,3,0,1,0,1,1,0,2,Cliente Leal,Si
+No,26,8,2,0,4,4,1,1,2,Cliente No Segmentado,No
+No,4,0,0,1,0,0,3,0,0,Cliente Objetivo,Si
+Si,5,1,0,1,0,1,1,0,1,Cliente Objetivo,Si
+Si,2,1,0,0,0,0,0,0,1,Cliente Objetivo,Si
+No,5,0,0,1,0,1,2,0,1,Cliente Objetivo,Si
+Si,22,0,0,1,3,4,7,0,0,Cliente Objetivo,No
+No,12,2,0,1,0,0,3,0,4,Cliente Objetivo,Si
+Si,9,5,0,1,0,0,1,0,1,Cliente Leal,Si
+Si,7,1,0,2,0,0,2,0,0,Cliente Objetivo,Si
+No,7,0,0,2,0,0,1,0,2,Cliente Objetivo,Si
+No,12,3,0,3,1,1,1,1,0,Cliente Leal,No
+Si,8,5,0,0,0,0,2,0,0,Cliente Leal,Si
+No,8,5,0,0,0,0,2,0,0,Cliente Leal,Si
+No,12,1,0,0,0,2,1,1,7,Cliente Objetivo,Si
+No,26,4,4,3,0,0,3,0,8,Cliente No Segmentado,Si
+Si,9,5,0,1,0,0,0,0,3,Cliente Leal,Si
+No,18,3,1,3,0,1,2,1,4,Cliente Leal,Si
+Si,25,1,3,1,0,5,1,0,14,Cliente No Segmentado,Si
+Si,25,4,7,2,0,0,3,0,7,Cliente No Segmentado,Si
+Si,9,2,0,0,0,0,1,0,4,Cliente Objetivo,Si
+Si,13,4,2,2,0,0,2,0,3,Cliente No Segmentado,Si
+No,5,1,0,0,0,1,3,0,0,Cliente Objetivo,Si
+No,5,1,0,0,0,1,1,0,2,Cliente Objetivo,Si
+No,8,2,0,1,0,0,2,0,1,Cliente Objetivo,Si
+Si,18,0,0,0,4,1,0,0,3,Cliente Objetivo,No
+Si,7,1,0,0,0,0,0,0,6,Cliente Objetivo,Si
+No,11,4,0,2,0,1,1,0,3,Cliente Leal,Si
+No,15,1,4,2,1,1,2,1,3,Cliente No Segmentado,No
+No,27,9,0,4,1,2,6,0,1,Cliente Leal,No
+No,5,1,0,1,0,2,1,0,0,Cliente Objetivo,Si
+No,8,0,0,0,0,2,0,0,6,Cliente Objetivo,Si
+Si,7,1,0,0,0,0,1,0,2,Cliente Objetivo,Si
+Si,4,0,0,0,0,0,1,0,1,Cliente Objetivo,Si
+No,6,1,0,2,0,1,0,0,2,Cliente Objetivo,Si
+No,29,1,0,1,0,0,7,0,16,Cliente Objetivo,Si
+No,20,7,0,4,0,0,1,0,3,Cliente Leal,Si
+No,12,2,0,3,2,1,0,0,4,Cliente Objetivo,No
+No,3,1,0,1,0,0,1,0,0,Cliente Objetivo,Si
+Si,9,5,0,0,0,0,2,0,1,Cliente Leal,Si
+Si,12,4,0,3,0,0,5,0,0,Cliente Leal,Si
+Si,7,4,2,0,0,0,0,0,0,Cliente No Segmentado,Si
+No,25,9,0,2,0,1,3,0,1,Cliente Leal,Si
+Si,4,1,2,0,0,0,0,0,1,Cliente Objetivo,Si
+No,15,2,0,2,1,1,1,1,5,Cliente Objetivo,No
+Si,5,1,0,0,0,0,1,0,1,Cliente Objetivo,Si
+Si,7,2,0,0,0,1,1,1,1,Cliente Objetivo,Si
+Si,12,6,0,1,0,1,3,0,1,Cliente Leal,Si
+No,4,0,0,1,1,1,0,1,0,Cliente Objetivo,Si
+Si,24,4,0,3,0,1,2,0,10,Cliente Leal,Si
+No,7,2,0,0,0,1,3,0,1,Cliente Objetivo,Si
+Si,16,8,2,0,0,0,1,0,2,Cliente No Segmentado,Si
+No,7,1,1,0,1,1,0,0,3,Cliente Objetivo,No
+No,6,2,0,1,0,0,2,0,1,Cliente Objetivo,Si
+Si,5,3,0,0,0,0,1,0,1,Cliente Leal,Si
+Si,11,4,0,1,0,1,3,0,1,Cliente Leal,Si
+Si,14,5,0,2,0,1,6,0,0,Cliente Leal,Si
+No,9,3,0,2,0,1,1,0,2,Cliente Leal,Si
+Si,11,3,0,0,1,2,5,0,0,Cliente Leal,No
+No,7,1,0,0,1,2,0,0,3,Cliente Objetivo,No
+No,16,2,1,2,0,2,2,0,4,Cliente Objetivo,Si
+No,26,5,1,1,0,2,1,0,15,Cliente Leal,Si
+No,9,5,0,0,0,0,1,0,2,Cliente Leal,Si
+Si,6,1,0,1,0,1,0,1,0,Cliente Objetivo,Si
+No,10,3,0,1,0,0,3,0,2,Cliente Leal,Si
+Si,6,1,0,0,0,0,2,0,1,Cliente Objetivo,Si
+No,2,0,0,1,0,0,0,0,1,Cliente Objetivo,Si
+No,6,1,0,0,0,0,3,0,1,Cliente Objetivo,Si
+Si,11,0,0,0,0,0,1,0,0,Cliente Objetivo,Si
+No,24,5,2,3,1,1,1,1,5,Cliente No Segmentado,No
+Si,9,3,0,1,0,1,3,0,1,Cliente Leal,Si
+No,4,1,0,1,0,1,1,0,0,Cliente Objetivo,Si
+No,11,0,0,4,0,0,2,0,2,Cliente Objetivo,Si
+No,4,0,0,1,0,0,1,0,2,Cliente Objetivo,Si
+No,13,4,0,3,0,3,1,0,2,Cliente Leal,Si
+Si,20,5,0,2,0,0,10,0,1,Cliente Leal,Si
+Si,8,4,0,1,0,0,0,0,1,Cliente Leal,Si
+No,9,0,0,1,0,3,5,0,0,Cliente Objetivo,Si
+Si,10,0,0,0,0,0,1,0,0,Cliente Objetivo,Si
+Si,17,6,2,2,0,1,2,0,4,Cliente No Segmentado,Si
+Si,4,1,0,0,0,1,2,0,0,Cliente Objetivo,Si
+Si,16,1,1,0,0,0,4,0,9,Cliente Objetivo,Si
+No,6,1,0,0,1,1,1,1,1,Cliente Objetivo,Si
+No,10,3,0,1,1,2,2,0,1,Cliente Leal,No
+Si,25,3,16,2,0,0,1,0,2,Cliente No Segmentado,Si
+No,58,0,0,8,1,2,3,0,10,Cliente Objetivo,No
+No,4,0,0,1,0,1,0,0,2,Cliente Objetivo,Si
+No,13,8,0,1,0,1,1,0,2,Cliente Leal,Si
+No,9,4,0,0,0,0,3,0,1,Cliente Leal,Si
+Si,28,4,7,1,0,0,4,0,5,Cliente No Segmentado,Si
+No,30,4,0,3,0,1,5,0,0,Cliente Leal,Si
+No,10,5,0,1,0,1,1,0,2,Cliente Leal,Si
+Si,3,1,0,0,0,0,0,0,1,Cliente Objetivo,Si
+Si,7,0,0,0,0,0,1,0,0,Cliente Objetivo,Si
+Si,23,5,6,2,0,0,3,0,7,Cliente No Segmentado,Si
+No,7,2,0,3,0,0,1,0,0,Cliente Objetivo,Si
+No,4,1,0,1,0,1,1,0,0,Cliente Objetivo,Si
+No,8,3,0,1,0,1,1,0,2,Cliente Leal,Si
+No,31,4,0,3,0,1,7,0,1,Cliente Leal,Si
