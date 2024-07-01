@@ -35,6 +35,6 @@ https://drive.google.com/file/d/1ZFhlz6n3zqa-vqcYwf3vrwSWIhp7Wl6z/view?usp=shari
 
 
 Esto fue un pequeño resumen del analisis realizado en conjunto con un colega en la simulacion No-Country para el area de DATA BI el analisis completo se puede visualizar en el repositorio
-aqui presente, el etorno de trabajo utilizado ha sido RStudio y Python donde en este ultimo y en base a estos analisis hicimos una interfaz grafica en Gradio con las 4 variable relevantes para poder predecir si el carrito fue abandonado o no.
+aqui presente, el etorno de trabajo utilizado ha sido RStudio y Python donde en este ultimo y en base a estos analisis hicimos una interfaz grafica en Gradio con las 4 variable relevantes para poder predecir si el carrito fue abandonado o no. Tambien se hizo uso de la herramienta Docker para solucionar el problema de manejo de entornos. 
 
 
