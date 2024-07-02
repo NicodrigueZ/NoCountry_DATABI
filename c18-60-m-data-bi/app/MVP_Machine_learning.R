@@ -161,6 +161,61 @@ corrplot(cor(rfModel[,-1]), method = 'number')
 
 
 
+
+
+# UI
+ui <- fluidPage(
+  titlePanel("Customer Segmentation Prediction"),
+  
+  sidebarLayout(
+    sidebarPanel(
+      numericInput("No_Checkout_Confirmed", "No_Checkout_Confirmed", value = 0, min = 0),
+      numericInput("No_Checkout_Initiated", "No_Checkout_Initiated", value = 0, min = 0),
+      numericInput("No_Customer_Login", "No_Customer_Login", value = 0, min = 0),
+      numericInput("Session_Activity_Count", "Session_Activity_Count", value = 0, min = 0),
+      actionButton("submit", "Submit"),
+      actionButton("clear", "Clear")
+    ),
+    
+    mainPanel(
+      textOutput("Cart_Abandoned")
+    )
+  )
+)
+
+# Server
+server <- function(input, output, session) {
+  observeEvent(input$submit, {
+    new_data <- data.frame(
+      No_Checkout_Confirmed = input$No_Checkout_Confirmed,
+      No_Checkout_Initiated = input$No_Checkout_Initiated,
+      No_Customer_Login = input$No_Customer_Login,
+      Session_Activity_Count = input$Session_Activity_Count
+    )
+    
+    prediction <- predict(rfModel, new_data)
+    output$Cart_Abandoned <- renderText({
+      paste("Cart_Abandoned:", prediction)
+    })
+  })
+  
+  observeEvent(input$clear, {
+    updateNumericInput(session, "No_Checkout_Confirmed", value = 0)
+    updateNumericInput(session, "No_Checkout_Initiated", value = 0)
+    updateNumericInput(session, "No_Customer_Login", value = 0)
+    updateNumericInput(session, "Session_Activity_Count", value = 0)
+    output$Cart_Abandoned <- renderText({ "" })
+  })
+}
+
+# Ejecutar la aplicación
+shinyApp(ui = ui, server = server)
+
+
+
+
+
+
 ###################################################################################################
 ###################################################################################################
 ####################################### KMEANS ##############################################
