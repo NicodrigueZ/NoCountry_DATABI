@@ -1,56 +1,37 @@
-# Análisis y Predicción de Abandono de Carrito en eCommerce
+## NO COUNTRY DATA BI
 
-## Descripción del Proyecto
-Este proyecto tiene como objetivo analizar y predecir los patrones de abandono de carritos de compra en una tienda en línea. El análisis se centra en identificar las causas comunes de abandono y construir modelos predictivos para reducir la tasa de abandono, mejorando así la conversión y las ventas.
+Este proyecto es un analisis en el area de E-Commerce de un set de datos de un carrito de compra virtual.
 
-## Estructura del Proyecto
+Diccionario de Datos:
 
-- **notebooks/**: Contiene notebooks de Jupyter para análisis, visualización de datos y construcción de modelos predictivos.
-  - **archive/**: Subdirectorio que almacena notebooks archivados que ya no se utilizan.
+- **Producto_Detalles_Vistos**: Indica si el cliente está viendo los detalles del producto (1: Sí, 0: No).
+- **Cantidad_Actividades_Sesión**: Número de veces que el cliente visita diferentes páginas durante la sesión.
+- **Cantidad_Artículos_En_Carro**: Número de artículos en el carrito de compra.
+- **Cantidad_Artículos_Eliminados_Carro**: Número de artículos eliminados del carrito de compra.
+- **Cantidad_Visitas_Carro**: Número de veces que el cliente visita la página del carrito de compra.
+- **Confirmaciones_Compra**: Número de confirmaciones exitosas de compra por parte del cliente.
+- **Inicios_Pago**: Número de veces que se inicia el proceso de pago, ya sea con éxito o sin éxito.
+- **Vistas_Productos_Carro**: Número de veces que el usuario ve los productos en el carrito de compra.
+- **Inicios_Sesión_Cliente**: Número de veces que el cliente inicia sesión.
+- **Vistas_Páginas**: Número de páginas vistas por el cliente.
+- **Segmento_Cliente**: Categoría a la que pertenece el cliente (Cliente Objetivo, Cliente  Leal, Cliente No Segmentado).
+- **Abandono_Carro**: Indica si el cliente ha abandonado el carrito de compra (1: Sí, 0: No).
 
-- **cart_abandonment_analysis/**: Carpeta principal del código fuente del proyecto.
+El objetivo de este proyecto es predecir la variable dicotomica Abandono_Carro (Cart_Abandoned), analizar las causas de porque los usuarios 
+abandonan el carrito virtual y generar posibles estrategias para evitar perdida de usuarios a nuestro cliente interesado en el proyecto. 
 
-- **data/**: Almacena los datos utilizados en el proyecto.
-  - **raw/**: Datos brutos sin procesar.
-  - **processed/**: Datos procesados listos para el análisis.
-  - **cleaned/**: Datos limpiados para el análisis final.
+En dicho analisis de ha hecho usa de diversas herramientas y tecnicas en el area de Data Sciences, Machine Learning Development, Data analyst y Data Business Analyst.
 
-- **scripts/**: Contiene scripts para tareas específicas del proyecto.
-  - **archive/**: Subdirectorio que almacena scripts archivados que ya no se utilizan.
+Mi rol en este proyecto fue el Data Science y Machine Learning developer, en conjunto con otro colega, realizamos en primera instancia modelos en Random Forest.
+En primera instancia se realizaron diversos modelos donde se consiguieron resultados prometedores, realizamos otros modelos quitando variables, 
+descubrimos que la variable mas relevante en cada caso era Confirmaciones_Compra (No_Checkout_Confirmed), otras relevantes eran Cantidad_Actividades_Sesión (Session_Activity_Count), Inicios_Sesión_Cliente (No_Customer_Login) e Inicios_Pago (No_Checkout_Initiated), aunque las Confirmaciones de compra presentaba alta correlacion negativa con la variable Abandono_Carro. 
 
-- **README.md**: Archivo README con información sobre el proyecto.
 
-- **environment.yml**: Archivo de configuración del entorno (si se utiliza).
+Luego procedimos a realizar 2 clusters con kmeans en el cual se obtuvieron resultados interesantes. Si uno analisa la cantidad de casos de usuarios que abandonan el carrito hay un total de 3668 y las personas que no abandonan serian de 616 sobre un total de 4284 observaciones, cuando se realiza los clusters se veia un comportamiento en cuanto la variable relevante Confirmaciones_Compra donde se agrupan 3348 observaciones en total teniendo dicha variable una inclinacion mas negativa siendo esta de -0.1849501, mientras que para nuestro otro clusters su inclinacion seria de 0.6708699 donde se nota una gran diferencia contra la otra donde se agrupan 923 observaciones. Esto nos lleva a la conclusion de que el usuario cuando no logra confirmar su compra tiende a abandonar el carrito pero en el caso opuesto el usuario no abandonara el carrito de compra virtual concluyendo la compra.
 
-## Requisitos
-Para ejecutar este proyecto, necesitarás instalar las siguientes dependencias:
-- Python 3.8+
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Seaborn
+Encontraran MAYOR detalle dentro de las carpetas del proyecto con su respectivo analisis
 
-Puedes instalar todas las dependencias utilizando `pip`:
 
-```sh
-pip install -r requirements.txt
-```
-
-## Presentacion del Proyecto
-![image](https://github.com/newneo4/c18-60-m-data-bi/assets/105571999/f9e02f40-bbc4-4d02-aacf-fe64600a3fbd)
-![image](https://github.com/newneo4/c18-60-m-data-bi/assets/105571999/e21c540c-0bd6-4014-bf6e-61274abfefc8)
-![image](https://github.com/newneo4/c18-60-m-data-bi/assets/105571999/730d4e1f-9d74-4d77-b0d0-6fef975e6a88)
-![image](https://github.com/newneo4/c18-60-m-data-bi/assets/105571999/5db02a65-502c-4bd1-8f8e-8d4bbf9b50f3)
-![image](https://github.com/newneo4/c18-60-m-data-bi/assets/105571999/b3b5e577-4f61-4438-9b42-f19d4fd9ed7b)
-![image](https://github.com/newneo4/c18-60-m-data-bi/assets/105571999/ea85036c-7330-4eef-a9e5-9222f7f1e77b)
-
-## Miembros del Equipo
-- Arelys Acevedo (<a href="https://www.linkedin.com/in/arelys-acevedo/">LinkedIn</a>)(Data Analyst)
-- Raul Almao (<a href="https://www.linkedin.com/in/ralmao/">LinkedIn</a>) (Data Scientist)
-- Nico Rodriguez (<a href="https://www.linkedin.com/in/nicodriguez3/">LinkedIn</a>)(Data Analyst) (Data Scientist)
-- Noe Machaca (<a href="https://www.linkedin.com/in/noe-ulises-machaca-chambilla-0a11472aa/">LinkedIn</a>) (ETL Developer)
 
 
 
